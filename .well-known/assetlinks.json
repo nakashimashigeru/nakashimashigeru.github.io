@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.otakuiq",
+      "sha256_cert_fingerprints": [
+        "24:E0:A0:30:65:7E:18:DC:B4:A5:B7:93:C5:9F:D8:37:86:EE:C3:ED:D8:D5:AA:CD:C9:A9:04:87:BE:11:98:F8"
+      ]
+    }
+  }
+]
