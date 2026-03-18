@@ -1,12 +1,15 @@
 [
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "app.otakuiq",
-      "sha256_cert_fingerprints": [
-        "24:E0:A0:30:65:7E:18:DC:B4:A5:B7:93:C5:9F:D8:37:86:EE:C3:ED:D8:D5:AA:CD:C9:A9:04:87:BE:11:98:F8"
-      ]
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "app.otakuiq",
+            "sha256_cert_fingerprints": [
+                "24:E0:A0:30:65:7E:18:DC:B4:A5:B7:93:C5:9F:D8:37:86:EE:C3:ED:D8:D5:AA:CD:C9:A9:04:87:BE:11:98:F8",
+                "D2:A5:F4:45:0A:82:C8:54:5F:9B:B2:75:A2:29:DF:93:87:F8:26:52:43:A0:D6:6F:5F:57:E7:34:7C:1B:D4:06"
+            ]
+        }
     }
-  }
 ]
