@@ -4,4 +4,4 @@ Disallow: /flutter_bootstrap.js
 Disallow: /splash/
 Disallow: /main.dart.js
 
-Sitemap: https://otakuiq.app/sitemap.xml
+Sitemap: https://nakashimashigeru.github.io/sitemap.xml
