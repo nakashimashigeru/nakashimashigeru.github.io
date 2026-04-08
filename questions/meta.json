@@ -1,0 +1,24 @@
+{
+  "last_updated": "2026-04-05T17:30:14.689894+00:00",
+  "categories": [
+    "anime",
+    "idols",
+    "culture",
+    "history",
+    "manga"
+  ],
+  "per_category": {
+    "anime_ja": 400,
+    "idols_ja": 406,
+    "culture_ja": 400,
+    "history_ja": 404,
+    "manga_ja": 421,
+    "anime_en": 397,
+    "idols_en": 418,
+    "culture_en": 400,
+    "history_en": 404,
+    "manga_en": 419
+  },
+  "ja_total": 2031,
+  "en_total": 2038
+}

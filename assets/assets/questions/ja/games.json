@@ -1,0 +1,4802 @@
+[
+  {
+    "question": "マリオシリーズの生みの親は？",
+    "options": [
+      "宮本茂",
+      "横井軍平",
+      "岩田聡",
+      "桜井政博"
+    ],
+    "correctIndex": 0,
+    "explanation": "宮本茂は「マリオ」「ゼルダの伝説」など数多くの任天堂作品を生み出したゲームデザイナーです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "ポケットモンスターの最初の作品は？",
+    "options": [
+      "赤・緑",
+      "金・銀",
+      "ルビー・サファイア",
+      "ダイヤモンド・パール"
+    ],
+    "correctIndex": 0,
+    "explanation": "1996年にゲームボーイで発売された「ポケットモンスター 赤・緑」がシリーズ第1作です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ゼルダの伝説」の主人公の名前は？",
+    "options": [
+      "リンク",
+      "ゼルダ",
+      "ガノン",
+      "シーク"
+    ],
+    "correctIndex": 0,
+    "explanation": "主人公はリンクです。ゼルダはハイラル王国の姫の名前です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "スーパーマリオブラザーズが発売されたゲーム機は？",
+    "options": [
+      "ファミリーコンピュータ",
+      "スーパーファミコン",
+      "ゲームボーイ",
+      "NINTENDO64"
+    ],
+    "correctIndex": 0,
+    "explanation": "1985年にファミリーコンピュータ（ファミコン）で発売されました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "ファイナルファンタジーシリーズの開発元は？",
+    "options": [
+      "スクウェア",
+      "エニックス",
+      "カプコン",
+      "コナミ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ファイナルファンタジーは1987年にスクウェア（現スクウェア・エニックス）から発売されました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "ドラゴンクエストシリーズの生みの親は？",
+    "options": [
+      "堀井雄二",
+      "坂口博信",
+      "小島秀夫",
+      "宮本茂"
+    ],
+    "correctIndex": 0,
+    "explanation": "堀井雄二はドラゴンクエストシリーズの生みの親で、ゲームデザインとシナリオを手掛けています。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "任天堂の本社がある都市は？",
+    "options": [
+      "京都",
+      "東京",
+      "大阪",
+      "名古屋"
+    ],
+    "correctIndex": 0,
+    "explanation": "任天堂の本社は京都市南区にあります。1889年に花札の製造会社として創業しました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「あつまれ どうぶつの森」が発売されたゲーム機は？",
+    "options": [
+      "Nintendo Switch",
+      "Nintendo 3DS",
+      "Wii U",
+      "Wii"
+    ],
+    "correctIndex": 0,
+    "explanation": "2020年3月にNintendo Switchで発売され、世界的な大ヒットとなりました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "ソニックシリーズを開発した会社は？",
+    "options": [
+      "セガ",
+      "任天堂",
+      "カプコン",
+      "ナムコ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ソニック・ザ・ヘッジホッグは1991年にセガが開発したアクションゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ストリートファイターII」を開発した会社は？",
+    "options": [
+      "カプコン",
+      "SNK",
+      "セガ",
+      "バンダイナムコ"
+    ],
+    "correctIndex": 0,
+    "explanation": "1991年にカプコンがアーケードで発売した対戦格闘ゲームの金字塔です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "マリオの職業は？",
+    "options": [
+      "配管工",
+      "大工",
+      "医者",
+      "レーサー"
+    ],
+    "correctIndex": 0,
+    "explanation": "マリオの職業は配管工（プラマー）として知られています。初期の設定では大工でした。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "ピカチュウのタイプは？",
+    "options": [
+      "でんき",
+      "ノーマル",
+      "ひこう",
+      "フェアリー"
+    ],
+    "correctIndex": 0,
+    "explanation": "ピカチュウはでんきタイプのポケモンで、ポケモンシリーズの看板キャラクターです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「テトリス」を考案した人物の出身国は？",
+    "options": [
+      "ロシア",
+      "日本",
+      "アメリカ",
+      "イギリス"
+    ],
+    "correctIndex": 0,
+    "explanation": "テトリスは1984年にロシア（当時ソ連）のアレクセイ・パジトノフが考案しました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「スプラトゥーン」で塗り合うインクの道具は？",
+    "options": [
+      "ブキ",
+      "筆",
+      "銃",
+      "バケツ"
+    ],
+    "correctIndex": 0,
+    "explanation": "スプラトゥーンではインクを撃つ様々な「ブキ」を使って地面を塗り合います。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「マインクラフト」の開発者は？",
+    "options": [
+      "マルクス・ペルソン",
+      "ジョン・カーマック",
+      "宮本茂",
+      "ハイタカ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Notchの愛称で知られるマルクス・ペルソンがマインクラフトを開発しました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "PlayStation を開発した会社は？",
+    "options": [
+      "ソニー",
+      "任天堂",
+      "セガ",
+      "マイクロソフト"
+    ],
+    "correctIndex": 0,
+    "explanation": "1994年にソニー・コンピュータエンタテインメントから初代PlayStationが発売されました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「大乱闘スマッシュブラザーズ」のディレクターは？",
+    "options": [
+      "桜井政博",
+      "宮本茂",
+      "青沼英二",
+      "野村哲也"
+    ],
+    "correctIndex": 0,
+    "explanation": "桜井政博は「大乱闘スマッシュブラザーズ」シリーズ全作のディレクターです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「モンスターハンター」シリーズの開発元は？",
+    "options": [
+      "カプコン",
+      "コーエーテクモ",
+      "フロム・ソフトウェア",
+      "スクウェア・エニックス"
+    ],
+    "correctIndex": 0,
+    "explanation": "モンスターハンターは2004年にカプコンが開発したアクションゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "初代「ドンキーコング」でマリオが助けるキャラは？",
+    "options": [
+      "レディ（ポリーン）",
+      "ピーチ姫",
+      "デイジー姫",
+      "ロゼッタ"
+    ],
+    "correctIndex": 0,
+    "explanation": "初代ドンキーコング（1981年）でマリオが助けるのはレディ（後のポリーン）です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「メタルギアソリッド」の生みの親は？",
+    "options": [
+      "小島秀夫",
+      "三上真司",
+      "宮崎英高",
+      "神谷英樹"
+    ],
+    "correctIndex": 0,
+    "explanation": "小島秀夫はメタルギアシリーズの生みの親で、ステルスアクションというジャンルを確立しました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「バイオハザード」の海外タイトルは？",
+    "options": [
+      "Resident Evil",
+      "Silent Hill",
+      "Dead Rising",
+      "Devil May Cry"
+    ],
+    "correctIndex": 0,
+    "explanation": "バイオハザードは海外では「Resident Evil」というタイトルで発売されています。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ファイナルファンタジーVII」の主人公は？",
+    "options": [
+      "クラウド",
+      "スコール",
+      "ジタン",
+      "ティーダ"
+    ],
+    "correctIndex": 0,
+    "explanation": "クラウド・ストライフはFF7の主人公で、バスターソードを振るう元ソルジャーです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ペルソナ5」の主人公の通称は？",
+    "options": [
+      "ジョーカー",
+      "番長",
+      "キタロー",
+      "ボーイ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ペルソナ5の主人公は怪盗団のリーダーで、コードネーム「ジョーカー」です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ダークソウル」シリーズの開発元は？",
+    "options": [
+      "フロム・ソフトウェア",
+      "カプコン",
+      "コナミ",
+      "スクウェア・エニックス"
+    ],
+    "correctIndex": 0,
+    "explanation": "フロム・ソフトウェアが開発した高難易度アクションRPGです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「エルデンリング」の世界観を共同制作した作家は？",
+    "options": [
+      "ジョージ・R・R・マーティン",
+      "J・R・R・トールキン",
+      "ブランドン・サンダーソン",
+      "宮崎駿"
+    ],
+    "correctIndex": 0,
+    "explanation": "「ゲーム・オブ・スローンズ」の原作者ジョージ・R・R・マーティンが神話体系を担当しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Nintendo Switchの発売年は？",
+    "options": [
+      "2017年",
+      "2015年",
+      "2019年",
+      "2016年"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nintendo Switchは2017年3月3日に発売されました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ゼルダの伝説 ブレス オブ ザ ワイルド」の舞台は？",
+    "options": [
+      "ハイラル",
+      "ターミナ",
+      "ホログラム",
+      "スカイロフト"
+    ],
+    "correctIndex": 0,
+    "explanation": "ブレス オブ ザ ワイルドの舞台は広大なオープンワールドのハイラルです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「星のカービィ」の生みの親は？",
+    "options": [
+      "桜井政博",
+      "宮本茂",
+      "岩田聡",
+      "横井軍平"
+    ],
+    "correctIndex": 0,
+    "explanation": "桜井政博が19歳の時にHAL研究所で「星のカービィ」を企画・開発しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「パックマン」を開発した会社は？",
+    "options": [
+      "ナムコ",
+      "タイトー",
+      "コナミ",
+      "セガ"
+    ],
+    "correctIndex": 0,
+    "explanation": "1980年にナムコ（現バンダイナムコ）が開発したアーケードゲームです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「スペースインベーダー」を開発した会社は？",
+    "options": [
+      "タイトー",
+      "ナムコ",
+      "セガ",
+      "カプコン"
+    ],
+    "correctIndex": 0,
+    "explanation": "1978年にタイトーが開発した日本初の大ヒットアーケードゲームです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「鉄拳」シリーズの開発元は？",
+    "options": [
+      "バンダイナムコ",
+      "カプコン",
+      "SNK",
+      "セガ"
+    ],
+    "correctIndex": 0,
+    "explanation": "鉄拳は1994年にナムコ（現バンダイナムコ）がアーケードで発売した3D格闘ゲームです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ドラゴンクエスト」シリーズのキャラクターデザインを担当したのは？",
+    "options": [
+      "鳥山明",
+      "天野喜孝",
+      "野村哲也",
+      "小林よしのり"
+    ],
+    "correctIndex": 0,
+    "explanation": "鳥山明は「ドラゴンボール」の作者であり、ドラゴンクエストシリーズのキャラクターデザインも手掛けました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ファイナルファンタジー」シリーズの生みの親は？",
+    "options": [
+      "坂口博信",
+      "堀井雄二",
+      "宮本茂",
+      "小島秀夫"
+    ],
+    "correctIndex": 0,
+    "explanation": "坂口博信はファイナルファンタジーシリーズの生みの親で、「最後の（ファイナル）作品」としてこの名前をつけました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ゼルダの伝説 時のオカリナ」が発売されたゲーム機は？",
+    "options": [
+      "NINTENDO64",
+      "ゲームキューブ",
+      "スーパーファミコン",
+      "Wii"
+    ],
+    "correctIndex": 0,
+    "explanation": "1998年にNINTENDO64で発売され、3Dアクションアドベンチャーの金字塔となりました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「クロノ・トリガー」の作曲を担当したのは？",
+    "options": [
+      "光田康典",
+      "植松伸夫",
+      "すぎやまこういち",
+      "近藤浩治"
+    ],
+    "correctIndex": 0,
+    "explanation": "光田康典が主要な楽曲を作曲し、植松伸夫と共に名曲の数々を生み出しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「MOTHER」シリーズの生みの親は？",
+    "options": [
+      "糸井重里",
+      "宮本茂",
+      "桜井政博",
+      "坂口博信"
+    ],
+    "correctIndex": 0,
+    "explanation": "コピーライターの糸井重里が企画・シナリオを担当したRPGシリーズです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ニーア オートマタ」の開発元は？",
+    "options": [
+      "プラチナゲームズ",
+      "スクウェア・エニックス",
+      "フロム・ソフトウェア",
+      "カプコン"
+    ],
+    "correctIndex": 0,
+    "explanation": "プラチナゲームズが開発し、スクウェア・エニックスが発売したアクションRPGです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ニーア オートマタ」のディレクターは？",
+    "options": [
+      "ヨコオタロウ",
+      "神谷英樹",
+      "三上真司",
+      "小島秀夫"
+    ],
+    "correctIndex": 0,
+    "explanation": "ヨコオタロウは独特な世界観とストーリーテリングで知られるゲームディレクターです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "初代「ストリートファイターII」で使えるキャラクター数は？",
+    "options": [
+      "8人",
+      "12人",
+      "16人",
+      "6人"
+    ],
+    "correctIndex": 0,
+    "explanation": "初代ストリートファイターIIで選択可能なキャラクターは8人です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ロックマン」の海外での名前は？",
+    "options": [
+      "Mega Man",
+      "Rock Man",
+      "Blue Bomber",
+      "Astro Boy"
+    ],
+    "correctIndex": 0,
+    "explanation": "ロックマンは海外では「Mega Man」という名前で知られています。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ポケモン」シリーズの生みの親は？",
+    "options": [
+      "田尻智",
+      "石原恒和",
+      "増田順一",
+      "杉森建"
+    ],
+    "correctIndex": 0,
+    "explanation": "田尻智は子供の頃の昆虫採集の体験をもとにポケモンを企画しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「デビルメイクライ」の主人公は？",
+    "options": [
+      "ダンテ",
+      "ネロ",
+      "バージル",
+      "スパーダ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ダンテは魔剣士スパーダの息子で、悪魔退治を生業とするデビルハンターです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「キングダムハーツ」でコラボしたアニメ会社は？",
+    "options": [
+      "ディズニー",
+      "ピクサー",
+      "ジブリ",
+      "ドリームワークス"
+    ],
+    "correctIndex": 0,
+    "explanation": "スクウェア（現スクエニ）とディズニーのコラボレーション作品です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「逆転裁判」シリーズの主人公は？",
+    "options": [
+      "成歩堂龍一",
+      "御剣怜侍",
+      "ゴドー",
+      "王泥喜法介"
+    ],
+    "correctIndex": 0,
+    "explanation": "成歩堂龍一は弁護士として法廷で無実の依頼人を守る主人公です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ゴッド・オブ・ウォー」の主人公は？",
+    "options": [
+      "クレイトス",
+      "アトレウス",
+      "ゼウス",
+      "アレス"
+    ],
+    "correctIndex": 0,
+    "explanation": "クレイトスはスパルタの戦士で、ギリシャ神話の神々と戦うキャラクターです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "世界で最も売れたゲームは？（2025年時点）",
+    "options": [
+      "マインクラフト",
+      "テトリス",
+      "GTA V",
+      "Wii Sports"
+    ],
+    "correctIndex": 0,
+    "explanation": "マインクラフトは3億本以上を売り上げ、世界で最も売れたゲームです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「フォートナイト」のゲームジャンルは？",
+    "options": [
+      "バトルロイヤル",
+      "MMORPG",
+      "FPS",
+      "シミュレーション"
+    ],
+    "correctIndex": 0,
+    "explanation": "フォートナイトは建築要素を組み合わせたバトルロイヤルゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「あつまれ どうぶつの森」で島の管理を手伝うキャラは？",
+    "options": [
+      "たぬきち",
+      "しずえ",
+      "つぶきち",
+      "まめきち"
+    ],
+    "correctIndex": 0,
+    "explanation": "たぬきちは無人島移住パッケージプランを提供し、島の開発を手伝います。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ドラゴンクエストV」の副題は？",
+    "options": [
+      "天空の花嫁",
+      "導かれし者たち",
+      "天空の城",
+      "幻の大地"
+    ],
+    "correctIndex": 0,
+    "explanation": "ドラゴンクエストVの副題は「天空の花嫁」で、親子三代の物語が描かれます。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ゼノブレイド」シリーズの開発元は？",
+    "options": [
+      "モノリスソフト",
+      "任天堂",
+      "アトラス",
+      "レベルファイブ"
+    ],
+    "correctIndex": 0,
+    "explanation": "モノリスソフトが開発し、任天堂が発売するRPGシリーズです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ペルソナ」シリーズの開発元は？",
+    "options": [
+      "アトラス",
+      "スクウェア・エニックス",
+      "レベルファイブ",
+      "日本ファルコム"
+    ],
+    "correctIndex": 0,
+    "explanation": "アトラスが開発するRPGシリーズで、「女神転生」シリーズの派生作品です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Ghost of Tsushima」の舞台となった島は？",
+    "options": [
+      "対馬",
+      "壱岐",
+      "五島列島",
+      "種子島"
+    ],
+    "correctIndex": 0,
+    "explanation": "モンゴル帝国の侵攻（元寇）時の対馬を舞台にしたオープンワールドゲームです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「スーパーマリオ64」で集めるアイテムは？",
+    "options": [
+      "パワースター",
+      "シャイン",
+      "グリーンスター",
+      "スーパースター"
+    ],
+    "correctIndex": 0,
+    "explanation": "スーパーマリオ64では全120個のパワースターを集めるのが目標です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ファイアーエムブレム」シリーズのジャンルは？",
+    "options": [
+      "シミュレーションRPG",
+      "アクションRPG",
+      "ターン制RPG",
+      "リアルタイムストラテジー"
+    ],
+    "correctIndex": 0,
+    "explanation": "ファイアーエムブレムはマス目上でユニットを動かすシミュレーションRPGです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「メトロイド」の主人公は？",
+    "options": [
+      "サムス・アラン",
+      "リンク",
+      "マリオ",
+      "カービィ"
+    ],
+    "correctIndex": 0,
+    "explanation": "サムス・アランはパワードスーツを着用した女性バウンティハンターです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「龍が如く」シリーズの主人公は？",
+    "options": [
+      "桐生一馬",
+      "真島吾朗",
+      "春日一番",
+      "秋山駿"
+    ],
+    "correctIndex": 0,
+    "explanation": "桐生一馬は初代から長く主人公を務めた伝説の極道キャラクターです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「リングフィットアドベンチャー」はどのようなゲーム？",
+    "options": [
+      "フィットネスRPG",
+      "音楽ゲーム",
+      "パズルゲーム",
+      "シューティング"
+    ],
+    "correctIndex": 0,
+    "explanation": "リングコンとレッグバンドを使って体を動かしながら冒険するフィットネスRPGです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「UNDERTALE」の開発者は？",
+    "options": [
+      "トビー・フォックス",
+      "エドモンド・マクミレン",
+      "フィル・フィッシュ",
+      "ジョナサン・ブロウ"
+    ],
+    "correctIndex": 0,
+    "explanation": "トビー・フォックスがほぼ一人で開発したインディーRPGです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "ゲームボーイの発売年は？",
+    "options": [
+      "1989年",
+      "1990年",
+      "1991年",
+      "1988年"
+    ],
+    "correctIndex": 0,
+    "explanation": "1989年に任天堂から発売された携帯型ゲーム機です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ドラゴンクエスト」シリーズの音楽を手掛けた作曲家は？",
+    "options": [
+      "すぎやまこういち",
+      "植松伸夫",
+      "近藤浩治",
+      "光田康典"
+    ],
+    "correctIndex": 0,
+    "explanation": "すぎやまこういちはドラゴンクエスト全作品の音楽を手掛けた作曲家です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ファイナルファンタジー」シリーズの音楽を手掛けた作曲家は？",
+    "options": [
+      "植松伸夫",
+      "すぎやまこういち",
+      "光田康典",
+      "下村陽子"
+    ],
+    "correctIndex": 0,
+    "explanation": "植松伸夫はFFシリーズの多くの楽曲を作曲した「FFの音楽の父」です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「マリオカート」シリーズで最も象徴的なアイテムは？",
+    "options": [
+      "赤こうら",
+      "バナナ",
+      "スター",
+      "キノコ"
+    ],
+    "correctIndex": 0,
+    "explanation": "赤こうらは前方のライバルを自動追尾する、マリオカートを代表するアイテムです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「スーパーマリオブラザーズ」のワールド数は？",
+    "options": [
+      "8",
+      "6",
+      "10",
+      "12"
+    ],
+    "correctIndex": 0,
+    "explanation": "スーパーマリオブラザーズは全8ワールド、各4ステージの構成です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ゼルダの伝説」シリーズで繰り返し登場する敵は？",
+    "options": [
+      "ガノンドロフ",
+      "クッパ",
+      "セフィロス",
+      "リドリー"
+    ],
+    "correctIndex": 0,
+    "explanation": "ガノンドロフ（ガノン）はゼルダシリーズを通じて登場する宿敵です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「スプラトゥーン」のイカの名前は？",
+    "options": [
+      "インクリング",
+      "オクタリアン",
+      "イカちゃん",
+      "スプラ"
+    ],
+    "correctIndex": 0,
+    "explanation": "プレイヤーが操作するイカの種族は「インクリング」と呼ばれます。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「SEKIRO: SHADOWS DIE TWICE」の開発元は？",
+    "options": [
+      "フロム・ソフトウェア",
+      "カプコン",
+      "プラチナゲームズ",
+      "Team Ninja"
+    ],
+    "correctIndex": 0,
+    "explanation": "フロム・ソフトウェアが開発した戦国時代を舞台としたアクションゲームです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ペルソナ4」の舞台は？",
+    "options": [
+      "田舎町・稲羽市",
+      "東京",
+      "京都",
+      "北海道"
+    ],
+    "correctIndex": 0,
+    "explanation": "ペルソナ4の舞台は架空の田舎町「稲羽市」で、連続殺人事件を追う物語です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ゼルダの伝説 ティアーズ オブ ザ キングダム」で追加された能力は？",
+    "options": [
+      "ウルトラハンド",
+      "マグネキャッチ",
+      "ビタロック",
+      "アイスメーカー"
+    ],
+    "correctIndex": 0,
+    "explanation": "ウルトラハンドは物を掴んで自由に組み合わせられる新能力です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「バイオハザード」の最初の舞台は？",
+    "options": [
+      "洋館",
+      "警察署",
+      "村",
+      "研究所"
+    ],
+    "correctIndex": 0,
+    "explanation": "初代バイオハザードの舞台はラクーンシティ郊外の不気味な洋館です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ポケモン」で最初に選べる3匹のタイプは？",
+    "options": [
+      "くさ・ほのお・みず",
+      "でんき・ほのお・みず",
+      "ノーマル・かくとう・ひこう",
+      "くさ・じめん・みず"
+    ],
+    "correctIndex": 0,
+    "explanation": "ポケモンシリーズでは伝統的にくさ・ほのお・みずの3タイプから御三家を選びます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「大神」の主人公は？",
+    "options": [
+      "アマテラス",
+      "スサノオ",
+      "イッスン",
+      "ワカ"
+    ],
+    "correctIndex": 0,
+    "explanation": "アマテラスは白い狼の姿をした太陽神で、筆しらべで世界を救います。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「MOTHER2」の海外タイトルは？",
+    "options": [
+      "EarthBound",
+      "Mother Earth",
+      "Gaia",
+      "Bound"
+    ],
+    "correctIndex": 0,
+    "explanation": "MOTHER2は海外では「EarthBound」として発売され、カルト的人気を獲得しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ファイナルファンタジーX」の主人公は？",
+    "options": [
+      "ティーダ",
+      "クラウド",
+      "スコール",
+      "ジタン"
+    ],
+    "correctIndex": 0,
+    "explanation": "ティーダはザナルカンドのブリッツボール選手で、異世界スピラに飛ばされます。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「モンスターハンター：ワールド」が特に売れた市場は？",
+    "options": [
+      "全世界",
+      "日本のみ",
+      "北米のみ",
+      "欧州のみ"
+    ],
+    "correctIndex": 0,
+    "explanation": "モンスターハンター：ワールドはシリーズ初の全世界同時発売で、2000万本以上を売り上げました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ピクミン」の主人公は？",
+    "options": [
+      "オリマー",
+      "ルーイ",
+      "ブリトニー",
+      "チャーリー"
+    ],
+    "correctIndex": 0,
+    "explanation": "キャプテン・オリマーは宇宙貨物会社のパイロットで、未知の惑星に不時着します。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「デス・ストランディング」の開発元は？",
+    "options": [
+      "コジマプロダクション",
+      "コナミ",
+      "カプコン",
+      "スクウェア・エニックス"
+    ],
+    "correctIndex": 0,
+    "explanation": "小島秀夫がコナミ退社後に設立したコジマプロダクションの第1作です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ゼノブレイド2」のメインヒロインは？",
+    "options": [
+      "ホムラ",
+      "フィオルン",
+      "ミオ",
+      "ニア"
+    ],
+    "correctIndex": 0,
+    "explanation": "ホムラ（ヒカリ）は主人公レックスのブレイドで、物語の鍵を握るヒロインです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ドラゴンクエストIII」の副題は？",
+    "options": [
+      "そして伝説へ…",
+      "導かれし者たち",
+      "天空の花嫁",
+      "幻の大地"
+    ],
+    "correctIndex": 0,
+    "explanation": "「そして伝説へ…」は勇者ロトの物語の起源を描いた名作RPGです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Wii Sports」に収録されているスポーツの数は？",
+    "options": [
+      "5種類",
+      "3種類",
+      "7種類",
+      "10種類"
+    ],
+    "correctIndex": 0,
+    "explanation": "テニス、ベースボール、ボウリング、ゴルフ、ボクシングの5種類です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「どうぶつの森」シリーズの最初の作品が発売されたゲーム機は？",
+    "options": [
+      "NINTENDO64",
+      "ゲームキューブ",
+      "ゲームボーイアドバンス",
+      "DS"
+    ],
+    "correctIndex": 0,
+    "explanation": "2001年にNINTENDO64で発売されました（日本のみ）。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「聖剣伝説」シリーズの開発元は？",
+    "options": [
+      "スクウェア",
+      "エニックス",
+      "カプコン",
+      "コナミ"
+    ],
+    "correctIndex": 0,
+    "explanation": "聖剣伝説はスクウェア（現スクウェア・エニックス）が開発したアクションRPGシリーズです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「Apex Legends」の開発元は？",
+    "options": [
+      "Respawn Entertainment",
+      "Epic Games",
+      "Riot Games",
+      "Valve"
+    ],
+    "correctIndex": 0,
+    "explanation": "タイタンフォールの開発元Respawn Entertainmentが手掛けたバトルロイヤルFPSです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「スーパーマリオギャラクシー」が発売されたゲーム機は？",
+    "options": [
+      "Wii",
+      "ゲームキューブ",
+      "Wii U",
+      "Nintendo Switch"
+    ],
+    "correctIndex": 0,
+    "explanation": "2007年にWiiで発売された、宇宙を舞台にした3Dマリオです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ポケモン 金・銀」で追加された要素は？",
+    "options": [
+      "昼夜の概念",
+      "メガシンカ",
+      "ダイマックス",
+      "Z技"
+    ],
+    "correctIndex": 0,
+    "explanation": "ポケモン金・銀ではリアルタイムの時計機能により昼夜の概念が導入されました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「スマブラSP」の参戦ファイター数は？（DLC含む）",
+    "options": [
+      "87体",
+      "74体",
+      "65体",
+      "100体"
+    ],
+    "correctIndex": 0,
+    "explanation": "スマブラSPはベースの74体にDLC13体を加え、シリーズ最多の全87体が参戦しています。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「VALORANT」の開発元は？",
+    "options": [
+      "Riot Games",
+      "Valve",
+      "Blizzard",
+      "Epic Games"
+    ],
+    "correctIndex": 0,
+    "explanation": "リーグ・オブ・レジェンドで知られるRiot Gamesが開発したタクティカルFPSです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「マリオ」が初めて登場したゲームは？",
+    "options": [
+      "ドンキーコング",
+      "マリオブラザーズ",
+      "スーパーマリオブラザーズ",
+      "ドンキーコングJr."
+    ],
+    "correctIndex": 0,
+    "explanation": "マリオは1981年のアーケードゲーム「ドンキーコング」で「ジャンプマン」として初登場しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「サイレントヒル」シリーズの開発元は？",
+    "options": [
+      "コナミ",
+      "カプコン",
+      "セガ",
+      "バンダイナムコ"
+    ],
+    "correctIndex": 0,
+    "explanation": "コナミが開発したサバイバルホラーゲームで、心理的恐怖が特徴です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ファイナルファンタジーXIV」のジャンルは？",
+    "options": [
+      "MMORPG",
+      "アクションRPG",
+      "シミュレーションRPG",
+      "ターン制RPG"
+    ],
+    "correctIndex": 0,
+    "explanation": "FF14はオンライン専用のMMORPGで、新生エオルゼアとして大成功を収めました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「レイトン教授」シリーズのジャンルは？",
+    "options": [
+      "ナゾトキ・アドベンチャー",
+      "アクションRPG",
+      "シミュレーション",
+      "パズルアクション"
+    ],
+    "correctIndex": 0,
+    "explanation": "レベルファイブが開発したナゾトキ（謎解き）アドベンチャーゲームです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「イカゲーム」ではなく「スプラトゥーン3」の最新モードは？",
+    "options": [
+      "サーモンラン",
+      "フェス",
+      "リーグマッチ",
+      "ヒーローモード"
+    ],
+    "correctIndex": 0,
+    "explanation": "サーモンランはシャケと戦う協力プレイモードで、スプラトゥーン2から登場しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「悪魔城ドラキュラ」の海外タイトルは？",
+    "options": [
+      "Castlevania",
+      "Dracula's Castle",
+      "Vampire Hunter",
+      "Dark Castle"
+    ],
+    "correctIndex": 0,
+    "explanation": "悪魔城ドラキュラシリーズは海外では「Castlevania」として知られています。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「グランツーリスモ」シリーズの開発者は？",
+    "options": [
+      "山内一典",
+      "鈴木裕",
+      "小島秀夫",
+      "名越稔洋"
+    ],
+    "correctIndex": 0,
+    "explanation": "山内一典はポリフォニー・デジタルの代表で、グランツーリスモの生みの親です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ぷよぷよ」の開発元は？",
+    "options": [
+      "コンパイル",
+      "セガ",
+      "テクモ",
+      "ハドソン"
+    ],
+    "correctIndex": 0,
+    "explanation": "ぷよぷよは1991年にコンパイルが開発した落ちものパズルゲームです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ファミコン」の正式名称は？",
+    "options": [
+      "ファミリーコンピュータ",
+      "ファミリーゲーム",
+      "ファミリーエンターテインメント",
+      "ファミリーステーション"
+    ],
+    "correctIndex": 0,
+    "explanation": "1983年に任天堂から発売された家庭用ゲーム機の正式名称です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「バーチャファイター」を開発した会社は？",
+    "options": [
+      "セガ",
+      "ナムコ",
+      "カプコン",
+      "SNK"
+    ],
+    "correctIndex": 0,
+    "explanation": "1993年にセガが発売した世界初の3D対戦格闘ゲームです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ゼルダの伝説 ムジュラの仮面」で繰り返される日数は？",
+    "options": [
+      "3日間",
+      "7日間",
+      "1日",
+      "5日間"
+    ],
+    "correctIndex": 0,
+    "explanation": "ムジュラの仮面では月が落ちるまでの3日間を繰り返しながら冒険します。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「妖怪ウォッチ」の開発元は？",
+    "options": [
+      "レベルファイブ",
+      "ゲームフリーク",
+      "アトラス",
+      "日本ファルコム"
+    ],
+    "correctIndex": 0,
+    "explanation": "レベルファイブが開発し、2013年に発売されたRPGです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ドラゴンクエストXI」の副題は？",
+    "options": [
+      "過ぎ去りし時を求めて",
+      "天空の花嫁",
+      "そして伝説へ…",
+      "星空の守り人"
+    ],
+    "correctIndex": 0,
+    "explanation": "2017年に発売された「過ぎ去りし時を求めて」はシリーズの集大成的作品です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ポケモンGO」の開発元は？",
+    "options": [
+      "ナイアンティック",
+      "ゲームフリーク",
+      "任天堂",
+      "ポケモン"
+    ],
+    "correctIndex": 0,
+    "explanation": "ナイアンティックが開発したARゲームで、2016年に世界的な社会現象となりました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ソウルキャリバー」シリーズの特徴は？",
+    "options": [
+      "武器格闘",
+      "素手格闘",
+      "ロボット格闘",
+      "魔法格闘"
+    ],
+    "correctIndex": 0,
+    "explanation": "ソウルキャリバーはキャラクターが剣や槍などの武器を使って戦う3D格闘ゲームです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ボンバーマン」の開発元は？",
+    "options": [
+      "ハドソン",
+      "コナミ",
+      "カプコン",
+      "ナムコ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ボンバーマンは1983年にハドソンが開発したアクションゲームです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ゼルダの伝説 風のタクト」のグラフィックスタイルは？",
+    "options": [
+      "トゥーンシェーディング",
+      "ドット絵",
+      "リアル調",
+      "水彩画風"
+    ],
+    "correctIndex": 0,
+    "explanation": "風のタクトはセルアニメ調のトゥーンシェーディングが特徴的な作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ポケモン ソード・シールド」の舞台のモデルは？",
+    "options": [
+      "イギリス",
+      "フランス",
+      "ハワイ",
+      "ニューヨーク"
+    ],
+    "correctIndex": 0,
+    "explanation": "ガラル地方はイギリスをモデルにした地方です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ポケモン X・Y」の舞台のモデルは？",
+    "options": [
+      "フランス",
+      "イギリス",
+      "日本",
+      "アメリカ"
+    ],
+    "correctIndex": 0,
+    "explanation": "カロス地方はフランスをモデルにした地方で、メガシンカが初登場しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ファイアーエムブレム 風花雪月」の舞台は？",
+    "options": [
+      "フォドラ",
+      "アカネイア",
+      "エレブ",
+      "テリウス"
+    ],
+    "correctIndex": 0,
+    "explanation": "風花雪月の舞台は三つの国が存在するフォドラ大陸で、士官学校の教師として物語が始まります。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ゲームボーイアドバンス」の発売年は？",
+    "options": [
+      "2001年",
+      "1999年",
+      "2003年",
+      "2000年"
+    ],
+    "correctIndex": 0,
+    "explanation": "2001年に任天堂から発売された携帯型ゲーム機です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「真・女神転生」シリーズの特徴的なシステムは？",
+    "options": [
+      "悪魔合体",
+      "ジョブチェンジ",
+      "召喚獣",
+      "ペルソナ"
+    ],
+    "correctIndex": 0,
+    "explanation": "悪魔を仲魔にし、合体させて新たな悪魔を生み出すシステムが特徴です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「スーパーファミコン」の発売年は？",
+    "options": [
+      "1990年",
+      "1988年",
+      "1992年",
+      "1991年"
+    ],
+    "correctIndex": 0,
+    "explanation": "1990年11月21日に日本で発売されました。海外では1991年発売です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「カービィ」のコピー能力が初めて登場した作品は？",
+    "options": [
+      "星のカービィ 夢の泉の物語",
+      "星のカービィ",
+      "カービィのエアライド",
+      "星のカービィ3"
+    ],
+    "correctIndex": 0,
+    "explanation": "初代「星のカービィ」にはコピー能力がなく、2作目の「夢の泉の物語」で初登場しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「イース」シリーズの開発元は？",
+    "options": [
+      "日本ファルコム",
+      "スクウェア",
+      "アトラス",
+      "レベルファイブ"
+    ],
+    "correctIndex": 0,
+    "explanation": "日本ファルコムが1987年に開発したアクションRPGシリーズです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「リーグ・オブ・レジェンド」のジャンルは？",
+    "options": [
+      "MOBA",
+      "FPS",
+      "MMORPG",
+      "バトルロイヤル"
+    ],
+    "correctIndex": 0,
+    "explanation": "LoLはMultiplayer Online Battle Arena（MOBA）の代表的なタイトルです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「桃太郎電鉄」シリーズの開発元は？",
+    "options": [
+      "ハドソン",
+      "コナミ",
+      "任天堂",
+      "バンダイナムコ"
+    ],
+    "correctIndex": 0,
+    "explanation": "桃太郎電鉄はハドソンが開発したボードゲームシリーズです（現在はコナミが権利を保有）。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ポケモン」のジムバッジを全て集めた後に挑戦するのは？",
+    "options": [
+      "ポケモンリーグ",
+      "バトルタワー",
+      "チャンピオンロード",
+      "バトルフロンティア"
+    ],
+    "correctIndex": 0,
+    "explanation": "8つのジムバッジを集めた後、ポケモンリーグで四天王とチャンピオンに挑戦します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「Hollow Knight」のジャンルは？",
+    "options": [
+      "メトロイドヴァニア",
+      "ローグライク",
+      "タワーディフェンス",
+      "パズルアクション"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hollow Knightは広大な地下世界を探索するメトロイドヴァニア系アクションゲームです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ポケモン サン・ムーン」の舞台のモデルは？",
+    "options": [
+      "ハワイ",
+      "イギリス",
+      "フランス",
+      "オーストラリア"
+    ],
+    "correctIndex": 0,
+    "explanation": "アローラ地方はハワイ諸島をモデルにしており、ジムの代わりに島めぐりの試練があります。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「スターフォックス」の主人公は？",
+    "options": [
+      "フォックス・マクラウド",
+      "ファルコ",
+      "ペッピー",
+      "スリッピー"
+    ],
+    "correctIndex": 0,
+    "explanation": "フォックス・マクラウドはスターフォックスチームのリーダーで、アーウィンを操縦します。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「牧場物語」シリーズのジャンルは？",
+    "options": [
+      "農場シミュレーション",
+      "アクションRPG",
+      "パズル",
+      "ストラテジー"
+    ],
+    "correctIndex": 0,
+    "explanation": "牧場物語は農作業や動物の世話をしながら生活する農場シミュレーションゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「マリオパーティ」の最初の作品が発売されたゲーム機は？",
+    "options": [
+      "NINTENDO64",
+      "ゲームキューブ",
+      "Wii",
+      "スーパーファミコン"
+    ],
+    "correctIndex": 0,
+    "explanation": "1998年にNINTENDO64で初代マリオパーティが発売されました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「バンジョーとカズーイの大冒険」の開発元は？",
+    "options": [
+      "レア",
+      "任天堂",
+      "HAL研究所",
+      "ゲームフリーク"
+    ],
+    "correctIndex": 0,
+    "explanation": "レア社が開発し、1998年にNINTENDO64で発売された3Dアクションゲームです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「シェンムー」の開発者は？",
+    "options": [
+      "鈴木裕",
+      "名越稔洋",
+      "小島秀夫",
+      "三上真司"
+    ],
+    "correctIndex": 0,
+    "explanation": "鈴木裕はセガのゲームデザイナーで、シェンムーやバーチャファイターの生みの親です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「天穂のサクナヒメ」のジャンルは？",
+    "options": [
+      "稲作アクションRPG",
+      "農場シミュレーション",
+      "パズルゲーム",
+      "ターン制RPG"
+    ],
+    "correctIndex": 0,
+    "explanation": "本格的な稲作シミュレーションと横スクロールアクションを融合した独自のゲームです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「スプラトゥーン」シリーズが発売された最初のゲーム機は？",
+    "options": [
+      "Wii U",
+      "Nintendo Switch",
+      "Nintendo 3DS",
+      "Wii"
+    ],
+    "correctIndex": 0,
+    "explanation": "初代スプラトゥーンは2015年にWii Uで発売されました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ポケモン」のタマゴシステムが初登場した作品は？",
+    "options": [
+      "金・銀",
+      "赤・緑",
+      "ルビー・サファイア",
+      "ダイヤモンド・パール"
+    ],
+    "correctIndex": 0,
+    "explanation": "ポケモンの育て屋でタマゴが見つかるシステムは金・銀で初導入されました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「デッドバイデイライト」のジャンルは？",
+    "options": [
+      "非対称対戦ホラー",
+      "サバイバルホラー",
+      "FPS",
+      "ステルスアクション"
+    ],
+    "correctIndex": 0,
+    "explanation": "1人の殺人鬼と4人の生存者が対戦する非対称マルチプレイホラーゲームです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「風来のシレン」のジャンルは？",
+    "options": [
+      "ローグライク",
+      "アクションRPG",
+      "シミュレーションRPG",
+      "パズル"
+    ],
+    "correctIndex": 0,
+    "explanation": "入るたびにダンジョンが変わるローグライクRPGの代表的な日本作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「太鼓の達人」の開発元は？",
+    "options": [
+      "バンダイナムコ",
+      "コナミ",
+      "セガ",
+      "カプコン"
+    ],
+    "correctIndex": 0,
+    "explanation": "2001年にナムコ（現バンダイナムコ）がアーケードで発売した和太鼓リズムゲームです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ドラゴンクエスト」の第1作が発売された年は？",
+    "options": [
+      "1986年",
+      "1985年",
+      "1987年",
+      "1988年"
+    ],
+    "correctIndex": 0,
+    "explanation": "1986年5月27日にファミリーコンピュータで発売されました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ポケモン」の図鑑番号001は？",
+    "options": [
+      "フシギダネ",
+      "ピカチュウ",
+      "ヒトカゲ",
+      "ゼニガメ"
+    ],
+    "correctIndex": 0,
+    "explanation": "全国図鑑の番号001はくさ・どくタイプのフシギダネです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ゲーム・オブ・ザ・イヤー」を受賞した「ゼルダの伝説 ティアーズ オブ ザ キングダム」の発売年は？",
+    "options": [
+      "2023年",
+      "2022年",
+      "2024年",
+      "2021年"
+    ],
+    "correctIndex": 0,
+    "explanation": "2023年5月12日にNintendo Switchで発売されました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ポケモンスカーレット・バイオレット」の舞台のモデルは？",
+    "options": [
+      "スペイン",
+      "イタリア",
+      "ポルトガル",
+      "ギリシャ"
+    ],
+    "correctIndex": 0,
+    "explanation": "パルデア地方はスペインのイベリア半島をモデルにした地方です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「原神」の開発元は？",
+    "options": [
+      "miHoYo（HoYoverse）",
+      "テンセント",
+      "NetEase",
+      "バンダイナムコ"
+    ],
+    "correctIndex": 0,
+    "explanation": "中国のmiHoYo（現HoYoverse）が開発したオープンワールドアクションRPGです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Stardew Valley」の開発者は？",
+    "options": [
+      "エリック・バロン",
+      "トビー・フォックス",
+      "ノッチ",
+      "エドモンド・マクミレン"
+    ],
+    "correctIndex": 0,
+    "explanation": "ConcernedApeことエリック・バロンが一人で開発した農場シミュレーションRPGです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「塊魂」の開発者は？",
+    "options": [
+      "高橋慶太",
+      "小島秀夫",
+      "三上真司",
+      "神谷英樹"
+    ],
+    "correctIndex": 0,
+    "explanation": "高橋慶太がディレクターを務めた、塊を転がして物を巻き込む独創的なゲームです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ウマ娘 プリティーダービー」の開発元は？",
+    "options": [
+      "Cygames",
+      "DeNA",
+      "mixi",
+      "ガンホー"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cygamesが開発した、実在の競走馬を擬人化した育成シミュレーションゲームです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Fate/Grand Order」の略称は？",
+    "options": [
+      "FGO",
+      "FGR",
+      "FTO",
+      "FSO"
+    ],
+    "correctIndex": 0,
+    "explanation": "FGOはTYPE-MOONのFateシリーズを原作としたスマートフォン向けRPGです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「モンスターストライク」の開発元は？",
+    "options": [
+      "mixi",
+      "ガンホー",
+      "Cygames",
+      "DeNA"
+    ],
+    "correctIndex": 0,
+    "explanation": "mixiが開発した引っ張りハンティングRPGで、日本で大ヒットしたスマホゲームです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「パズル＆ドラゴンズ」の開発元は？",
+    "options": [
+      "ガンホー",
+      "mixi",
+      "Cygames",
+      "コロプラ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ガンホーが開発したパズルRPGで、日本のスマホゲーム市場を切り開いた作品です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ベヨネッタ」の開発元は？",
+    "options": [
+      "プラチナゲームズ",
+      "カプコン",
+      "チームニンジャ",
+      "フロム・ソフトウェア"
+    ],
+    "correctIndex": 0,
+    "explanation": "プラチナゲームズが開発した魔女が主人公のスタイリッシュアクションゲームです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ゼルダの伝説」シリーズでリンクが使う楽器といえば？",
+    "options": [
+      "オカリナ",
+      "ハープ",
+      "リコーダー",
+      "フルート"
+    ],
+    "correctIndex": 0,
+    "explanation": "「時のオカリナ」をはじめ、オカリナはゼルダシリーズの象徴的なアイテムです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「FINAL FANTASY VII REMAKE」の発売年は？",
+    "options": [
+      "2020年",
+      "2019年",
+      "2021年",
+      "2018年"
+    ],
+    "correctIndex": 0,
+    "explanation": "2020年4月10日にPS4で発売されました。原作は1997年発売です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ゼルダの伝説」の第1作が発売された年は？",
+    "options": [
+      "1986年",
+      "1985年",
+      "1987年",
+      "1988年"
+    ],
+    "correctIndex": 0,
+    "explanation": "1986年2月21日にファミリーコンピュータ ディスクシステムで発売されました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Xbox を開発した会社は？",
+    "options": [
+      "マイクロソフト",
+      "ソニー",
+      "セガ",
+      "任天堂"
+    ],
+    "correctIndex": 0,
+    "explanation": "2001年にマイクロソフトから初代Xboxが発売されました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「スーパーマリオRPG」の開発に協力した会社は？",
+    "options": [
+      "スクウェア",
+      "エニックス",
+      "カプコン",
+      "コナミ"
+    ],
+    "correctIndex": 0,
+    "explanation": "任天堂とスクウェアが共同開発した、マリオ初のRPGです（1996年発売）。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ドラゴンボールZ カカロット」のジャンルは？",
+    "options": [
+      "アクションRPG",
+      "格闘ゲーム",
+      "シューティング",
+      "シミュレーション"
+    ],
+    "correctIndex": 0,
+    "explanation": "ドラゴンボールZの物語を追体験できるアクションRPGです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Minecraft Dungeons」のジャンルは？",
+    "options": [
+      "ダンジョンクローラー",
+      "サンドボックス",
+      "FPS",
+      "パズル"
+    ],
+    "correctIndex": 0,
+    "explanation": "マインクラフトの世界を舞台にしたアクションアドベンチャー（ハクスラ）です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ポケモンレジェンズ アルセウス」の特徴は？",
+    "options": [
+      "オープンワールド探索",
+      "ターン制バトルのみ",
+      "2D横スクロール",
+      "タワーディフェンス"
+    ],
+    "correctIndex": 0,
+    "explanation": "シリーズ初のオープンワールド的なフィールドでポケモンを直接捕まえる新システムです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Cuphead」のアートスタイルは？",
+    "options": [
+      "1930年代カートゥーン",
+      "ドット絵",
+      "水彩画",
+      "アニメ風"
+    ],
+    "correctIndex": 0,
+    "explanation": "1930年代のカートゥーンアニメーションを手描きで再現した独特なビジュアルです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「スマブラ」シリーズの最初の作品が発売されたゲーム機は？",
+    "options": [
+      "NINTENDO64",
+      "ゲームキューブ",
+      "Wii",
+      "スーパーファミコン"
+    ],
+    "correctIndex": 0,
+    "explanation": "1999年にNINTENDO64で初代「ニンテンドウオールスター! 大乱闘スマッシュブラザーズ」が発売されました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Hades」のジャンルは？",
+    "options": [
+      "ローグライク",
+      "メトロイドヴァニア",
+      "ターン制RPG",
+      "タワーディフェンス"
+    ],
+    "correctIndex": 0,
+    "explanation": "ギリシャ神話を題材にしたローグライクアクションで、数々のGOTYを受賞しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「Among Us」のゲーム内容は？",
+    "options": [
+      "人狼系推理",
+      "バトルロイヤル",
+      "脱出ゲーム",
+      "協力サバイバル"
+    ],
+    "correctIndex": 0,
+    "explanation": "宇宙船内でインポスター（人狼）を見つけ出す、人狼系のソーシャルゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「Fall Guys」のジャンルは？",
+    "options": [
+      "バトルロイヤルパーティー",
+      "FPS",
+      "レースゲーム",
+      "格闘ゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "最大60人が障害物レースやミニゲームで競うバトルロイヤルパーティーゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「It Takes Two」の特徴は？",
+    "options": [
+      "2人協力プレイ専用",
+      "ソロプレイ専用",
+      "最大100人対戦",
+      "VR専用"
+    ],
+    "correctIndex": 0,
+    "explanation": "2人協力プレイ専用のアクションアドベンチャーで、2021年のGOTYを受賞しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ワンダと巨像」の目的は？",
+    "options": [
+      "巨像を倒す",
+      "ダンジョンを探索する",
+      "街を建設する",
+      "仲間を集める"
+    ],
+    "correctIndex": 0,
+    "explanation": "少女を蘇らせるため、広大な禁断の地で16体の巨像を探し出して倒すゲームです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「トモダチコレクション」の開発元は？",
+    "options": [
+      "任天堂",
+      "レベルファイブ",
+      "カプコン",
+      "バンダイナムコ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Miiを使ったコミュニケーションゲームで、任天堂が開発しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ロケットリーグ」のゲーム内容は？",
+    "options": [
+      "車でサッカー",
+      "車でバスケ",
+      "車でレース",
+      "車で野球"
+    ],
+    "correctIndex": 0,
+    "explanation": "ロケット付きの車を操作してサッカーをする対戦スポーツゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ファイナルファンタジーVI」の主人公は？",
+    "options": [
+      "ティナ",
+      "セリス",
+      "ロック",
+      "エドガー"
+    ],
+    "correctIndex": 0,
+    "explanation": "ティナ・ブランフォードは魔導の力を持つ少女で、FF6のメイン主人公です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「クラッシュ・バンディクー」の開発元は？",
+    "options": [
+      "Naughty Dog",
+      "Insomniac Games",
+      "Sucker Punch",
+      "Santa Monica Studio"
+    ],
+    "correctIndex": 0,
+    "explanation": "初代クラッシュ・バンディクーはNaughty Dogが開発し、1996年にPSで発売されました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ポケモン」で「みずタイプ」に強いタイプは？",
+    "options": [
+      "くさ",
+      "ほのお",
+      "じめん",
+      "いわ"
+    ],
+    "correctIndex": 0,
+    "explanation": "くさタイプとでんきタイプはみずタイプに対して効果抜群です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ファイナルファンタジーXV」の主人公は？",
+    "options": [
+      "ノクティス",
+      "クラウド",
+      "ライトニング",
+      "ティーダ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ノクティスはルシス王国の王子で、仲間と共にロードトリップの旅に出ます。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「モンスターハンターライズ」の新要素は？",
+    "options": [
+      "翔蟲",
+      "スリンガー",
+      "乗り",
+      "狩猟スタイル"
+    ],
+    "correctIndex": 0,
+    "explanation": "翔蟲（かけりむし）は空中移動やアクションを可能にするライズの新要素です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「スーパーマリオサンシャイン」の舞台は？",
+    "options": [
+      "ドルピック島",
+      "ピーチ城",
+      "クッパ城",
+      "キノコ王国"
+    ],
+    "correctIndex": 0,
+    "explanation": "南国のリゾート地ドルピック島を舞台に、ポンプで落書きを消しながら冒険します。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「Ghost of Tsushima」の主人公は？",
+    "options": [
+      "境井仁",
+      "赤穂浪士",
+      "宮本武蔵",
+      "服部半蔵"
+    ],
+    "correctIndex": 0,
+    "explanation": "境井仁（さかいじん）は対馬の侍で、モンゴル軍の侵攻に立ち向かいます。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「スーパーマリオ オデッセイ」でマリオが使う帽子の名前は？",
+    "options": [
+      "キャッピー",
+      "マリオキャップ",
+      "カブロン",
+      "ハッティー"
+    ],
+    "correctIndex": 0,
+    "explanation": "キャッピーは帽子の国の住人で、マリオの帽子に憑依してキャプチャー能力を与えます。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「グラブル」の正式名称は？",
+    "options": [
+      "グランブルーファンタジー",
+      "グランドブルーファンタジー",
+      "グレートブルーファンタジー",
+      "グランブレイドファンタジー"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cygamesが開発した「グランブルーファンタジー」の略称です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ドラゴンクエスト」で教会でできることは？",
+    "options": [
+      "セーブ（おいのりをする）",
+      "買い物",
+      "転職",
+      "合成"
+    ],
+    "correctIndex": 0,
+    "explanation": "ドラゴンクエストシリーズでは教会で冒険の書（セーブ）を記録できます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ポケモン」のポケモンセンターで無料でできることは？",
+    "options": [
+      "ポケモンの回復",
+      "アイテム購入",
+      "ポケモン交換",
+      "技マシン使用"
+    ],
+    "correctIndex": 0,
+    "explanation": "ポケモンセンターではポケモンのHP・PPを無料で全回復できます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ワリオ」はマリオにとってどんな存在？",
+    "options": [
+      "ライバル",
+      "弟",
+      "息子",
+      "師匠"
+    ],
+    "correctIndex": 0,
+    "explanation": "ワリオはマリオのライバルで、「Mario」を逆さにした「Wario」が名前の由来です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ルイージマンション」でルイージが使う道具は？",
+    "options": [
+      "オバキューム",
+      "掃除機",
+      "懐中電灯",
+      "カメラ"
+    ],
+    "correctIndex": 0,
+    "explanation": "オバキュームはオバケを吸い込むための特殊な掃除機型の装置です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ドラゴンクエスト」シリーズで最も有名なモンスターは？",
+    "options": [
+      "スライム",
+      "ドラゴン",
+      "ゴーレム",
+      "キメラ"
+    ],
+    "correctIndex": 0,
+    "explanation": "スライムはドラゴンクエストシリーズのマスコットキャラクターです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ポケモン」のイーブイの進化先の数は？（第9世代まで）",
+    "options": [
+      "8種類",
+      "6種類",
+      "10種類",
+      "5種類"
+    ],
+    "correctIndex": 0,
+    "explanation": "シャワーズ、サンダース、ブースター、エーフィ、ブラッキー、リーフィア、グレイシア、ニンフィアの8種類です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ゼルダの伝説」でリンクが集める三角形のアイテムは？",
+    "options": [
+      "トライフォース",
+      "クリスタル",
+      "マスターソード",
+      "ハートのかけら"
+    ],
+    "correctIndex": 0,
+    "explanation": "トライフォースは力・知恵・勇気の3つの三角形で構成される聖なる遺物です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ドンキーコング」のネクタイの色は？",
+    "options": [
+      "赤",
+      "青",
+      "緑",
+      "黄"
+    ],
+    "correctIndex": 0,
+    "explanation": "ドンキーコングは「DK」のイニシャルが入った赤いネクタイがトレードマークです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「聖剣伝説 Legend of Mana」のリマスター版が発売された年は？",
+    "options": [
+      "2021年",
+      "2020年",
+      "2022年",
+      "2019年"
+    ],
+    "correctIndex": 0,
+    "explanation": "2021年にHDリマスター版がPS4、Nintendo Switch、PCで発売されました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ポケモンユナイト」のジャンルは？",
+    "options": [
+      "MOBA",
+      "バトルロイヤル",
+      "ターン制RPG",
+      "格闘ゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "ポケモンを使った5対5のチーム戦略バトル（MOBA）です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「あつまれ どうぶつの森」で毎週日曜に来る訪問者は？",
+    "options": [
+      "ウリ",
+      "つねきち",
+      "ジョニー",
+      "レイジ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ウリは毎週日曜の午前中にカブを売りに来る子イノシシです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Splatoon 3」の舞台は？",
+    "options": [
+      "バンカラ地方",
+      "ハイカラ地方",
+      "インクポリス",
+      "テンタクルズ"
+    ],
+    "correctIndex": 0,
+    "explanation": "スプラトゥーン3の舞台は荒野が広がるバンカラ地方で、バンカラ街が拠点です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ポケモン」でポケモンを捕まえるために使うのは？",
+    "options": [
+      "モンスターボール",
+      "ポケボール",
+      "キャプチャーボール",
+      "バトルボール"
+    ],
+    "correctIndex": 0,
+    "explanation": "モンスターボールは野生のポケモンを捕まえるための基本的なアイテムです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「リズム天国」の開発元は？",
+    "options": [
+      "任天堂",
+      "コナミ",
+      "バンダイナムコ",
+      "セガ"
+    ],
+    "correctIndex": 0,
+    "explanation": "任天堂が開発したリズムアクションゲームで、つんく♂が音楽を担当しています。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「FINAL FANTASY XVI」のプロデューサーは？",
+    "options": [
+      "吉田直樹",
+      "野村哲也",
+      "北瀬佳範",
+      "坂口博信"
+    ],
+    "correctIndex": 0,
+    "explanation": "FF14の立て直しで知られる吉田直樹がプロデューサーを務めました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「マリオ」シリーズでマリオの弟は？",
+    "options": [
+      "ルイージ",
+      "ワリオ",
+      "ワルイージ",
+      "キノピオ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ルイージはマリオの双子の弟で、緑の帽子とオーバーオールが特徴です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「Celeste」のジャンルは？",
+    "options": [
+      "精密プラットフォーマー",
+      "メトロイドヴァニア",
+      "ローグライク",
+      "パズル"
+    ],
+    "correctIndex": 0,
+    "explanation": "セレステ山の頂上を目指す精密プラットフォーマーで、メンタルヘルスをテーマにした物語です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ソニック」のライバルキャラは？",
+    "options": [
+      "シャドウ",
+      "テイルス",
+      "ナックルズ",
+      "エッグマン"
+    ],
+    "correctIndex": 0,
+    "explanation": "シャドウ・ザ・ヘッジホッグはソニックのライバルとして登場するダークヒーローです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「鬼滅の刃 ヒノカミ血風譚」のジャンルは？",
+    "options": [
+      "対戦アクション",
+      "RPG",
+      "シミュレーション",
+      "パズル"
+    ],
+    "correctIndex": 0,
+    "explanation": "鬼滅の刃を原作としたサイバーコネクトツー開発の対戦アクションゲームです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ゼルダの伝説 スカイウォードソード」の操作の特徴は？",
+    "options": [
+      "モーションコントロール剣術",
+      "タッチスクリーン操作",
+      "ボイスコマンド",
+      "ジャイロ操作のみ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wiiリモコンプラスを剣に見立てた1:1のモーションコントロール剣術が特徴です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「マリオカート8 デラックス」が発売されたゲーム機は？",
+    "options": [
+      "Nintendo Switch",
+      "Wii U",
+      "Nintendo 3DS",
+      "Wii"
+    ],
+    "correctIndex": 0,
+    "explanation": "2017年にNintendo Switchで発売されたマリオカートシリーズの作品です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ドラゴンクエスト」でHP回復の呪文は？",
+    "options": [
+      "ホイミ",
+      "メラ",
+      "ルーラ",
+      "ギラ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ホイミはドラゴンクエストシリーズの基本的なHP回復呪文です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ポケモン」で最初のジムリーダーの得意タイプ（赤・緑）は？",
+    "options": [
+      "いわ",
+      "みず",
+      "くさ",
+      "でんき"
+    ],
+    "correctIndex": 0,
+    "explanation": "ニビシティのタケシがいわタイプのジムリーダーとして最初に立ちはだかります。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ゲームセンターCX」の出演者は？",
+    "options": [
+      "有野晋哉",
+      "松本人志",
+      "浜田雅功",
+      "岡村隆史"
+    ],
+    "correctIndex": 0,
+    "explanation": "よゐこの有野晋哉がレトロゲームに挑戦するバラエティ番組です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「モンスターハンター」シリーズで素材を集める目的は？",
+    "options": [
+      "武器・防具の生産強化",
+      "レベルアップ",
+      "魔法の習得",
+      "仲間の雇用"
+    ],
+    "correctIndex": 0,
+    "explanation": "モンスターから得た素材で武器や防具を生産・強化するのがゲームの核心です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ファイアーエムブレム」でユニットが倒されるとどうなる？（クラシックモード）",
+    "options": [
+      "永久に離脱",
+      "次のステージで復活",
+      "HPが1で生存",
+      "自動回復"
+    ],
+    "correctIndex": 0,
+    "explanation": "クラシックモードでは倒されたユニットは二度と使えなくなるロスト制が特徴です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ポケモン」の伝説のポケモン・ミュウツーはどこで作られた？",
+    "options": [
+      "ポケモン屋敷",
+      "シルフカンパニー",
+      "トキワの森",
+      "グレンタウン"
+    ],
+    "correctIndex": 0,
+    "explanation": "ミュウツーはグレン島のポケモン屋敷でミュウの遺伝子から作られた人造ポケモンです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「バルダーズ・ゲート3」の開発元は？",
+    "options": [
+      "Larian Studios",
+      "BioWare",
+      "Obsidian",
+      "Bethesda"
+    ],
+    "correctIndex": 0,
+    "explanation": "ベルギーのLarian Studiosが開発し、2023年のGOTYを受賞したRPGです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「FINAL FANTASY」のタイトルに「ファイナル」がつけられた理由は？",
+    "options": [
+      "会社存続をかけた最後の作品だったから",
+      "最終兵器がテーマだから",
+      "ゲームの最終面が印象的だから",
+      "最後の幻想を描くから"
+    ],
+    "correctIndex": 0,
+    "explanation": "開発元スクウェアの経営難の中、最後の作品になるかもしれないとして名付けられました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ニンテンドーDS」の特徴は？",
+    "options": [
+      "2画面+タッチスクリーン",
+      "3D表示",
+      "HD振動",
+      "モーションコントロール"
+    ],
+    "correctIndex": 0,
+    "explanation": "2004年に発売され、2画面構成とタッチスクリーンが革新的でした。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「スマブラ」で最初から使えないキャラを出す方法は？",
+    "options": [
+      "特定条件を満たして解放",
+      "DLCを購入",
+      "課金アイテムを使用",
+      "オンライン対戦で勝つ"
+    ],
+    "correctIndex": 0,
+    "explanation": "スマブラSPでは特定の条件を満たすか、挑戦者として現れるファイターに勝利して解放します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ドラゴンクエスト」で宿屋の役割は？",
+    "options": [
+      "HP・MPの全回復",
+      "セーブする",
+      "武器を買う",
+      "転職する"
+    ],
+    "correctIndex": 0,
+    "explanation": "宿屋に泊まるとゴールドを支払ってHP・MPを全回復できます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ポケモン」のチャンピオン（赤・緑）は誰？",
+    "options": [
+      "ライバル（グリーン）",
+      "レッド",
+      "ワタル",
+      "シバ"
+    ],
+    "correctIndex": 0,
+    "explanation": "初代ポケモンでは幼馴染のライバル（グリーン/オーキド）が先にチャンピオンになっています。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「パルワールド」の特徴は？",
+    "options": [
+      "モンスター捕獲+サバイバル",
+      "カードバトル",
+      "ターン制RPG",
+      "音楽ゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "パルと呼ばれるモンスターを捕獲し、労働力として使うオープンワールドサバイバルゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「黒神話：悟空」の題材は？",
+    "options": [
+      "西遊記",
+      "三国志",
+      "水滸伝",
+      "封神演義"
+    ],
+    "correctIndex": 0,
+    "explanation": "中国の古典小説「西遊記」を題材にしたアクションRPGで、2024年に大ヒットしました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ヨッシーアイランド」の主人公は？",
+    "options": [
+      "ヨッシー",
+      "マリオ",
+      "ルイージ",
+      "キノピオ"
+    ],
+    "correctIndex": 0,
+    "explanation": "赤ちゃんマリオを背中に乗せたヨッシーが主人公のアクションゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ゼルダの伝説」のヒロインの名前は？",
+    "options": [
+      "リンク",
+      "ゼルダ",
+      "ミドナ",
+      "インパ"
+    ],
+    "correctIndex": 1,
+    "explanation": "タイトルにもなっているゼルダ姫がヒロインです。主人公はリンクです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「F-ZERO」のジャンルは？",
+    "options": [
+      "近未来レースゲーム",
+      "シューティング",
+      "格闘ゲーム",
+      "パズル"
+    ],
+    "correctIndex": 0,
+    "explanation": "超高速の近未来レースゲームで、キャプテン・ファルコンが代表キャラです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ポケモン」のミュウは第何世代？",
+    "options": [
+      "第1世代",
+      "第2世代",
+      "第3世代",
+      "第4世代"
+    ],
+    "correctIndex": 0,
+    "explanation": "ミュウは初代（第1世代）の幻のポケモンで、図鑑番号151です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「マリオ」の帽子のマークは？",
+    "options": [
+      "M",
+      "S",
+      "N",
+      "W"
+    ],
+    "correctIndex": 0,
+    "explanation": "マリオの赤い帽子には「M」のロゴが入っています。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「カービィ」の色は？",
+    "options": [
+      "ピンク",
+      "青",
+      "赤",
+      "緑"
+    ],
+    "correctIndex": 0,
+    "explanation": "カービィはピンク色の丸いキャラクターです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「どうぶつの森」で借金を返す相手は？",
+    "options": [
+      "たぬきち",
+      "しずえ",
+      "フータ",
+      "まめきち"
+    ],
+    "correctIndex": 0,
+    "explanation": "たぬきちに家のローンを返済していきます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「スプラトゥーン」のゲームジャンルは？",
+    "options": [
+      "TPSアクション",
+      "RPG",
+      "格闘ゲーム",
+      "パズル"
+    ],
+    "correctIndex": 0,
+    "explanation": "インクを塗り合うチーム対戦型のサードパーソンシューティングです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ファイアーエムブレム」の武器の三すくみで剣に強いのは？",
+    "options": [
+      "槍",
+      "斧",
+      "弓",
+      "魔法"
+    ],
+    "correctIndex": 0,
+    "explanation": "槍は剣に強く、剣は斧に強く、斧は槍に強いという三すくみです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ポケモン」でほのおタイプに強いタイプは？",
+    "options": [
+      "みず",
+      "くさ",
+      "でんき",
+      "ノーマル"
+    ],
+    "correctIndex": 0,
+    "explanation": "みず・じめん・いわタイプがほのおタイプに効果抜群です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ドラゴンクエスト」の「ルイーダの酒場」の役割は？",
+    "options": [
+      "仲間の編成",
+      "武器の購入",
+      "情報収集",
+      "セーブ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ルイーダの酒場はパーティメンバーの入れ替えや登録を行う場所です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ファイナルファンタジー」シリーズでおなじみの召喚獣は？",
+    "options": [
+      "イフリート",
+      "ピカチュウ",
+      "スライム",
+      "パックマン"
+    ],
+    "correctIndex": 0,
+    "explanation": "イフリート、シヴァ、バハムートなどがFFシリーズの代表的な召喚獣です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ペルソナ3」のテーマカラーは？",
+    "options": [
+      "青",
+      "赤",
+      "黄",
+      "緑"
+    ],
+    "correctIndex": 0,
+    "explanation": "ペルソナ3は青、4は黄、5は赤がテーマカラーです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「テイルズ オブ」シリーズの開発元は？",
+    "options": [
+      "バンダイナムコ",
+      "スクウェア・エニックス",
+      "カプコン",
+      "コナミ"
+    ],
+    "correctIndex": 0,
+    "explanation": "テイルズオブシリーズはバンダイナムコ（旧ナムコ）が開発しています。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ゼノギアス」の開発元は？",
+    "options": [
+      "スクウェア",
+      "エニックス",
+      "コナミ",
+      "カプコン"
+    ],
+    "correctIndex": 0,
+    "explanation": "1998年にスクウェアから発売されたSF-RPGの名作です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ドラゴンクエストIV」の副題は？",
+    "options": [
+      "導かれし者たち",
+      "天空の花嫁",
+      "幻の大地",
+      "星空の守り人"
+    ],
+    "correctIndex": 0,
+    "explanation": "DQ4の副題は「導かれし者たち」で、複数の主人公が最終的に合流します。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「クロノ・クロス」は何の続編？",
+    "options": [
+      "クロノ・トリガー",
+      "ゼノギアス",
+      "聖剣伝説",
+      "サガ"
+    ],
+    "correctIndex": 0,
+    "explanation": "クロノ・クロスはクロノ・トリガーの続編として1999年に発売されました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「オクトパストラベラー」の特徴は？",
+    "options": [
+      "HD-2D表現",
+      "オープンワールド",
+      "対戦格闘",
+      "音楽ゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "ドット絵と3DCGを融合したHD-2Dという独自のグラフィック表現が特徴です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ファイナルファンタジータクティクス」のジャンルは？",
+    "options": [
+      "シミュレーションRPG",
+      "アクションRPG",
+      "ターン制RPG",
+      "リズムゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "タクティカルな戦闘が特徴のシミュレーションRPGです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ペルソナ」シリーズで心の力を召喚するシステムの名前は？",
+    "options": [
+      "ペルソナ召喚",
+      "ガーディアン召喚",
+      "スタンド召喚",
+      "霊体召喚"
+    ],
+    "correctIndex": 0,
+    "explanation": "自分の心の力「ペルソナ」を召喚して戦う独自のシステムです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「デビルメイクライ」シリーズのジャンルは？",
+    "options": [
+      "スタイリッシュアクション",
+      "ステルスアクション",
+      "サバイバルホラー",
+      "RPG"
+    ],
+    "correctIndex": 0,
+    "explanation": "華麗なコンボを決めるスタイリッシュアクションの代表作です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「鉄拳」シリーズの主人公一族の名字は？",
+    "options": [
+      "三島",
+      "風間",
+      "李",
+      "花郎"
+    ],
+    "correctIndex": 0,
+    "explanation": "三島一八、三島平八など三島家の因縁が物語の軸です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ストリートファイター6」の略称は？",
+    "options": [
+      "スト6",
+      "SF6",
+      "ストVI",
+      "ファイ6"
+    ],
+    "correctIndex": 0,
+    "explanation": "2023年発売のカプコンの対戦格闘ゲームは「スト6」と呼ばれます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ベヨネッタ」の主人公の職業は？",
+    "options": [
+      "魔女",
+      "忍者",
+      "探偵",
+      "傭兵"
+    ],
+    "correctIndex": 0,
+    "explanation": "アンブラの魔女ベヨネッタが主人公のスタイリッシュアクションです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「メトロイド」シリーズの主人公サムスの性別は？",
+    "options": [
+      "女性",
+      "男性",
+      "不明",
+      "ロボット"
+    ],
+    "correctIndex": 0,
+    "explanation": "サムス・アランは女性で、初代のエンディングで明かされました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「スターフォックス」のゲームジャンルは？",
+    "options": [
+      "シューティング",
+      "レース",
+      "RPG",
+      "格闘"
+    ],
+    "correctIndex": 0,
+    "explanation": "宇宙を舞台にしたシューティングゲームで、アーウィンを操作します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「SEKIRO」の主人公の通称は？",
+    "options": [
+      "狼",
+      "龍",
+      "虎",
+      "鷹"
+    ],
+    "correctIndex": 0,
+    "explanation": "主人公は隻腕の忍び「狼」で、御子を守るために戦います。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「鉄拳8」の発売年は？",
+    "options": [
+      "2024年",
+      "2023年",
+      "2022年",
+      "2025年"
+    ],
+    "correctIndex": 0,
+    "explanation": "鉄拳8は2024年1月に発売されました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「モンスターハンター」で最も基本的な武器種は？",
+    "options": [
+      "大剣",
+      "太刀",
+      "ハンマー",
+      "ランス"
+    ],
+    "correctIndex": 0,
+    "explanation": "大剣はシリーズ初期から存在する基本的な武器で初心者にも親しまれています。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「スマブラ」シリーズで最も多くの作品から参戦しているゲーム会社は？",
+    "options": [
+      "任天堂",
+      "セガ",
+      "カプコン",
+      "スクエニ"
+    ],
+    "correctIndex": 0,
+    "explanation": "任天堂のキャラクターがスマブラのファイターの中で最も多数を占めます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「Fate/Grand Order」の主人公の役職は？",
+    "options": [
+      "マスター",
+      "サーヴァント",
+      "魔術師",
+      "英雄"
+    ],
+    "correctIndex": 0,
+    "explanation": "プレイヤーはマスターとしてサーヴァントを召喚し指揮します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「原神」のゲームジャンルは？",
+    "options": [
+      "オープンワールドアクションRPG",
+      "ターン制RPG",
+      "カードゲーム",
+      "シミュレーション"
+    ],
+    "correctIndex": 0,
+    "explanation": "広大なオープンワールドを探索するアクションRPGです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「Hollow Knight」の開発元の国は？",
+    "options": [
+      "オーストラリア",
+      "日本",
+      "アメリカ",
+      "イギリス"
+    ],
+    "correctIndex": 0,
+    "explanation": "オーストラリアのTeam Cherryが開発したメトロイドヴァニアです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「Celeste」のテーマは？",
+    "options": [
+      "山登りと自己受容",
+      "宇宙探索",
+      "ダンジョン攻略",
+      "恋愛"
+    ],
+    "correctIndex": 0,
+    "explanation": "山頂を目指す少女の物語で、不安や自己受容がテーマの精密プラットフォーマーです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Slay the Spire」のジャンルは？",
+    "options": [
+      "デッキ構築型ローグライク",
+      "アクションRPG",
+      "シミュレーション",
+      "パズル"
+    ],
+    "correctIndex": 0,
+    "explanation": "カードでデッキを構築しながらダンジョンを攻略するローグライクです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「プロジェクトセカイ」に登場するボーカロイドは？",
+    "options": [
+      "初音ミク",
+      "マリオ",
+      "ピカチュウ",
+      "カービィ"
+    ],
+    "correctIndex": 0,
+    "explanation": "初音ミクをはじめとするボーカロイドキャラが登場するリズムゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ブルーアーカイブ」の開発元の国は？",
+    "options": [
+      "韓国",
+      "日本",
+      "中国",
+      "アメリカ"
+    ],
+    "correctIndex": 0,
+    "explanation": "韓国のNexon Gamesが開発した学園RPGです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「崩壊：スターレイル」の開発元は？",
+    "options": [
+      "HoYoverse",
+      "バンダイナムコ",
+      "任天堂",
+      "EA"
+    ],
+    "correctIndex": 0,
+    "explanation": "原神と同じHoYoverseが開発したターン制RPGです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「パルワールド」の開発元は？",
+    "options": [
+      "ポケットペア",
+      "ゲームフリーク",
+      "バンダイナムコ",
+      "カプコン"
+    ],
+    "correctIndex": 0,
+    "explanation": "日本の独立系スタジオ「ポケットペア」が開発しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ホグワーツ・レガシー」の原作は？",
+    "options": [
+      "ハリー・ポッター",
+      "ロード・オブ・ザ・リング",
+      "ナルニア国物語",
+      "ゲド戦記"
+    ],
+    "correctIndex": 0,
+    "explanation": "ハリー・ポッターの世界を舞台にしたオープンワールドRPGです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "任天堂の元社長で「直接！」で知られるのは？",
+    "options": [
+      "岩田聡",
+      "宮本茂",
+      "古川俊太郎",
+      "山内溥"
+    ],
+    "correctIndex": 0,
+    "explanation": "岩田聡社長はNintendo Directで「直接！」のフレーズで親しまれました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「PS5」の発売年は？",
+    "options": [
+      "2020年",
+      "2019年",
+      "2021年",
+      "2022年"
+    ],
+    "correctIndex": 0,
+    "explanation": "PlayStation 5は2020年11月に発売されました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「Steam」を運営する企業は？",
+    "options": [
+      "Valve",
+      "Epic Games",
+      "EA",
+      "Ubisoft"
+    ],
+    "correctIndex": 0,
+    "explanation": "ValveがPCゲーム配信プラットフォームSteamを運営しています。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ゲーム・オブ・ザ・イヤー」を主催する代表的な授賞式は？",
+    "options": [
+      "The Game Awards",
+      "E3 Awards",
+      "TGS Awards",
+      "PAX Awards"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Game Awardsはジェフ・キーリーが主催するゲーム業界最大の授賞式です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ドット絵」を英語で何という？",
+    "options": [
+      "ピクセルアート",
+      "ベクターアート",
+      "ビットアート",
+      "レトロアート"
+    ],
+    "correctIndex": 0,
+    "explanation": "ドット絵は英語で「Pixel Art」と呼ばれます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「リメイク」と「リマスター」の違いは？",
+    "options": [
+      "作り直しと高画質化",
+      "続編と前編",
+      "DLCと本編",
+      "同じ意味"
+    ],
+    "correctIndex": 0,
+    "explanation": "リメイクはゲームを一から作り直し、リマスターは画質や音質を向上させることです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「DLC」の正式名称は？",
+    "options": [
+      "ダウンロードコンテンツ",
+      "デジタルライセンスコード",
+      "ディスクローディングシステム",
+      "データリンクチャネル"
+    ],
+    "correctIndex": 0,
+    "explanation": "DLCはDownloadable Contentの略で、追加コンテンツを意味します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「Epic Games Store」で定期的に行われるサービスは？",
+    "options": [
+      "無料ゲーム配布",
+      "有料体験版",
+      "ゲーム買取",
+      "定額プレイ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Epic Games Storeでは毎週無料でゲームが配布されています。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「E3」の正式名称は？",
+    "options": [
+      "Electronic Entertainment Expo",
+      "Electronic Engine Exhibition",
+      "Entertainment Electronics Expo",
+      "Electronic Experience Event"
+    ],
+    "correctIndex": 0,
+    "explanation": "Electronic Entertainment Expoの略で、かつて世界最大級のゲーム展示会でした。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「アミーボ」とは何？",
+    "options": [
+      "NFC搭載のフィギュア",
+      "ゲーム内通貨",
+      "任天堂のSNS",
+      "音楽プレイヤー"
+    ],
+    "correctIndex": 0,
+    "explanation": "任天堂のNFCチップ内蔵フィギュアで、ゲームと連動して遊べます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「マリオ」シリーズでピーチ姫をさらう敵は？",
+    "options": [
+      "クッパ",
+      "ワリオ",
+      "ドンキーコング",
+      "キノピオ"
+    ],
+    "correctIndex": 0,
+    "explanation": "大魔王クッパが毎回ピーチ姫をさらい、マリオが助けに行きます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ポケモン」のロケット団のボスは？",
+    "options": [
+      "サカキ",
+      "アカギ",
+      "フラダリ",
+      "ゲーチス"
+    ],
+    "correctIndex": 0,
+    "explanation": "サカキはロケット団のボスで、トキワシティのジムリーダーでもあります。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ファイナルファンタジーVII」のセフィロスの武器は？",
+    "options": [
+      "正宗",
+      "バスターソード",
+      "エクスカリバー",
+      "ラグナロク"
+    ],
+    "correctIndex": 0,
+    "explanation": "セフィロスは非常に長い刀「正宗」を使います。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ゼルダの伝説 時のオカリナ」でリンクの相棒の妖精は？",
+    "options": [
+      "ナビィ",
+      "ミドナ",
+      "ファイ",
+      "チャット"
+    ],
+    "correctIndex": 0,
+    "explanation": "時のオカリナでリンクをガイドする妖精はナビィです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ドラゴンクエスト」で仲間モンスターが初登場した作品は？",
+    "options": [
+      "ドラクエV",
+      "ドラクエIII",
+      "ドラクエVI",
+      "ドラクエIV"
+    ],
+    "correctIndex": 0,
+    "explanation": "DQ5で初めてモンスターを仲間にできるシステムが導入されました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「キングダムハーツ」の主人公は？",
+    "options": [
+      "ソラ",
+      "リク",
+      "カイリ",
+      "ロクサス"
+    ],
+    "correctIndex": 0,
+    "explanation": "キーブレードを使う少年ソラが主人公です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「龍が如く」シリーズの舞台の架空の歓楽街は？",
+    "options": [
+      "神室町",
+      "歌舞伎町",
+      "道頓堀",
+      "中華街"
+    ],
+    "correctIndex": 0,
+    "explanation": "歌舞伎町をモデルにした架空の歓楽街「神室町」が主な舞台です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「逆転裁判」で証拠を突きつける時のセリフは？",
+    "options": [
+      "異議あり！",
+      "待った！",
+      "反対！",
+      "無罪！"
+    ],
+    "correctIndex": 0,
+    "explanation": "成歩堂龍一の「異議あり！」は世界的に有名なセリフです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ファイナルファンタジー」シリーズの代表的な乗り物は？",
+    "options": [
+      "チョコボ",
+      "カーバンクル",
+      "モーグリ",
+      "トンベリ"
+    ],
+    "correctIndex": 0,
+    "explanation": "チョコボはFFシリーズに毎回登場する代表的な乗り物です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ポケモン 金・銀」のシロガネ山で戦える最強トレーナーは？",
+    "options": [
+      "レッド",
+      "グリーン",
+      "ワタル",
+      "シルバー"
+    ],
+    "correctIndex": 0,
+    "explanation": "初代の主人公レッドが金・銀のシロガネ山で最強トレーナーとして登場します。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2023年のGame of the Yearを受賞した作品は？",
+    "options": [
+      "バルダーズ・ゲート3",
+      "ゼルダTotK",
+      "FF16",
+      "スターフィールド"
+    ],
+    "correctIndex": 0,
+    "explanation": "Larian Studiosの「バルダーズ・ゲート3」が2023年のGOTYを受賞しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「エルデンリング」のDLC「Shadow of the Erdtree」の発売年は？",
+    "options": [
+      "2024年",
+      "2023年",
+      "2025年",
+      "2022年"
+    ],
+    "correctIndex": 0,
+    "explanation": "2024年6月にDLC「Shadow of the Erdtree」が発売されました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Lies of P」の原作モチーフは？",
+    "options": [
+      "ピノキオ",
+      "不思議の国のアリス",
+      "シンデレラ",
+      "白雪姫"
+    ],
+    "correctIndex": 0,
+    "explanation": "ピノキオの物語をダークにアレンジしたソウルライクアクションRPGです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「モンスターハンターワイルズ」の発売予定年は？",
+    "options": [
+      "2025年",
+      "2024年",
+      "2026年",
+      "2027年"
+    ],
+    "correctIndex": 0,
+    "explanation": "カプコンのモンスターハンターワイルズは2025年発売予定です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Nintendo Switch 2」が発表された年は？",
+    "options": [
+      "2025年",
+      "2024年",
+      "2023年",
+      "2026年"
+    ],
+    "correctIndex": 0,
+    "explanation": "任天堂が2025年にNintendo Switch後継機を正式発表しました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「スイカゲーム」が世界的にヒットしたきっかけは？",
+    "options": [
+      "VTuberの配信",
+      "テレビCM",
+      "映画化",
+      "漫画化"
+    ],
+    "correctIndex": 0,
+    "explanation": "VTuberやストリーマーの配信がきっかけで世界的に大ヒットしました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「8番出口」のジャンルは？",
+    "options": [
+      "ウォーキングシミュレーター",
+      "アクションRPG",
+      "パズル",
+      "格闘ゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "地下通路の異変を見つけるウォーキングシミュレーター型ホラーゲームです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「原神」の最新地域「ナタ」のモチーフは？",
+    "options": [
+      "中南米",
+      "北欧",
+      "日本",
+      "エジプト"
+    ],
+    "correctIndex": 0,
+    "explanation": "ナタは中南米の文化をモチーフにした炎の国です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ゼンレスゾーンゼロ」の開発元は？",
+    "options": [
+      "HoYoverse",
+      "カプコン",
+      "スクエニ",
+      "任天堂"
+    ],
+    "correctIndex": 0,
+    "explanation": "原神・崩壊と同じHoYoverseが開発したアクションRPGです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「メタファー：リファンタジオ」の開発元は？",
+    "options": [
+      "アトラス",
+      "スクエニ",
+      "カプコン",
+      "バンナム"
+    ],
+    "correctIndex": 0,
+    "explanation": "ペルソナチームのアトラスが開発した新規RPGで2024年に発売されました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「NPC」の正式名称は？",
+    "options": [
+      "ノンプレイヤーキャラクター",
+      "ニュープレイヤーコマンド",
+      "ネットプレイコネクション",
+      "ナンバープレイヤーコード"
+    ],
+    "correctIndex": 0,
+    "explanation": "NPC（Non-Player Character）はプレイヤーが操作しないキャラクターです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「HP」はゲームで何を表す？",
+    "options": [
+      "ヒットポイント（体力）",
+      "ハイパワー",
+      "ヘルプポイント",
+      "ホームポジション"
+    ],
+    "correctIndex": 0,
+    "explanation": "HPはHit Pointsの略で、キャラクターの体力を表します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「FPS」のゲームジャンルとしての意味は？",
+    "options": [
+      "ファーストパーソンシューター",
+      "フレームパーセカンド",
+      "ファストプレイシステム",
+      "フルパワーショット"
+    ],
+    "correctIndex": 0,
+    "explanation": "FPSはFirst Person Shooter（一人称視点シューティング）の略です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「オープンワールド」とはどんなゲーム？",
+    "options": [
+      "自由に探索できる広大な世界",
+      "オンライン対戦専用",
+      "ストーリーが分岐する",
+      "時間制限があるゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "プレイヤーが広大なマップを自由に探索できるゲームデザインです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ローグライク」の語源は？",
+    "options": [
+      "ゲーム「Rogue」に似たジャンル",
+      "英語の「rogue（悪党）」",
+      "開発者の名前",
+      "ランダムの意味"
+    ],
+    "correctIndex": 0,
+    "explanation": "1980年のゲーム「Rogue」に似たランダム生成ダンジョンゲームを指します。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「メトロイドヴァニア」の名前の由来は？",
+    "options": [
+      "メトロイド+キャッスルヴァニア",
+      "メトロ+バニア",
+      "メトロポリス+トランシルヴァニア",
+      "メトリック+バニラ"
+    ],
+    "correctIndex": 0,
+    "explanation": "「メトロイド」と「キャッスルヴァニア（悪魔城ドラキュラ）」を合わせた造語です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ガチャ」の語源は？",
+    "options": [
+      "カプセルトイの音",
+      "英語のgather",
+      "ドイツ語",
+      "中国語"
+    ],
+    "correctIndex": 0,
+    "explanation": "カプセルトイ（ガチャガチャ）のハンドルを回す音が語源です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ソウルライク」の代表的な特徴は？",
+    "options": [
+      "高難易度と死にゲー要素",
+      "オープンワールド",
+      "ターン制バトル",
+      "マルチプレイ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ダークソウルのような高難易度・死にゲー要素を持つアクションRPGを指します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「クロスプレイ」とは？",
+    "options": [
+      "異なる機種間で一緒に遊べる",
+      "ゲームを掛け持ちする",
+      "2人同時プレイ",
+      "ゲーム内の転職"
+    ],
+    "correctIndex": 0,
+    "explanation": "PS・Switch・PCなど異なるプラットフォーム間で対戦・協力できる機能です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「早期アクセス」とは？",
+    "options": [
+      "開発中のゲームを先行プレイ",
+      "発売日前の予約特典",
+      "高速ダウンロード",
+      "先行レビュー"
+    ],
+    "correctIndex": 0,
+    "explanation": "開発途中のゲームを購入し、完成前からプレイできる販売方式です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「スーパーマリオ」の音楽を作曲したのは？",
+    "options": [
+      "近藤浩治",
+      "植松伸夫",
+      "すぎやまこういち",
+      "光田康典"
+    ],
+    "correctIndex": 0,
+    "explanation": "近藤浩治がスーパーマリオブラザーズの有名なBGMを作曲しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「クロノ・トリガー」の音楽を担当した作曲家は？",
+    "options": [
+      "光田康典",
+      "植松伸夫",
+      "近藤浩治",
+      "下村陽子"
+    ],
+    "correctIndex": 0,
+    "explanation": "光田康典がメインの作曲を担当し、ゲーム音楽の名盤として評価されています。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「キングダムハーツ」の音楽を担当した作曲家は？",
+    "options": [
+      "下村陽子",
+      "植松伸夫",
+      "光田康典",
+      "すぎやまこういち"
+    ],
+    "correctIndex": 0,
+    "explanation": "下村陽子がキングダムハーツシリーズの全楽曲を手がけています。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ニーア」シリーズの音楽を担当した作曲家は？",
+    "options": [
+      "岡部啓一",
+      "植松伸夫",
+      "光田康典",
+      "下村陽子"
+    ],
+    "correctIndex": 0,
+    "explanation": "岡部啓一（MONACA）がニーアシリーズの美しい楽曲を手がけています。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "ゲーム音楽のオーケストラコンサートの先駆けとなったシリーズは？",
+    "options": [
+      "ドラゴンクエスト",
+      "ファイナルファンタジー",
+      "ゼルダの伝説",
+      "マリオ"
+    ],
+    "correctIndex": 0,
+    "explanation": "すぎやまこういちのDQ楽曲がゲーム音楽オーケストラコンサートの先駆けです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Unreal Engine」を開発した会社は？",
+    "options": [
+      "Epic Games",
+      "Unity Technologies",
+      "Valve",
+      "EA"
+    ],
+    "correctIndex": 0,
+    "explanation": "Epic GamesがUnreal Engineを開発し、多くのゲームで使用されています。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Unity」はどんなツール？",
+    "options": [
+      "ゲーム開発エンジン",
+      "音楽制作ソフト",
+      "動画編集ソフト",
+      "3Dモデリングソフト"
+    ],
+    "correctIndex": 0,
+    "explanation": "Unityはゲーム開発に広く使われるゲームエンジンです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「QTE」の正式名称は？",
+    "options": [
+      "クイックタイムイベント",
+      "クエストタイムエクスプレス",
+      "クオリティテストエンジン",
+      "クエリータイムエラー"
+    ],
+    "correctIndex": 0,
+    "explanation": "QTE（Quick Time Event）はムービー中にボタン入力を求めるイベントです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「インディーゲーム」とは？",
+    "options": [
+      "独立系開発者が作るゲーム",
+      "インド製のゲーム",
+      "室内専用ゲーム",
+      "教育用ゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "大手パブリッシャーに属さない独立した開発者が作るゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「コンシューマー機」とは何を指す？",
+    "options": [
+      "家庭用ゲーム機",
+      "業務用ゲーム機",
+      "PCゲーム",
+      "スマホゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "PS5やSwitch等の家庭向けゲーム機を指す日本の業界用語です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「The Last of Us」の開発元は？",
+    "options": [
+      "Naughty Dog",
+      "Rockstar Games",
+      "Bethesda",
+      "BioWare"
+    ],
+    "correctIndex": 0,
+    "explanation": "ソニー傘下のNaughty Dogが開発したサバイバルアクションの傑作です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「GTA」シリーズの開発元は？",
+    "options": [
+      "Rockstar Games",
+      "EA",
+      "Ubisoft",
+      "Activision"
+    ],
+    "correctIndex": 0,
+    "explanation": "Grand Theft AutoシリーズはRockstar Gamesが開発しています。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ウィッチャー3」の開発元の国は？",
+    "options": [
+      "ポーランド",
+      "アメリカ",
+      "日本",
+      "イギリス"
+    ],
+    "correctIndex": 0,
+    "explanation": "ポーランドのCD Projekt Redが開発したオープンワールドRPGです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「サイバーパンク2077」の開発元は？",
+    "options": [
+      "CD Projekt Red",
+      "Rockstar Games",
+      "Bethesda",
+      "EA"
+    ],
+    "correctIndex": 0,
+    "explanation": "ウィッチャーと同じCD Projekt Redが開発したサイバーパンクRPGです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「マインクラフト」を買収した企業は？",
+    "options": [
+      "マイクロソフト",
+      "ソニー",
+      "任天堂",
+      "EA"
+    ],
+    "correctIndex": 0,
+    "explanation": "2014年にマイクロソフトがMojangを約2500億円で買収しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Roblox」の特徴は？",
+    "options": [
+      "ユーザーがゲームを作れるプラットフォーム",
+      "対戦格闘ゲーム",
+      "RPG",
+      "レースゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "ユーザーが自由にゲームを作成・共有できるプラットフォームで子供に大人気です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「FIFA」シリーズが名称変更した新タイトルは？",
+    "options": [
+      "EA Sports FC",
+      "Pro Soccer",
+      "World Football",
+      "Super League"
+    ],
+    "correctIndex": 0,
+    "explanation": "FIFAとのライセンス契約終了後、EA Sports FCに名称変更しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Call of Duty」シリーズのジャンルは？",
+    "options": [
+      "FPS",
+      "RPG",
+      "レース",
+      "パズル"
+    ],
+    "correctIndex": 0,
+    "explanation": "世界で最も売れたFPSシリーズの一つです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「Diablo」シリーズの開発元は？",
+    "options": [
+      "Blizzard Entertainment",
+      "EA",
+      "Ubisoft",
+      "Valve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Blizzard Entertainmentが開発したハクアンドスラッシュRPGの元祖です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Overwatch」の開発元は？",
+    "options": [
+      "Blizzard Entertainment",
+      "Epic Games",
+      "Valve",
+      "Riot Games"
+    ],
+    "correctIndex": 0,
+    "explanation": "Blizzardが開発したチーム対戦型FPSで、eスポーツでも人気です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「コナミコマンド」として知られる有名なコマンドは？",
+    "options": [
+      "上上下下左右左右BA",
+      "上下上下左右左右AB",
+      "ABBA上下左右",
+      "左右上下ABAB"
+    ],
+    "correctIndex": 0,
+    "explanation": "「上上下下左右左右BA」はコナミのゲームで使われる最も有名な隠しコマンドです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "世界で最も売れた家庭用ゲーム機は？（2025年時点）",
+    "options": [
+      "PlayStation 2",
+      "Nintendo Switch",
+      "Wii",
+      "PlayStation 4"
+    ],
+    "correctIndex": 0,
+    "explanation": "PS2は累計1億5500万台以上を売り上げ、史上最も売れた家庭用ゲーム機です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ファイナルファンタジー」の名前の由来は？",
+    "options": [
+      "会社最後のゲームになる覚悟",
+      "最終決戦がテーマ",
+      "ファンタジーの集大成",
+      "開発者の夢"
+    ],
+    "correctIndex": 0,
+    "explanation": "スクウェアの経営危機時に「最後の作品」という覚悟で名付けられたとされます。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「レトロゲーム」とは一般的にいつ頃のゲームを指す？",
+    "options": [
+      "2000年代以前",
+      "2010年代以前",
+      "2020年代以前",
+      "1990年代以前のみ"
+    ],
+    "correctIndex": 0,
+    "explanation": "一般的にファミコン〜PS2世代のゲームを指すことが多いです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ゲーム依存症」がWHOに正式認定された年は？",
+    "options": [
+      "2019年",
+      "2018年",
+      "2020年",
+      "2017年"
+    ],
+    "correctIndex": 0,
+    "explanation": "2019年にWHOがゲーム障害をICD-11に追加しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「CERO」とは何？",
+    "options": [
+      "日本のゲーム年齢レーティング機関",
+      "ゲーム開発ツール",
+      "eスポーツ団体",
+      "ゲーム配信サービス"
+    ],
+    "correctIndex": 0,
+    "explanation": "CEROは日本のゲーム年齢区分を管理するレーティング機構です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ESRB」はどの国のゲームレーティング機関？",
+    "options": [
+      "アメリカ",
+      "日本",
+      "イギリス",
+      "ドイツ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ESRBはアメリカのEntertainment Software Rating Boardです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ゲームの日」は日本では何月何日？",
+    "options": [
+      "11月23日",
+      "3月3日",
+      "7月7日",
+      "12月25日"
+    ],
+    "correctIndex": 0,
+    "explanation": "11月23日が「ゲームの日」で、勤労感謝の日と同日です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ポケモン」の名前の由来は？",
+    "options": [
+      "ポケットモンスターの略",
+      "ポケットマネーの略",
+      "ポケットムーンの略",
+      "ポケットマジックの略"
+    ],
+    "correctIndex": 0,
+    "explanation": "「ポケットモンスター」を略して「ポケモン」と呼ばれるようになりました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「マインクラフト」の正式リリース年は？",
+    "options": [
+      "2011年",
+      "2009年",
+      "2013年",
+      "2015年"
+    ],
+    "correctIndex": 0,
+    "explanation": "2009年にアルファ版公開、2011年に正式リリースされました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ビートセイバー」のジャンルは？",
+    "options": [
+      "VRリズムゲーム",
+      "格闘ゲーム",
+      "RPG",
+      "レースゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "ライトセーバーでブロックを斬るVRリズムゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ポケモンGO」で使われている技術は？",
+    "options": [
+      "AR（拡張現実）",
+      "VR（仮想現実）",
+      "AI",
+      "ブロックチェーン"
+    ],
+    "correctIndex": 0,
+    "explanation": "スマホのカメラとGPSを使ったAR技術が特徴です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「eスポーツ」のeは何の略？",
+    "options": [
+      "エレクトロニック",
+      "エンターテインメント",
+      "エクストリーム",
+      "エキサイティング"
+    ],
+    "correctIndex": 0,
+    "explanation": "eスポーツのeはElectronic（電子的な）の略です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「LoL」の正式名称は？",
+    "options": [
+      "League of Legends",
+      "Lord of Legends",
+      "League of Lords",
+      "Land of Legends"
+    ],
+    "correctIndex": 0,
+    "explanation": "Riot Gamesが開発した世界最大級のeスポーツタイトルです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「MOBA」のジャンルの意味は？",
+    "options": [
+      "マルチプレイヤーオンラインバトルアリーナ",
+      "モバイルオンラインバトルアクション",
+      "マッシブオンラインベースアタック",
+      "マルチオプションバトルアドベンチャー"
+    ],
+    "correctIndex": 0,
+    "explanation": "Multiplayer Online Battle Arenaの略で、LoLやDota2が代表作です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「信長の野望」シリーズのジャンルは？",
+    "options": [
+      "歴史シミュレーション",
+      "アクションRPG",
+      "格闘ゲーム",
+      "レースゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "コーエーテクモの歴史シミュレーションゲームの代表作です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「三國志」シリーズの開発元は？",
+    "options": [
+      "コーエーテクモ",
+      "スクウェア・エニックス",
+      "カプコン",
+      "セガ"
+    ],
+    "correctIndex": 0,
+    "explanation": "コーエーテクモが開発する中国三国時代の歴史シミュレーションです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ダンガンロンパ」のジャンルは？",
+    "options": [
+      "ハイスピード推理アクション",
+      "ターン制RPG",
+      "オープンワールド",
+      "格闘ゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "学級裁判での推理とアクション要素を組み合わせたアドベンチャーゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「シュタインズ・ゲート」のジャンルは？",
+    "options": [
+      "科学アドベンチャー",
+      "アクションRPG",
+      "シミュレーション",
+      "パズル"
+    ],
+    "correctIndex": 0,
+    "explanation": "タイムリープをテーマにした科学アドベンチャーゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「CLANNAD」の開発元は？",
+    "options": [
+      "Key",
+      "TYPE-MOON",
+      "Leaf",
+      "Nitroplus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Keyが開発した泣きゲーの代表作で、アニメ化でも大ヒットしました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ドラクエ」で主人公が話さないのはなぜ？",
+    "options": [
+      "プレイヤー自身が主人公だから",
+      "声優がいないから",
+      "容量の節約",
+      "翻訳の都合"
+    ],
+    "correctIndex": 0,
+    "explanation": "堀井雄二の方針で、プレイヤーが感情移入しやすいよう主人公は無口です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ダークソウル」で有名な死亡画面の文字は？",
+    "options": [
+      "YOU DIED",
+      "GAME OVER",
+      "DEAD",
+      "FAILED"
+    ],
+    "correctIndex": 0,
+    "explanation": "ダークソウルの「YOU DIED」画面は何度も見ることになる有名な画面です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「フォートナイト」の開発元は？",
+    "options": [
+      "Epic Games",
+      "EA",
+      "Valve",
+      "Riot Games"
+    ],
+    "correctIndex": 0,
+    "explanation": "Epic Gamesが開発した基本無料のバトルロイヤルゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ポケモン」でポケモンが進化する一般的な条件は？",
+    "options": [
+      "レベルアップ",
+      "お金を払う",
+      "特定の場所に行く",
+      "時間経過"
+    ],
+    "correctIndex": 0,
+    "explanation": "多くのポケモンは一定のレベルに達すると進化します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「あつまれ どうぶつの森」の博物館の館長は？",
+    "options": [
+      "フータ",
+      "たぬきち",
+      "しずえ",
+      "まめきち"
+    ],
+    "correctIndex": 0,
+    "explanation": "フクロウのフータが博物館の館長で、虫・魚・化石・美術品を寄贈できます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「モンハン」でモンスターを捕獲する方法は？",
+    "options": [
+      "罠と捕獲玉",
+      "話しかける",
+      "餌をあげる",
+      "魔法で封印"
+    ],
+    "correctIndex": 0,
+    "explanation": "弱ったモンスターを罠にかけて捕獲玉を投げることで捕獲できます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「マリオ」のキノコを取るとどうなる？",
+    "options": [
+      "大きくなる",
+      "速くなる",
+      "飛べる",
+      "透明になる"
+    ],
+    "correctIndex": 0,
+    "explanation": "スーパーキノコを取るとマリオが大きくなります。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ゼルダの伝説」のマスターソードの別名は？",
+    "options": [
+      "退魔の剣",
+      "聖剣エクスカリバー",
+      "天空の剣",
+      "勇者の刃"
+    ],
+    "correctIndex": 0,
+    "explanation": "マスターソードは「退魔の剣」とも呼ばれ、ガノンを封印する力を持ちます。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ドラゴンクエスト」で毒を受けるとどうなる？",
+    "options": [
+      "歩くたびにHPが減る",
+      "攻撃力が下がる",
+      "動けなくなる",
+      "すぐに戦闘不能"
+    ],
+    "correctIndex": 0,
+    "explanation": "毒状態では移動するたびに少しずつHPが減少していきます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ファイアーエムブレム」で味方の支援会話の効果は？",
+    "options": [
+      "ステータスが上がる",
+      "HPが回復する",
+      "敵が弱くなる",
+      "お金がもらえる"
+    ],
+    "correctIndex": 0,
+    "explanation": "隣接ユニット間の支援レベルが上がると命中率や回避率が上がります。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ピクミン」で主人公が指揮するのは？",
+    "options": [
+      "小さな植物生物",
+      "ロボット",
+      "妖精",
+      "動物"
+    ],
+    "correctIndex": 0,
+    "explanation": "ピクミンは小さな植物のような生物で、色によって能力が異なります。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「真・三國無双」のゲームジャンルは？",
+    "options": [
+      "無双アクション",
+      "ターン制RPG",
+      "シミュレーション",
+      "パズル"
+    ],
+    "correctIndex": 0,
+    "explanation": "一人で大量の敵を薙ぎ倒す爽快アクション「無双」ジャンルの代表作です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「あんさんぶるスターズ！」のジャンルは？",
+    "options": [
+      "アイドル育成ゲーム",
+      "格闘ゲーム",
+      "パズルゲーム",
+      "レースゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "男性アイドルを育成する女性向けスマホゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「グランブルーファンタジー」の開発元は？",
+    "options": [
+      "Cygames",
+      "miHoYo",
+      "バンダイナムコ",
+      "スクエニ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cygamesが開発した本格RPGで、2014年からサービスを開始しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「バイオハザード」シリーズで弾薬管理が重要な理由は？",
+    "options": [
+      "弾薬が限られているから",
+      "弾を集めるとスコアになるから",
+      "弾で謎を解くから",
+      "弾薬がお金代わりだから"
+    ],
+    "correctIndex": 0,
+    "explanation": "サバイバルホラーの緊張感を生む要素として弾薬が限られています。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「DEATH STRANDING」の主人公を演じた俳優は？",
+    "options": [
+      "ノーマン・リーダス",
+      "キアヌ・リーブス",
+      "トム・ハンクス",
+      "ブラッド・ピット"
+    ],
+    "correctIndex": 0,
+    "explanation": "ウォーキング・デッドのノーマン・リーダスが主人公を演じました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「桜井政博」が手がけた代表作は？",
+    "options": [
+      "星のカービィ・スマブラ",
+      "マリオ・ゼルダ",
+      "ポケモン・どうぶつの森",
+      "FF・DQ"
+    ],
+    "correctIndex": 0,
+    "explanation": "桜井政博はカービィとスマブラシリーズのディレクターとして知られます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「Detroit: Become Human」のテーマは？",
+    "options": [
+      "アンドロイドの人権",
+      "宇宙探索",
+      "ゾンビサバイバル",
+      "ファンタジー冒険"
+    ],
+    "correctIndex": 0,
+    "explanation": "アンドロイドが意思を持ち始める近未来を描いたアドベンチャーゲームです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「GPU」とは何？",
+    "options": [
+      "グラフィックス処理装置",
+      "汎用プロセッサ",
+      "記憶装置",
+      "電源装置"
+    ],
+    "correctIndex": 0,
+    "explanation": "GPU（Graphics Processing Unit）はゲームのグラフィック描画を担当する重要パーツです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本のゲーム会社「カプコン」の本社がある都市は？",
+    "options": [
+      "大阪",
+      "東京",
+      "京都",
+      "名古屋"
+    ],
+    "correctIndex": 0,
+    "explanation": "カプコンの本社は大阪市にあります。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「スプラトゥーン3」のステージ「バンカラ街」の特徴は？",
+    "options": [
+      "多文化が混在する街",
+      "宇宙ステーション",
+      "海底都市",
+      "砂漠のオアシス"
+    ],
+    "correctIndex": 0,
+    "explanation": "さまざまな文化がミックスされたカオスで活気ある街が舞台です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「マリオカート」で1位を追尾するアイテムは？",
+    "options": [
+      "トゲゾーこうら",
+      "バナナ",
+      "キノコ",
+      "コイン"
+    ],
+    "correctIndex": 0,
+    "explanation": "トゲゾーこうら（青甲羅）は1位のプレイヤーを追尾して当たるアイテムです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ダークソウル」で篝火の役割は？",
+    "options": [
+      "セーブとHP回復",
+      "ショップ",
+      "ボス戦",
+      "装備変更のみ"
+    ],
+    "correctIndex": 0,
+    "explanation": "篝火はセーブ・HP回復・レベルアップなどの拠点機能を持ちます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ポケモン」のサトシのパートナーポケモンは？",
+    "options": [
+      "ピカチュウ",
+      "リザードン",
+      "フシギダネ",
+      "ゼニガメ"
+    ],
+    "correctIndex": 0,
+    "explanation": "サトシ（アニメ版主人公）のパートナーはピカチュウです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ゲーム音楽」が初めてグラミー賞を受賞した作品は？",
+    "options": [
+      "Civilization IV",
+      "ヘイロー",
+      "ゼルダの伝説",
+      "FF"
+    ],
+    "correctIndex": 0,
+    "explanation": "2011年にCivilization IVのテーマ曲「Baba Yetu」がグラミー賞を受賞しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ポケモン」で最も最初に発見されたとされるポケモンは？（設定上）",
+    "options": [
+      "ミュウ",
+      "アルセウス",
+      "ピカチュウ",
+      "フシギダネ"
+    ],
+    "correctIndex": 0,
+    "explanation": "設定上、すべてのポケモンの祖先とされるのはミュウです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Apex Legends」のゲームジャンルは？",
+    "options": [
+      "バトルロイヤルFPS",
+      "MMORPG",
+      "格闘ゲーム",
+      "パズル"
+    ],
+    "correctIndex": 0,
+    "explanation": "Respawn Entertainmentが開発したチーム制バトルロイヤルFPSです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「スーパーマリオブラザーズ」のステージ1-1のBGMの作曲者は？",
+    "options": [
+      "近藤浩治",
+      "すぎやまこういち",
+      "植松伸夫",
+      "光田康典"
+    ],
+    "correctIndex": 0,
+    "explanation": "近藤浩治が作曲したBGMは世界で最も有名なゲーム音楽です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ポケモン」で最初に選べる御三家は何タイプ？",
+    "options": [
+      "ほのお・みず・くさ",
+      "でんき・じめん・いわ",
+      "ノーマル・かくとう・あく",
+      "ゴースト・エスパー・ドラゴン"
+    ],
+    "correctIndex": 0,
+    "explanation": "全世代共通でほのお・みず・くさタイプの3匹から選びます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「スマブラ」シリーズの正式名称は？",
+    "options": [
+      "大乱闘スマッシュブラザーズ",
+      "スーパーマッシュブラザーズ",
+      "スマッシュバトルブラザーズ",
+      "スーパースマッシュファイターズ"
+    ],
+    "correctIndex": 0,
+    "explanation": "正式名称は「大乱闘スマッシュブラザーズ」です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ドラゴンクエスト」シリーズで最初の町で買える最弱の武器は？",
+    "options": [
+      "ひのきのぼう",
+      "銅のつるぎ",
+      "鉄の剣",
+      "勇者の剣"
+    ],
+    "correctIndex": 0,
+    "explanation": "ひのきのぼうはDQシリーズの最弱武器として有名です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「モンスターハンター」シリーズの最大プレイ人数は？",
+    "options": [
+      "4人",
+      "2人",
+      "6人",
+      "8人"
+    ],
+    "correctIndex": 0,
+    "explanation": "モンハンのマルチプレイは最大4人での協力プレイが基本です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ゼルダの伝説」で体力を表すのは？",
+    "options": [
+      "ハートの器",
+      "HPバー",
+      "スタミナゲージ",
+      "マナポイント"
+    ],
+    "correctIndex": 0,
+    "explanation": "リンクの体力はハートの器で表され、アイテムで最大値を増やせます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ファイナルファンタジー」シリーズのマスコットキャラは？",
+    "options": [
+      "モーグリ",
+      "チョコボ",
+      "サボテンダー",
+      "トンベリ"
+    ],
+    "correctIndex": 0,
+    "explanation": "モーグリはFFシリーズに毎回登場するマスコットキャラクターです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「スプラトゥーン」のランク戦の名前は？",
+    "options": [
+      "バンカラマッチ",
+      "ガチマッチ",
+      "プロマッチ",
+      "チャンピオンマッチ"
+    ],
+    "correctIndex": 0,
+    "explanation": "スプラトゥーン3ではランク戦が「バンカラマッチ」と呼ばれています。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ドラゴンクエスト」で全滅するとどうなる？",
+    "options": [
+      "所持金が半分になる",
+      "ゲームオーバー",
+      "最初からやり直し",
+      "装備を失う"
+    ],
+    "correctIndex": 0,
+    "explanation": "全滅すると最後にセーブした場所に戻り、所持金が半分になります。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ポケモン」の対戦で天候が変わる技は？",
+    "options": [
+      "にほんばれ",
+      "たいあたり",
+      "でんこうせっか",
+      "かえんほうしゃ"
+    ],
+    "correctIndex": 0,
+    "explanation": "にほんばれは天候を「ひざしがつよい」状態にする技です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「マリオカート」シリーズの最新作のタイトルは？（2025年時点）",
+    "options": [
+      "マリオカート8 デラックス",
+      "マリオカート9",
+      "マリオカートツアー",
+      "マリオカート ダブルダッシュ!!"
+    ],
+    "correctIndex": 0,
+    "explanation": "2025年時点でSwitch版のマリオカート8 デラックスが最新の据置版です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「パズドラ」のゲームジャンルは？",
+    "options": [
+      "パズルRPG",
+      "アクションRPG",
+      "シミュレーション",
+      "カードゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "パズルを解いてモンスターを攻撃するパズルRPGです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ウマ娘」の元ネタは？",
+    "options": [
+      "実在の競走馬",
+      "架空の馬",
+      "神話の馬",
+      "おもちゃの馬"
+    ],
+    "correctIndex": 0,
+    "explanation": "実在の競走馬を擬人化した美少女キャラとして育成するゲームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「任天堂」が元々作っていた商品は？",
+    "options": [
+      "花札",
+      "おもちゃ",
+      "電卓",
+      "時計"
+    ],
+    "correctIndex": 0,
+    "explanation": "任天堂は1889年に花札メーカーとして創業しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「セガ」の名前の由来は？",
+    "options": [
+      "Service Gamesの略",
+      "Superior Entertainment Gaming Associationの略",
+      "Strategic Electronic Game Artの略",
+      "System Entertainment Groupの略"
+    ],
+    "correctIndex": 0,
+    "explanation": "アメリカのService Gamesが前身で、SEGAはその略称です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「アーケードゲーム」とは何？",
+    "options": [
+      "ゲームセンターに置かれる業務用ゲーム",
+      "スマホゲーム",
+      "PCゲーム",
+      "ボードゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "ゲームセンターなどに設置される業務用のゲーム機のことです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ゲーミングマウス」の特徴は？",
+    "options": [
+      "高精度センサーと多ボタン",
+      "大きいサイズ",
+      "ワイヤレス専用",
+      "タッチパッド付き"
+    ],
+    "correctIndex": 0,
+    "explanation": "高精度センサー、DPI調整、追加ボタンなどゲーム向けの機能を持ちます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「バトルパス」とは何？",
+    "options": [
+      "シーズン限定の報酬システム",
+      "対戦チケット",
+      "ゲーム本体の購入権",
+      "課金アイテム"
+    ],
+    "correctIndex": 0,
+    "explanation": "プレイするほど報酬が得られるシーズン限定の進行型報酬システムです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ゲームパッド」の別名は？",
+    "options": [
+      "コントローラー",
+      "キーボード",
+      "マウス",
+      "ジョイスティック"
+    ],
+    "correctIndex": 0,
+    "explanation": "ゲーム操作用のコントローラーはゲームパッドとも呼ばれます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ラグ」とはオンラインゲームで何を指す？",
+    "options": [
+      "通信遅延",
+      "バグ",
+      "チート",
+      "課金"
+    ],
+    "correctIndex": 0,
+    "explanation": "ネットワーク通信の遅延で操作と画面にズレが生じる現象です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「デバッグ」とはゲーム開発で何をすること？",
+    "options": [
+      "バグを見つけて修正する",
+      "グラフィックを描く",
+      "音楽を作る",
+      "ストーリーを書く"
+    ],
+    "correctIndex": 0,
+    "explanation": "ゲーム内の不具合（バグ）を発見し修正する作業です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ネタバレ」を英語で何という？",
+    "options": [
+      "スポイラー",
+      "リーク",
+      "ハック",
+      "クラック"
+    ],
+    "correctIndex": 0,
+    "explanation": "ゲームやアニメの重要な展開を事前に明かすことをスポイラー（spoiler）と呼びます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「RTAイン ジャパン」とは何のイベント？",
+    "options": [
+      "ゲームのスピードラン",
+      "ゲーム音楽コンサート",
+      "コスプレ大会",
+      "ゲーム開発者会議"
+    ],
+    "correctIndex": 0,
+    "explanation": "RTA（リアルタイムアタック）のスピードラン大会で、チャリティイベントとしても知られます。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ゲーム配信」で最も利用されるプラットフォームは？",
+    "options": [
+      "Twitch",
+      "Facebook",
+      "Instagram",
+      "TikTok"
+    ],
+    "correctIndex": 0,
+    "explanation": "Twitchはゲーム配信に特化した世界最大のライブストリーミングプラットフォームです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「Discord」はゲーマーにとって何のサービス？",
+    "options": [
+      "ボイスチャット・コミュニティ",
+      "ゲーム販売",
+      "ゲーム開発",
+      "ゲームレビュー"
+    ],
+    "correctIndex": 0,
+    "explanation": "ゲーマー向けのボイスチャット・テキストチャットサービスとして広く使われています。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「VR」の正式名称は？",
+    "options": [
+      "バーチャルリアリティ",
+      "ビジュアルリアリティ",
+      "バーチカルリアリティ",
+      "ビデオリアリティ"
+    ],
+    "correctIndex": 0,
+    "explanation": "VR（Virtual Reality）は仮想現実の略です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「AR」の正式名称は？",
+    "options": [
+      "オーグメンテッドリアリティ",
+      "アドバンストリアリティ",
+      "オートリアリティ",
+      "アーティフィシャルリアリティ"
+    ],
+    "correctIndex": 0,
+    "explanation": "AR（Augmented Reality）は拡張現実の略で、ポケモンGOが有名です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「MMO」の正式名称は？",
+    "options": [
+      "マッシブリー マルチプレイヤー オンライン",
+      "マルチ メディア オンライン",
+      "マキシマム マルチ オペレーション",
+      "メガ マッチ オンライン"
+    ],
+    "correctIndex": 0,
+    "explanation": "MMO（Massively Multiplayer Online）は大規模多人数オンラインの略です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「エイム」とはFPSで何を意味する？",
+    "options": [
+      "照準を合わせること",
+      "回避すること",
+      "リロードすること",
+      "ジャンプすること"
+    ],
+    "correctIndex": 0,
+    "explanation": "FPSやTPSで敵に照準を合わせることをエイム（aim）と呼びます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「リスポーン」とは何？",
+    "options": [
+      "死んだ後に復活すること",
+      "ゲームをリセットすること",
+      "ログアウトすること",
+      "アイテムを拾うこと"
+    ],
+    "correctIndex": 0,
+    "explanation": "ゲーム内で倒された後にプレイヤーが再び出現することです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ナーフ」とはゲーム用語で何を意味する？",
+    "options": [
+      "キャラや武器を弱体化すること",
+      "強化すること",
+      "バグを修正すること",
+      "新キャラ追加"
+    ],
+    "correctIndex": 0,
+    "explanation": "バランス調整でキャラクターや武器の性能を下げることを指すゲーム用語です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「バフ」とはゲーム用語で何を意味する？",
+    "options": [
+      "能力を一時的に強化すること",
+      "弱体化すること",
+      "回復すること",
+      "逃げること"
+    ],
+    "correctIndex": 0,
+    "explanation": "味方の能力を一時的に上昇させる効果や行為を指します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「タンク」はパーティゲームでどんな役割？",
+    "options": [
+      "敵の攻撃を引き受ける",
+      "回復する",
+      "遠距離攻撃する",
+      "サポートする"
+    ],
+    "correctIndex": 0,
+    "explanation": "HPが高く敵の攻撃を引き受ける前衛の役割です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ヒーラー」はパーティゲームでどんな役割？",
+    "options": [
+      "味方を回復する",
+      "敵を攻撃する",
+      "罠を仕掛ける",
+      "偵察する"
+    ],
+    "correctIndex": 0,
+    "explanation": "味方のHPを回復したり状態異常を治す後方支援の役割です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「DPS」はゲーム用語で何の略？",
+    "options": [
+      "ダメージパーセカンド",
+      "デュアルプレイヤーシステム",
+      "デジタルプレイサービス",
+      "ダウンロードプレイステーション"
+    ],
+    "correctIndex": 0,
+    "explanation": "DPS（Damage Per Second）は1秒あたりのダメージ量を表す指標です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「RNG」はゲーム用語で何の略？",
+    "options": [
+      "ランダムナンバージェネレーター",
+      "リアルネットワークゲーム",
+      "ランクナショナルゲーム",
+      "リモートニューゲーム"
+    ],
+    "correctIndex": 0,
+    "explanation": "RNG（Random Number Generator）はゲーム内の乱数・運要素を指す用語です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「スクリーンショット」のゲーマー的略称は？",
+    "options": [
+      "スクショ",
+      "スクリ",
+      "スショ",
+      "ショット"
+    ],
+    "correctIndex": 0,
+    "explanation": "ゲーム画面のスクリーンショットを「スクショ」と略します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「周回プレイ」とは何？",
+    "options": [
+      "同じゲームを何度も繰り返しプレイする",
+      "画面を回転させるプレイ",
+      "マップを一周するプレイ",
+      "レースの周回"
+    ],
+    "correctIndex": 0,
+    "explanation": "クリア後にもう一度最初から遊んだり、素材集めで同じステージを繰り返すことです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「やり込み」とはどんなプレイスタイル？",
+    "options": [
+      "徹底的にゲームを極めること",
+      "短時間でクリアすること",
+      "ストーリーだけ見ること",
+      "複数人で遊ぶこと"
+    ],
+    "correctIndex": 0,
+    "explanation": "レベル上げ、コンプリート、タイムアタックなどゲームをとことん楽しむスタイルです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「トロフィー/実績」システムの目的は？",
+    "options": [
+      "プレイヤーの達成感を高める",
+      "課金を促す",
+      "広告を表示する",
+      "バグ報告"
+    ],
+    "correctIndex": 0,
+    "explanation": "特定の条件を達成すると獲得できるバッジで、やり込み要素を高めます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「サンドボックス」ゲームの特徴は？",
+    "options": [
+      "自由に創造・探索できる",
+      "一本道のストーリー",
+      "対戦専用",
+      "パズル要素のみ"
+    ],
+    "correctIndex": 0,
+    "explanation": "マインクラフトのように自由に世界を作ったり探索できるゲームスタイルです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ゲーム理論」のナッシュ均衡を考案した数学者は？",
+    "options": [
+      "ジョン・ナッシュ",
+      "アラン・チューリング",
+      "ジョン・フォン・ノイマン",
+      "アルバート・アインシュタイン"
+    ],
+    "correctIndex": 0,
+    "explanation": "ジョン・ナッシュが考案したナッシュ均衡は対戦ゲームの戦略分析にも応用されます。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「プロゲーマー」の主な収入源は？",
+    "options": [
+      "スポンサー・大会賞金・配信",
+      "ゲーム販売",
+      "ゲーム開発",
+      "ゲームレビュー"
+    ],
+    "correctIndex": 0,
+    "explanation": "プロゲーマーはスポンサー契約、大会賞金、配信収入が主な収入源です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ゲーム音楽」で使われる「チップチューン」とは？",
+    "options": [
+      "レトロゲーム機の音源を使った音楽",
+      "オーケストラ音楽",
+      "ジャズ",
+      "ロック"
+    ],
+    "correctIndex": 0,
+    "explanation": "ファミコン等の音源チップの音を活かしたレトロな音楽ジャンルです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ボスラッシュ」とは何？",
+    "options": [
+      "ボス敵と連続で戦うモード",
+      "ボスが逃げるモード",
+      "ボスなしモード",
+      "ボスを操作するモード"
+    ],
+    "correctIndex": 0,
+    "explanation": "ゲーム内のボス敵と連続で戦い続けるチャレンジモードです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「New Game+（強くてニューゲーム）」とは何？",
+    "options": [
+      "クリアデータを引き継いで最初から遊ぶ",
+      "全く新しいゲームを始める",
+      "DLCの名前",
+      "マルチプレイモード"
+    ],
+    "correctIndex": 0,
+    "explanation": "クリア時のレベルや装備を引き継いで最初から遊べるモードです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「隠しボス」とは何？",
+    "options": [
+      "通常プレイでは出会えない超強力なボス",
+      "見えない敵",
+      "最初のボス",
+      "ストーリーのラスボス"
+    ],
+    "correctIndex": 0,
+    "explanation": "特定条件を満たすと戦える、ラスボスより強い裏ボスのことです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「廃課金」とは何を意味する？",
+    "options": [
+      "大量に課金すること",
+      "課金をやめること",
+      "無課金プレイ",
+      "少額課金"
+    ],
+    "correctIndex": 0,
+    "explanation": "ソーシャルゲームに大量のお金を課金する行為や人を指すスラングです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「推しキャラ」とは？",
+    "options": [
+      "最も好きなキャラクター",
+      "主人公キャラ",
+      "最強キャラ",
+      "隠しキャラ"
+    ],
+    "correctIndex": 0,
+    "explanation": "自分が最も応援・愛着を持つキャラクターを指す言葉です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ゲーミングチェア」が一般の椅子と違う点は？",
+    "options": [
+      "長時間座っても疲れにくい設計",
+      "ゲーム機が内蔵",
+      "モニターが付いている",
+      "自動で動く"
+    ],
+    "correctIndex": 0,
+    "explanation": "長時間のゲームプレイに対応した人間工学に基づく設計が特徴です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「パッチ」とは何？",
+    "options": [
+      "ゲームの修正・更新プログラム",
+      "ゲームの続編",
+      "ゲームの本体",
+      "ゲームの説明書"
+    ],
+    "correctIndex": 0,
+    "explanation": "バグ修正やバランス調整のためにリリースされるアップデートプログラムです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「シーズンパス」とは何？",
+    "options": [
+      "将来のDLCをまとめて購入する権利",
+      "期間限定ゲーム",
+      "オンライン利用券",
+      "ゲーム本体の購入権"
+    ],
+    "correctIndex": 0,
+    "explanation": "今後リリースされるDLCをまとめてお得に購入できるパッケージです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「メタスコア」とは何？",
+    "options": [
+      "ゲームレビューの平均点数",
+      "ゲーム内の得点",
+      "開発者のランキング",
+      "売上ランキング"
+    ],
+    "correctIndex": 0,
+    "explanation": "Metacriticがまとめる各メディアのレビュー点数の加重平均値です。",
+    "difficulty": "medium"
+  }
+]

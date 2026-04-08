@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /flutter_bootstrap.js
+Disallow: /splash/
+Disallow: /main.dart.js
+
+Sitemap: https://otakuiq.app/sitemap.xml

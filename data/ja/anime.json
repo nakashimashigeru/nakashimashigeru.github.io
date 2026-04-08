@@ -1,0 +1,4802 @@
+[
+  {
+    "question": "「ドラゴンボール」の主人公は？",
+    "options": [
+      "ベジータ",
+      "悟空",
+      "ピッコロ",
+      "クリリン"
+    ],
+    "correctIndex": 1,
+    "explanation": "孫悟空はサイヤ人で、ドラゴンボールシリーズの主人公です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ONE PIECE」でルフィが食べた悪魔の実は？",
+    "options": [
+      "メラメラの実",
+      "ゴムゴムの実",
+      "バラバラの実",
+      "スベスベの実"
+    ],
+    "correctIndex": 1,
+    "explanation": "ゴムゴムの実を食べてゴム人間になりました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「鬼滅の刃」の主人公は？",
+    "options": [
+      "我妻善逸",
+      "嘴平伊之助",
+      "竈門炭治郎",
+      "冨岡義勇"
+    ],
+    "correctIndex": 2,
+    "explanation": "竈門炭治郎は家族を鬼に殺され、妹を救うために戦います。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ポケモン」のサトシのパートナーは？",
+    "options": [
+      "ヒトカゲ",
+      "ゼニガメ",
+      "フシギダネ",
+      "ピカチュウ"
+    ],
+    "correctIndex": 3,
+    "explanation": "ピカチュウはサトシの最初のパートナーポケモンです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「名探偵コナン」でコナンの正体は？",
+    "options": [
+      "毛利小五郎",
+      "服部平次",
+      "工藤新一",
+      "赤井秀一"
+    ],
+    "correctIndex": 2,
+    "explanation": "工藤新一が毒薬で体が縮み、江戸川コナンとして活動します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「NARUTO」の主人公の夢は？",
+    "options": [
+      "最強の忍者",
+      "火影になること",
+      "世界征服",
+      "仲間を守る"
+    ],
+    "correctIndex": 1,
+    "explanation": "うずまきナルトの夢は木ノ葉隠れの里の火影になることです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「進撃の巨人」で人類が住むのは？",
+    "options": [
+      "地下都市",
+      "壁の中",
+      "浮遊島",
+      "海底"
+    ],
+    "correctIndex": 1,
+    "explanation": "人類は巨人から身を守るため、三重の壁の中で暮らしています。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「千と千尋の神隠し」の監督は？",
+    "options": [
+      "新海誠",
+      "細田守",
+      "宮崎駿",
+      "庵野秀明"
+    ],
+    "correctIndex": 2,
+    "explanation": "宮崎駿監督のスタジオジブリ作品で、アカデミー賞を受賞しました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ドラえもん」はどこから来た？",
+    "options": [
+      "宇宙",
+      "未来",
+      "異世界",
+      "海底"
+    ],
+    "correctIndex": 1,
+    "explanation": "ドラえもんは22世紀の未来からのび太を助けに来ました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「呪術廻戦」で虎杖が飲み込んだのは？",
+    "options": [
+      "呪符",
+      "宿儺の指",
+      "呪霊の核",
+      "特級呪物"
+    ],
+    "correctIndex": 1,
+    "explanation": "両面宿儺の指を飲み込み、宿儺の器となりました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「スラムダンク」の主人公のスポーツは？",
+    "options": [
+      "サッカー",
+      "バスケットボール",
+      "バレーボール",
+      "テニス"
+    ],
+    "correctIndex": 1,
+    "explanation": "桜木花道がバスケットボールに出会い成長する物語です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「名探偵コナン」の主人公の本当の名前は？",
+    "options": [
+      "毛利小五郎",
+      "工藤新一",
+      "服部平次",
+      "怪盗キッド"
+    ],
+    "correctIndex": 1,
+    "explanation": "工藤新一が薬で小さくなり、江戸川コナンとして活躍します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「セーラームーン」の主人公の名前は？",
+    "options": [
+      "火野レイ",
+      "月野うさぎ",
+      "水野亜美",
+      "木野まこと"
+    ],
+    "correctIndex": 1,
+    "explanation": "月野うさぎがセーラームーンに変身して悪と戦います。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ワンパンマン」の主人公の特徴は？",
+    "options": [
+      "超スピード",
+      "一撃で倒す",
+      "不死身",
+      "変身能力"
+    ],
+    "correctIndex": 1,
+    "explanation": "サイタマはどんな敵も一撃（ワンパンチ）で倒せるヒーローです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「SPY×FAMILY」でアーニャの能力は？",
+    "options": [
+      "透視",
+      "超怪力",
+      "読心術",
+      "予知"
+    ],
+    "correctIndex": 2,
+    "explanation": "アーニャは人の心を読むことができる超能力者です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「僕のヒーローアカデミア」で個性を持たない主人公は？",
+    "options": [
+      "爆豪勝己",
+      "轟焦凍",
+      "緑谷出久",
+      "飯田天哉"
+    ],
+    "correctIndex": 2,
+    "explanation": "緑谷出久（デク）は無個性でしたがオールマイトから個性を受け継ぎます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「となりのトトロ」に出てくる乗り物は？",
+    "options": [
+      "魔法の絨毯",
+      "猫バス",
+      "ほうき",
+      "飛行石"
+    ],
+    "correctIndex": 1,
+    "explanation": "ネコバスはトトロの世界に登場する不思議な乗り物です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「銀魂」の舞台となる時代は？",
+    "options": [
+      "戦国時代",
+      "平安時代",
+      "SF江戸時代",
+      "現代"
+    ],
+    "correctIndex": 2,
+    "explanation": "宇宙人が来襲したパラレルワールドの江戸時代が舞台です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「デスノート」を拾った主人公は？",
+    "options": [
+      "L",
+      "夜神月",
+      "弥海砂",
+      "ニア"
+    ],
+    "correctIndex": 1,
+    "explanation": "夜神月がデスノートを拾い、犯罪者を裁く「キラ」になります。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ハイキュー!!」のスポーツは？",
+    "options": [
+      "サッカー",
+      "テニス",
+      "バレーボール",
+      "バドミントン"
+    ],
+    "correctIndex": 2,
+    "explanation": "日向翔陽がバレーボールに情熱を注ぐ青春物語です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「クレヨンしんちゃん」の主人公の年齢は？",
+    "options": [
+      "3歳",
+      "5歳",
+      "7歳",
+      "10歳"
+    ],
+    "correctIndex": 1,
+    "explanation": "野原しんのすけは5歳の幼稚園児です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「チェンソーマン」の主人公が変身するのは？",
+    "options": [
+      "狼男",
+      "チェンソーの悪魔",
+      "火の悪魔",
+      "銃の悪魔"
+    ],
+    "correctIndex": 1,
+    "explanation": "デンジはポチタと融合してチェンソーマンに変身します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「新世紀エヴァンゲリオン」の主人公は？",
+    "options": [
+      "渚カヲル",
+      "碇シンジ",
+      "相田ケンスケ",
+      "加持リョウジ"
+    ],
+    "correctIndex": 1,
+    "explanation": "碇シンジが巨大ロボ・エヴァに乗って使徒と戦います。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「魔女の宅急便」のキキの相棒は？",
+    "options": [
+      "白い犬",
+      "黒猫のジジ",
+      "フクロウ",
+      "カラス"
+    ],
+    "correctIndex": 1,
+    "explanation": "黒猫のジジはキキの魔女としての相棒です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「東京リベンジャーズ」の主人公の能力は？",
+    "options": [
+      "超能力",
+      "タイムリープ",
+      "不死",
+      "念力"
+    ],
+    "correctIndex": 1,
+    "explanation": "花垣武道は過去にタイムリープして運命を変えようとします。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ONE PIECE」の海賊王の名前は？",
+    "options": [
+      "シャンクス",
+      "白ひげ",
+      "ゴール・D・ロジャー",
+      "カイドウ"
+    ],
+    "correctIndex": 2,
+    "explanation": "ゴール・D・ロジャーは唯一グランドラインを制覇した海賊王です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「鬼滅の刃」で炭治郎が使う呼吸法は？",
+    "options": [
+      "炎の呼吸",
+      "水の呼吸",
+      "雷の呼吸",
+      "風の呼吸"
+    ],
+    "correctIndex": 1,
+    "explanation": "炭治郎は最初に水の呼吸を習得し、後にヒノカミ神楽も使います。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「NARUTO」で写輪眼を持つ一族は？",
+    "options": [
+      "日向一族",
+      "うちは一族",
+      "猿飛一族",
+      "千手一族"
+    ],
+    "correctIndex": 1,
+    "explanation": "うちは一族は写輪眼という特殊な瞳術を持つ名門です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「新世紀エヴァンゲリオン」の組織名は？",
+    "options": [
+      "ゼーレ",
+      "ネルフ",
+      "サード",
+      "シールド"
+    ],
+    "correctIndex": 1,
+    "explanation": "NERV（ネルフ）は使徒と戦うためにエヴァを運用する組織です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ジョジョの奇妙な冒険」第3部の主人公は？",
+    "options": [
+      "ジョセフ",
+      "承太郎",
+      "ジョルノ",
+      "仗助"
+    ],
+    "correctIndex": 1,
+    "explanation": "空条承太郎はスタンド「スタープラチナ」の使い手です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「HUNTER×HUNTER」でゴンの父親の名前は？",
+    "options": [
+      "レオリオ",
+      "カイト",
+      "ジン",
+      "クラピカ"
+    ],
+    "correctIndex": 2,
+    "explanation": "ジン＝フリークスは伝説的なハンターでゴンの父です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「進撃の巨人」の三重の壁の一番外側は？",
+    "options": [
+      "ウォール・ローゼ",
+      "ウォール・シーナ",
+      "ウォール・マリア",
+      "ウォール・フリッツ"
+    ],
+    "correctIndex": 2,
+    "explanation": "ウォール・マリアが最も外側で、巨人に最初に破壊されました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「BLEACH」の主人公・一護の卍解の名前は？",
+    "options": [
+      "斬月",
+      "天鎖斬月",
+      "千本桜",
+      "氷輪丸"
+    ],
+    "correctIndex": 1,
+    "explanation": "天鎖斬月は黒崎一護の卍解で、スピード特化型です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「鋼の錬金術師」の等価交換の法則とは？",
+    "options": [
+      "何でも作れる",
+      "同等の代価が必要",
+      "魔法は万能",
+      "時間を操る"
+    ],
+    "correctIndex": 1,
+    "explanation": "錬金術は「何かを得るには同等の代価が必要」が基本原則です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「コードギアス」でルルーシュの能力は？",
+    "options": [
+      "読心術",
+      "絶対遵守のギアス",
+      "未来予知",
+      "時間停止"
+    ],
+    "correctIndex": 1,
+    "explanation": "目を合わせた相手に一度だけ命令を絶対服従させる能力です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「約束のネバーランド」の孤児院の名前は？",
+    "options": [
+      "GF（グレイス＝フィールド）",
+      "ネバーランド",
+      "プラント",
+      "エデン"
+    ],
+    "correctIndex": 0,
+    "explanation": "グレイス＝フィールドハウスは実は鬼への食用児農園でした。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「推しの子」でアイの職業は？",
+    "options": [
+      "女優",
+      "アイドル",
+      "声優",
+      "モデル"
+    ],
+    "correctIndex": 1,
+    "explanation": "アイは「B小町」のセンターを務めるトップアイドルです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「葬送のフリーレン」のフリーレンの種族は？",
+    "options": [
+      "人間",
+      "ドワーフ",
+      "エルフ",
+      "魔族"
+    ],
+    "correctIndex": 2,
+    "explanation": "フリーレンは千年以上生きる長寿のエルフの魔法使いです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「DEATH NOTE」でLの本名は？",
+    "options": [
+      "夜神月",
+      "エル・ローライト",
+      "ニア",
+      "メロ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lの本名はエル・ローライトで、世界一の探偵です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ドラゴンボール」でフリーザの最終形態は何番目？",
+    "options": [
+      "第2形態",
+      "第3形態",
+      "第4形態",
+      "第5形態"
+    ],
+    "correctIndex": 2,
+    "explanation": "フリーザは第4形態（最終形態）で悟空と死闘を繰り広げました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「るろうに剣心」の主人公の通称は？",
+    "options": [
+      "人斬り抜刀斎",
+      "剣の達人",
+      "不殺の侍",
+      "流浪の剣客"
+    ],
+    "correctIndex": 0,
+    "explanation": "緋村剣心は幕末に「人斬り抜刀斎」として恐れられました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ジブリ」を設立した2人の監督は？",
+    "options": [
+      "宮崎駿と庵野秀明",
+      "宮崎駿と高畑勲",
+      "高畑勲と細田守",
+      "宮崎駿と押井守"
+    ],
+    "correctIndex": 1,
+    "explanation": "宮崎駿と高畑勲が1985年にスタジオジブリを設立しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「黒子のバスケ」で「キセキの世代」は何人？",
+    "options": [
+      "5人",
+      "6人",
+      "7人",
+      "8人"
+    ],
+    "correctIndex": 0,
+    "explanation": "黄瀬涼太、緑間真太郎、青峰大輝、紫原敦、赤司征十郎の5人です。黒子テツヤは「幻の第六人（シックスマン）」ですが、キセキの世代そのものには含まれません。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「暗殺教室」で殺せんせーの弱点は？",
+    "options": [
+      "水",
+      "対先生物質",
+      "火",
+      "電気"
+    ],
+    "correctIndex": 1,
+    "explanation": "対先生物質（特殊な素材）で作られた武器のみが有効です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Re:ゼロ」でスバルの能力は？",
+    "options": [
+      "時間停止",
+      "死に戻り",
+      "加速",
+      "瞬間移動"
+    ],
+    "correctIndex": 1,
+    "explanation": "ナツキ・スバルは死ぬと特定の時点に戻る「死に戻り」の能力を持ちます。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ソードアート・オンライン」で最初の舞台は？",
+    "options": [
+      "ALO",
+      "GGO",
+      "アインクラッド",
+      "アンダーワールド"
+    ],
+    "correctIndex": 2,
+    "explanation": "浮遊城アインクラッドが最初の舞台で、100層のクリアが目標です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「かぐや様は告らせたい」の舞台となる学校は？",
+    "options": [
+      "秀知院学園",
+      "私立桜蘭高校",
+      "音ノ木坂学院",
+      "浦の星女学院"
+    ],
+    "correctIndex": 0,
+    "explanation": "秀知院学園の生徒会で白銀とかぐやが恋の頭脳戦を繰り広げます。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「東京喰種」でカネキが変わるきっかけは？",
+    "options": [
+      "事故",
+      "喰種の臓器移植",
+      "呪い",
+      "実験"
+    ],
+    "correctIndex": 1,
+    "explanation": "リゼの臓器を移植され、半喰種となりました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Fate」シリーズでセイバーの真名は？",
+    "options": [
+      "ジャンヌ・ダルク",
+      "アルトリア・ペンドラゴン",
+      "ネロ",
+      "モードレッド"
+    ],
+    "correctIndex": 1,
+    "explanation": "セイバーの真名はアルトリア（アーサー王）です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「呪術廻戦」のアニメ制作会社は？",
+    "options": [
+      "ufotable",
+      "MAPPA",
+      "京都アニメーション",
+      "WIT STUDIO"
+    ],
+    "correctIndex": 1,
+    "explanation": "MAPPAが呪術廻戦のアニメーション制作を担当しています。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「AKIRA」の舞台となる年は？",
+    "options": [
+      "2019年",
+      "2020年",
+      "2030年",
+      "2050年"
+    ],
+    "correctIndex": 0,
+    "explanation": "1988年公開の映画で、2019年のネオ東京が舞台です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「攻殻機動隊」の主人公のフルネームは？",
+    "options": [
+      "草薙素子",
+      "荒巻大輔",
+      "バトー",
+      "トグサ"
+    ],
+    "correctIndex": 0,
+    "explanation": "草薙素子（少佐）は公安9課を率いるサイボーグです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「HUNTER×HUNTER」のヒソカの念能力は？",
+    "options": [
+      "円",
+      "伸縮自在の愛",
+      "神の左手悪魔の右手",
+      "盗賊の極意"
+    ],
+    "correctIndex": 1,
+    "explanation": "バンジーガム（伸縮自在の愛）はゴムとガムの性質を持ちます。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ジョジョ」第5部のジョルノのスタンド名は？",
+    "options": [
+      "キング・クリムゾン",
+      "ゴールド・エクスペリエンス",
+      "スティッキィ・フィンガーズ",
+      "パープル・ヘイズ"
+    ],
+    "correctIndex": 1,
+    "explanation": "ゴールド・エクスペリエンスは生命を与える能力を持ちます。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「鬼滅の刃」のアニメで炭治郎役の声優は？",
+    "options": [
+      "下野紘",
+      "花江夏樹",
+      "松岡禎丞",
+      "梶裕貴"
+    ],
+    "correctIndex": 1,
+    "explanation": "花江夏樹が竈門炭治郎を演じ、大きな注目を集めました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "京都アニメーション制作ではない作品は？",
+    "options": [
+      "けいおん!",
+      "涼宮ハルヒの憂鬱",
+      "進撃の巨人",
+      "ヴァイオレット・エヴァーガーデン"
+    ],
+    "correctIndex": 2,
+    "explanation": "進撃の巨人はWIT STUDIO（後にMAPPA）の制作です。京アニは上記3作品以外も数多くの名作を制作しています。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "日本アニメ初のアカデミー長編アニメーション賞受賞作は？",
+    "options": [
+      "もののけ姫",
+      "千と千尋の神隠し",
+      "AKIRA",
+      "君の名は。"
+    ],
+    "correctIndex": 1,
+    "explanation": "2003年の第75回アカデミー賞で千と千尋の神隠しが受賞しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「NARUTO」で穢土転生を開発した忍は？",
+    "options": [
+      "大蛇丸",
+      "扉間",
+      "カブト",
+      "マダラ"
+    ],
+    "correctIndex": 1,
+    "explanation": "二代目火影・千手扉間が穢土転生の術を開発しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ONE PIECE」の「Dの意志」を持つ人物でないのは？",
+    "options": [
+      "モンキー・D・ルフィ",
+      "ゴール・D・ロジャー",
+      "トラファルガー・D・ロー",
+      "ロロノア・ゾロ"
+    ],
+    "correctIndex": 3,
+    "explanation": "ゾロの名前に「D」は含まれていません。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「まどか☆マギカ」でキュゥべえの正体は？",
+    "options": [
+      "魔女",
+      "天使",
+      "インキュベーター",
+      "使い魔"
+    ],
+    "correctIndex": 2,
+    "explanation": "キュゥべえは宇宙のエントロピーを回収するインキュベーターです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「カウボーイビバップ」の宇宙船の名前は？",
+    "options": [
+      "ビバップ号",
+      "ソードフィッシュ",
+      "レッドテイル",
+      "ハンマーヘッド"
+    ],
+    "correctIndex": 0,
+    "explanation": "ビバップ号はスパイクたちの母船で、元漁船です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「もののけ姫」のアシタカの出身は？",
+    "options": [
+      "たたら場",
+      "エミシの村",
+      "森の民",
+      "唐傘連"
+    ],
+    "correctIndex": 1,
+    "explanation": "アシタカは東北のエミシの一族の長の末裔です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "アニメ史上初のテレビアニメ作品は？",
+    "options": [
+      "鉄腕アトム",
+      "サザエさん",
+      "カレンダーに残った話",
+      "鉄人28号"
+    ],
+    "correctIndex": 0,
+    "explanation": "1963年放送の「鉄腕アトム」が日本初の連続テレビアニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「銀河英雄伝説」の2大勢力は？",
+    "options": [
+      "地球と火星",
+      "帝国と同盟",
+      "連邦と公国",
+      "王国と共和国"
+    ],
+    "correctIndex": 1,
+    "explanation": "銀河帝国と自由惑星同盟の戦いを描いた壮大なSF作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「君の名は。」の興行収入は日本映画歴代何位？（公開当時）",
+    "options": [
+      "1位",
+      "2位",
+      "3位",
+      "5位"
+    ],
+    "correctIndex": 1,
+    "explanation": "2016年公開時、日本映画歴代2位（約250億円）の興行収入を記録しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「GHOST IN THE SHELL」が公開された年は？",
+    "options": [
+      "1993年",
+      "1995年",
+      "1997年",
+      "1999年"
+    ],
+    "correctIndex": 1,
+    "explanation": "1995年公開で、後の「マトリックス」に大きな影響を与えました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ベルセルク」の主人公ガッツの武器は？",
+    "options": [
+      "日本刀",
+      "ドラゴン殺し",
+      "魔法の杖",
+      "双剣"
+    ],
+    "correctIndex": 1,
+    "explanation": "ドラゴン殺しは人間が振るうには大きすぎる巨大な鉄塊の剣です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ドラゴンボール」の元ネタとなった古典は？",
+    "options": [
+      "三国志",
+      "水滸伝",
+      "西遊記",
+      "封神演義"
+    ],
+    "correctIndex": 2,
+    "explanation": "孫悟空・筋斗雲・如意棒など西遊記の要素が多数あります。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「エヴァンゲリオン」の「人類補完計画」の目的は？",
+    "options": [
+      "巨人化",
+      "人類の統合",
+      "タイムトラベル",
+      "宇宙移住"
+    ],
+    "correctIndex": 1,
+    "explanation": "全人類の魂をひとつに統合し、孤独や争いをなくす計画です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「SLAM DUNK」で花道が最後に決めたシュートは？",
+    "options": [
+      "ダンク",
+      "レイアップ",
+      "ミドルシュート",
+      "3ポイント"
+    ],
+    "correctIndex": 2,
+    "explanation": "山王戦のラストで静かにミドルシュートを決めました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「蟲師」の主人公ギンコが扱うのは？",
+    "options": [
+      "妖怪",
+      "蟲",
+      "精霊",
+      "幽霊"
+    ],
+    "correctIndex": 1,
+    "explanation": "蟲は生命の根源に近い存在で、ギンコはその専門家（蟲師）です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「天元突破グレンラガン」の名台詞は？",
+    "options": [
+      "逃げちゃダメだ",
+      "お前の〇〇は天を衝く〇〇だ",
+      "あきらめたらそこで試合終了",
+      "真実はいつもひとつ"
+    ],
+    "correctIndex": 1,
+    "explanation": "「お前のドリルは天を衝くドリルだ」はカミナの名言です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「サイバーパンク: エッジランナーズ」を制作した日本のスタジオは？",
+    "options": [
+      "MAPPA",
+      "TRIGGER",
+      "Production I.G",
+      "ボンズ"
+    ],
+    "correctIndex": 1,
+    "explanation": "TRIGGERがCD Projekt REDと共同で制作し、Netflixで世界配信されました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "スタジオジブリ初の長編作品は？",
+    "options": [
+      "となりのトトロ",
+      "天空の城ラピュタ",
+      "風の谷のナウシカ",
+      "もののけ姫"
+    ],
+    "correctIndex": 1,
+    "explanation": "1986年の天空の城ラピュタがジブリ設立後最初の長編作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ヴィンランド・サガ」の主人公の名前は？",
+    "options": [
+      "アシェラッド",
+      "トルフィン",
+      "カヌート",
+      "トルケル"
+    ],
+    "correctIndex": 1,
+    "explanation": "トルフィンは父の仇を追いながら本当の戦士の意味を探します。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「スラムダンク」の主人公は？",
+    "options": [
+      "流川楓",
+      "桜木花道",
+      "三井寿",
+      "赤木剛憲"
+    ],
+    "correctIndex": 1,
+    "explanation": "桜木花道は湘北高校バスケ部の主人公です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「鋼の錬金術師」でエドワードの弟の名前は？",
+    "options": [
+      "ロイ",
+      "アル",
+      "リン",
+      "スカー"
+    ],
+    "correctIndex": 1,
+    "explanation": "アルフォンス・エルリック（アル）はエドワードの弟です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ワンパンマン」の主人公の名前は？",
+    "options": [
+      "ジェノス",
+      "キング",
+      "サイタマ",
+      "ガロウ"
+    ],
+    "correctIndex": 2,
+    "explanation": "サイタマは一撃で敵を倒すヒーローです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「SPY×FAMILY」でアーニャの特殊能力は？",
+    "options": [
+      "透明になる",
+      "心が読める",
+      "未来が見える",
+      "空を飛べる"
+    ],
+    "correctIndex": 1,
+    "explanation": "アーニャは他人の心を読むことができる超能力者です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「となりのトトロ」で姉妹の名前は？",
+    "options": [
+      "サツキとメイ",
+      "リンとチヒロ",
+      "ナウシカとクシャナ",
+      "ソフィーとハウル"
+    ],
+    "correctIndex": 0,
+    "explanation": "サツキとメイの姉妹がトトロと出会う物語です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「銀魂」の主人公の名前は？",
+    "options": [
+      "土方十四郎",
+      "坂田銀時",
+      "高杉晋助",
+      "桂小太郎"
+    ],
+    "correctIndex": 1,
+    "explanation": "坂田銀時は万事屋を営む侍です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ハイキュー!!」の主人公のポジションは？",
+    "options": [
+      "セッター",
+      "リベロ",
+      "ミドルブロッカー",
+      "ウイングスパイカー"
+    ],
+    "correctIndex": 3,
+    "explanation": "日向翔陽はウイングスパイカー（WS）としてプレーします。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「デスノート」で主人公がノートを拾った後に現れたのは？",
+    "options": [
+      "天使",
+      "悪魔",
+      "死神",
+      "妖精"
+    ],
+    "correctIndex": 2,
+    "explanation": "死神リュークがデスノートを落とし、夜神月が拾いました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「僕のヒーローアカデミア」で主人公の個性は？",
+    "options": [
+      "爆破",
+      "半冷半燃",
+      "ワン・フォー・オール",
+      "消失"
+    ],
+    "correctIndex": 2,
+    "explanation": "緑谷出久はオールマイトからワン・フォー・オールを受け継ぎました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ブリーチ」の主人公は？",
+    "options": [
+      "朽木ルキア",
+      "黒崎一護",
+      "日番谷冬獅郎",
+      "浦原喜助"
+    ],
+    "correctIndex": 1,
+    "explanation": "黒崎一護は死神代行として活躍します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「約束のネバーランド」で子供たちが暮らす場所は？",
+    "options": [
+      "学校",
+      "孤児院",
+      "病院",
+      "寺院"
+    ],
+    "correctIndex": 1,
+    "explanation": "グレイス＝フィールドハウスという孤児院が舞台です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ソードアート・オンライン」の主人公の通称は？",
+    "options": [
+      "アスナ",
+      "クライン",
+      "キリト",
+      "リーファ"
+    ],
+    "correctIndex": 2,
+    "explanation": "桐ヶ谷和人のゲーム内キャラクター名がキリトです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「魔法少女まどか☆マギカ」でまどかに契約を迫るのは？",
+    "options": [
+      "マミ",
+      "ほむら",
+      "キュゥべえ",
+      "さやか"
+    ],
+    "correctIndex": 2,
+    "explanation": "キュゥべえ（インキュベーター）が少女たちに魔法少女の契約を持ちかけます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「クレヨンしんちゃん」の主人公の本名は？",
+    "options": [
+      "野原しんのすけ",
+      "野原ひろし",
+      "野原みさえ",
+      "野原ひまわり"
+    ],
+    "correctIndex": 0,
+    "explanation": "野原しんのすけ（5歳）が主人公です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「リゼロ」で主人公スバルの特殊能力は？",
+    "options": [
+      "時間停止",
+      "死に戻り",
+      "瞬間移動",
+      "透視"
+    ],
+    "correctIndex": 1,
+    "explanation": "ナツキ・スバルは死ぬと特定の時点に戻る「死に戻り」の能力を持ちます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「天元突破グレンラガン」のロボットのエネルギー源は？",
+    "options": [
+      "電気",
+      "核エネルギー",
+      "螺旋力",
+      "魔力"
+    ],
+    "correctIndex": 2,
+    "explanation": "螺旋力（スパイラルパワー）がグレンラガンの力の源です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「黒子のバスケ」の主人公の特技は？",
+    "options": [
+      "超高速ドリブル",
+      "存在感の薄さを活かしたパス",
+      "3ポイントシュート",
+      "ダンク"
+    ],
+    "correctIndex": 1,
+    "explanation": "黒子テツヤは存在感の薄さを利用したミスディレクションが特技です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「フルーツバスケット」で十二支に変身する一族は？",
+    "options": [
+      "本田家",
+      "草摩家",
+      "花島家",
+      "魚谷家"
+    ],
+    "correctIndex": 1,
+    "explanation": "草摩家の人々が異性に抱きつかれると十二支の動物に変身します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「かぐや様は告らせたい」の舞台は？",
+    "options": [
+      "普通の公立高校",
+      "秀知院学園",
+      "青春学園",
+      "帝光中学"
+    ],
+    "correctIndex": 1,
+    "explanation": "秀知院学園の生徒会が舞台のラブコメです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「暗殺教室」で生徒たちが暗殺する対象は？",
+    "options": [
+      "校長",
+      "担任の先生",
+      "隣のクラスの生徒",
+      "宇宙人"
+    ],
+    "correctIndex": 1,
+    "explanation": "殺せんせーという超生物が担任を務め、生徒は暗殺を試みます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「東京喰種」の主人公がなったのは？",
+    "options": [
+      "吸血鬼",
+      "狼男",
+      "喰種（グール）",
+      "ゾンビ"
+    ],
+    "correctIndex": 2,
+    "explanation": "金木研は事故をきっかけに半喰種になりました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「コードギアス」で主人公が得た力は？",
+    "options": [
+      "超スピード",
+      "ギアス（絶対遵守の力）",
+      "テレパシー",
+      "不死身"
+    ],
+    "correctIndex": 1,
+    "explanation": "ルルーシュはC.C.からギアスの力を授かりました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「けいおん！」の部活は？",
+    "options": [
+      "吹奏楽部",
+      "軽音楽部",
+      "合唱部",
+      "演劇部"
+    ],
+    "correctIndex": 1,
+    "explanation": "桜が丘高校の軽音楽部が舞台です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ちびまる子ちゃん」の舞台の都市は？",
+    "options": [
+      "東京",
+      "大阪",
+      "静岡（清水）",
+      "名古屋"
+    ],
+    "correctIndex": 2,
+    "explanation": "静岡県清水市（現・静岡市清水区）が舞台です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「アンパンマン」で主人公の頭は何でできている？",
+    "options": [
+      "メロンパン",
+      "カレーパン",
+      "あんパン",
+      "クリームパン"
+    ],
+    "correctIndex": 2,
+    "explanation": "アンパンマンの頭はあんパンでできています。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ラブライブ！」のグループ名は？",
+    "options": [
+      "A-RISE",
+      "μ's",
+      "Aqours",
+      "Liella!"
+    ],
+    "correctIndex": 1,
+    "explanation": "初代ラブライブ！のスクールアイドルグループはμ's（ミューズ）です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「推しの子」の主人公アイの職業は？",
+    "options": [
+      "声優",
+      "女優",
+      "アイドル",
+      "モデル"
+    ],
+    "correctIndex": 2,
+    "explanation": "星野アイはB小町というアイドルグループのセンターです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「チェンソーマン」の主人公デンジの相棒は？",
+    "options": [
+      "パワー",
+      "マキマ",
+      "アキ",
+      "ポチタ"
+    ],
+    "correctIndex": 3,
+    "explanation": "ポチタはチェンソーの悪魔で、デンジの心臓になりました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ドラゴンボール」で願いを叶えるのに必要な球の数は？",
+    "options": [
+      "3個",
+      "5個",
+      "7個",
+      "9個"
+    ],
+    "correctIndex": 2,
+    "explanation": "ドラゴンボールは7つ集めると神龍が現れ願いを叶えます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「犬夜叉」の時代設定は？",
+    "options": [
+      "現代のみ",
+      "平安時代",
+      "戦国時代と現代",
+      "江戸時代"
+    ],
+    "correctIndex": 2,
+    "explanation": "かごめが井戸を通じて戦国時代と現代を行き来します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「転生したらスライムだった件」の主人公の名前は？",
+    "options": [
+      "リムル",
+      "ベニマル",
+      "シュナ",
+      "ヴェルドラ"
+    ],
+    "correctIndex": 0,
+    "explanation": "リムル＝テンペストはスライムに転生した主人公です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「幽☆遊☆白書」の主人公は？",
+    "options": [
+      "蔵馬",
+      "飛影",
+      "浦飯幽助",
+      "桑原和真"
+    ],
+    "correctIndex": 2,
+    "explanation": "浦飯幽助は霊界探偵として活躍する主人公です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「北斗の拳」の有名なセリフは？",
+    "options": [
+      "「お前はもう死んでいる」",
+      "「月に代わっておしおきよ」",
+      "「諦めたらそこで試合終了」",
+      "「真実はいつも一つ」"
+    ],
+    "correctIndex": 0,
+    "explanation": "ケンシロウの「お前はもう死んでいる」は最も有名なセリフです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「HUNTER×HUNTER」の主人公の名前は？",
+    "options": [
+      "キルア",
+      "クラピカ",
+      "ゴン",
+      "レオリオ"
+    ],
+    "correctIndex": 2,
+    "explanation": "ゴン＝フリークスがハンターを目指す少年です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ルパン三世」でルパンのライバルの警部は？",
+    "options": [
+      "毛利小五郎",
+      "銭形警部",
+      "目暮警部",
+      "中森警部"
+    ],
+    "correctIndex": 1,
+    "explanation": "銭形幸一警部はルパン逮捕に執念を燃やすICPOの刑事です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「風の谷のナウシカ」で人類を脅かす存在は？",
+    "options": [
+      "巨人",
+      "腐海",
+      "地底人",
+      "魔族"
+    ],
+    "correctIndex": 1,
+    "explanation": "腐海という有毒な菌類の森が人類の生存を脅かしています。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「サザエさん」でサザエさんの夫の名前は？",
+    "options": [
+      "マスオ",
+      "カツオ",
+      "波平",
+      "タラオ"
+    ],
+    "correctIndex": 0,
+    "explanation": "フグ田マスオがサザエさんの夫です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「あの花」の正式タイトルに含まれる花は？",
+    "options": [
+      "ひまわり",
+      "桜",
+      "すみれ",
+      "名前を知らない花"
+    ],
+    "correctIndex": 3,
+    "explanation": "正式タイトルは「あの日見た花の名前を僕達はまだ知らない。」です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「シュタインズ・ゲート」のテーマは？",
+    "options": [
+      "宇宙旅行",
+      "タイムトラベル",
+      "異世界転生",
+      "ロボット戦争"
+    ],
+    "correctIndex": 1,
+    "explanation": "電子レンジを改造したタイムマシンによるタイムトラベルが主題です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「BLEACH」で主人公が使う刀の名前は？",
+    "options": [
+      "斬月",
+      "千本桜",
+      "氷輪丸",
+      "斬魄刀"
+    ],
+    "correctIndex": 0,
+    "explanation": "黒崎一護の斬魄刀は「斬月（ざんげつ）」です。卍解の名前は「天鎖斬月」ですが、刀そのものの名前は斬月です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「このすば」の主人公カズマが異世界に連れて行った女神は？",
+    "options": [
+      "エリス",
+      "アクア",
+      "ウィズ",
+      "めぐみん"
+    ],
+    "correctIndex": 1,
+    "explanation": "アクアは水の女神で、カズマと共に異世界に転移しました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「夏目友人帳」で夏目が引き継いだものは？",
+    "options": [
+      "刀",
+      "友人帳",
+      "魔導書",
+      "宝石"
+    ],
+    "correctIndex": 1,
+    "explanation": "祖母レイコから妖怪の名前が書かれた友人帳を引き継ぎました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「弱虫ペダル」のスポーツは？",
+    "options": [
+      "水泳",
+      "マラソン",
+      "自転車ロードレース",
+      "トライアスロン"
+    ],
+    "correctIndex": 2,
+    "explanation": "自転車ロードレースを題材にしたスポーツアニメです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「テニスの王子様」の主人公は？",
+    "options": [
+      "手塚国光",
+      "不二周助",
+      "越前リョーマ",
+      "大石秀一郎"
+    ],
+    "correctIndex": 2,
+    "explanation": "越前リョーマは青春学園テニス部に入部した天才プレーヤーです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「怪獣8号」で主人公がなったのは？",
+    "options": [
+      "巨人",
+      "怪獣",
+      "ロボット",
+      "エイリアン"
+    ],
+    "correctIndex": 1,
+    "explanation": "日比野カフカが謎の生物に寄生されて怪獣化しました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「FAIRY TAIL」の主人公ナツの魔法は？",
+    "options": [
+      "氷の魔法",
+      "火のドラゴンスレイヤー",
+      "星霊魔法",
+      "鎧騎士"
+    ],
+    "correctIndex": 1,
+    "explanation": "ナツ・ドラグニルは火のドラゴンスレイヤー魔法の使い手です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「文豪ストレイドッグス」のキャラクターの名前の由来は？",
+    "options": [
+      "日本の神話",
+      "実在の文豪",
+      "星座",
+      "歴史上の武将"
+    ],
+    "correctIndex": 1,
+    "explanation": "太宰治、中島敦、芥川龍之介など実在の文豪の名前が使われています。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「異世界おじさん」の設定は？",
+    "options": [
+      "異世界から帰ってきたおじさんの話",
+      "異世界に行くおじさんの冒険",
+      "異世界出身のおじさんが現代に来る",
+      "未来から来たおじさん"
+    ],
+    "correctIndex": 0,
+    "explanation": "17年間異世界にいたおじさんが現代に戻り、異世界での体験を語ります。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「メイドインアビス」の「アビス」とは？",
+    "options": [
+      "宇宙空間",
+      "海底",
+      "巨大な穴",
+      "異世界への入口"
+    ],
+    "correctIndex": 2,
+    "explanation": "アビスは地上に開いた巨大な縦穴で、未知の生物や遺物が眠っています。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「呪術廻戦」で最強の呪術師と呼ばれるのは？",
+    "options": [
+      "虎杖悠仁",
+      "伏黒恵",
+      "五条悟",
+      "夏油傑"
+    ],
+    "correctIndex": 2,
+    "explanation": "五条悟は最強の呪術師として知られています。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ぼっち・ざ・ろっく！」の主人公の趣味は？",
+    "options": [
+      "歌",
+      "ギター",
+      "ドラム",
+      "ピアノ"
+    ],
+    "correctIndex": 1,
+    "explanation": "後藤ひとり（ぼっちちゃん）はギターが得意な陰キャ少女です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ゴールデンカムイ」の舞台は？",
+    "options": [
+      "東京",
+      "沖縄",
+      "北海道",
+      "京都"
+    ],
+    "correctIndex": 2,
+    "explanation": "明治末期の北海道を舞台にアイヌの金塊を巡る物語です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「無職転生」の主人公が転生した世界の名前は？",
+    "options": [
+      "異世界",
+      "六面世界",
+      "ファンタジア",
+      "エデン"
+    ],
+    "correctIndex": 1,
+    "explanation": "主人公ルーデウスが転生したのは六面世界と呼ばれる世界です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「五等分の花嫁」で花嫁候補は何人姉妹？",
+    "options": [
+      "3人",
+      "4人",
+      "5人",
+      "6人"
+    ],
+    "correctIndex": 2,
+    "explanation": "中野家の五つ子姉妹（一花・二乃・三玖・四葉・五月）が花嫁候補です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「モブサイコ100」の主人公モブの本名は？",
+    "options": [
+      "花沢輝気",
+      "影山茂夫",
+      "霊幻新隆",
+      "エクボ"
+    ],
+    "correctIndex": 1,
+    "explanation": "影山茂夫（しげお）があだ名「モブ」で呼ばれる超能力少年です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「Dr.STONE」で人類が石化してから何年後に主人公が目覚める？",
+    "options": [
+      "100年後",
+      "1000年後",
+      "3700年後",
+      "1万年後"
+    ],
+    "correctIndex": 2,
+    "explanation": "石神千空は約3700年後に石化から復活しました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「Fate/Zero」でセイバーの真名は？",
+    "options": [
+      "ジャンヌ・ダルク",
+      "アルトリア・ペンドラゴン",
+      "ネロ",
+      "メドゥーサ"
+    ],
+    "correctIndex": 1,
+    "explanation": "セイバーの正体はアーサー王（アルトリア・ペンドラゴン）です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ヴァイオレット・エヴァーガーデン」の主人公の職業は？",
+    "options": [
+      "軍人",
+      "医者",
+      "自動手記人形（ドール）",
+      "教師"
+    ],
+    "correctIndex": 2,
+    "explanation": "ヴァイオレットは手紙の代筆業である自動手記人形として働きます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ダイヤのA」のスポーツは？",
+    "options": [
+      "サッカー",
+      "バスケ",
+      "野球",
+      "テニス"
+    ],
+    "correctIndex": 2,
+    "explanation": "野球を題材にしたスポーツアニメです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「薬屋のひとりごと」の主人公の特技は？",
+    "options": [
+      "剣術",
+      "薬学・毒物の知識",
+      "魔法",
+      "料理"
+    ],
+    "correctIndex": 1,
+    "explanation": "猫猫（マオマオ）は薬学と毒物に精通した薬師です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ブルーロック」のテーマは？",
+    "options": [
+      "バスケ",
+      "野球",
+      "サッカー",
+      "テニス"
+    ],
+    "correctIndex": 2,
+    "explanation": "世界一のストライカーを育てるプロジェクトを描くサッカーアニメです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「魔入りました！入間くん」の舞台は？",
+    "options": [
+      "天界",
+      "魔界の学校",
+      "人間界の高校",
+      "異世界"
+    ],
+    "correctIndex": 1,
+    "explanation": "人間の入間くんが魔界の学校に通うコメディです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ゆるキャン△」のテーマは？",
+    "options": [
+      "登山",
+      "キャンプ",
+      "釣り",
+      "サイクリング"
+    ],
+    "correctIndex": 1,
+    "explanation": "女子高生たちのキャンプ生活を描いたアニメです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「盾の勇者の成り上がり」で主人公が使う武器は？",
+    "options": [
+      "剣",
+      "槍",
+      "弓",
+      "盾"
+    ],
+    "correctIndex": 3,
+    "explanation": "岩谷尚文は四聖勇者の一人「盾の勇者」として召喚されました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「AKIRA」の舞台となる都市は？",
+    "options": [
+      "ネオ大阪",
+      "ネオ東京",
+      "ネオ横浜",
+      "ネオ京都"
+    ],
+    "correctIndex": 1,
+    "explanation": "2019年のネオ東京が舞台の大友克洋によるSFアニメ映画です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「攻殻機動隊」の主人公の名前は？",
+    "options": [
+      "バトー",
+      "トグサ",
+      "草薙素子",
+      "荒巻"
+    ],
+    "correctIndex": 2,
+    "explanation": "草薙素子（少佐）は公安9課のリーダーです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "スタジオジブリの最初の長編映画は？",
+    "options": [
+      "となりのトトロ",
+      "天空の城ラピュタ",
+      "風の谷のナウシカ",
+      "もののけ姫"
+    ],
+    "correctIndex": 1,
+    "explanation": "1986年の「天空の城ラピュタ」がジブリの最初の長編映画です。ナウシカはジブリ設立前の作品。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「エヴァンゲリオン」のTV版最終回が物議を醸した理由は？",
+    "options": [
+      "放送が打ち切られた",
+      "内面描写中心の抽象的な内容だった",
+      "結末が明るすぎた",
+      "作画が崩壊した"
+    ],
+    "correctIndex": 1,
+    "explanation": "25・26話は予算不足もあり、内面描写中心の実験的な内容で議論を呼びました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「カウボーイビバップ」のジャンルは？",
+    "options": [
+      "ファンタジー",
+      "SF・スペースウエスタン",
+      "ホラー",
+      "学園もの"
+    ],
+    "correctIndex": 1,
+    "explanation": "宇宙を舞台にした賞金稼ぎの物語で、ジャズが特徴的なSF作品です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「PSYCHO-PASS」で犯罪を予測するシステムは？",
+    "options": [
+      "マトリックス",
+      "シビュラシステム",
+      "ドミネーター",
+      "ラプラス"
+    ],
+    "correctIndex": 1,
+    "explanation": "シビュラシステムが市民の精神状態を数値化して犯罪を予測します。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「まどか☆マギカ」で衝撃的な展開があったのは第何話？",
+    "options": [
+      "第1話",
+      "第3話",
+      "第6話",
+      "第10話"
+    ],
+    "correctIndex": 1,
+    "explanation": "第3話でマミが魔女に倒されるシーンが視聴者に大きな衝撃を与えました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Fate/stay night」の3つのルートでないのは？",
+    "options": [
+      "Fate",
+      "UBW",
+      "HF",
+      "Zero"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fate、Unlimited Blade Works、Heaven's Feelの3ルートです。Zeroは前日譚。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「物語シリーズ」の原作者は？",
+    "options": [
+      "奈須きのこ",
+      "西尾維新",
+      "虚淵玄",
+      "上遠野浩平"
+    ],
+    "correctIndex": 1,
+    "explanation": "西尾維新が「化物語」などの物語シリーズを執筆しています。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「STEINS;GATE」のジャンルは？",
+    "options": [
+      "ロボットアニメ",
+      "タイムトラベルSF",
+      "異世界ファンタジー",
+      "スポーツ"
+    ],
+    "correctIndex": 1,
+    "explanation": "タイムトラベルをテーマにしたSFサスペンスです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Re:ゼロ」のアニメスタジオは？",
+    "options": [
+      "ufotable",
+      "MAPPA",
+      "WHITE FOX",
+      "京都アニメーション"
+    ],
+    "correctIndex": 2,
+    "explanation": "WHITE FOXがRe:ゼロのアニメーション制作を担当しています。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「鬼滅の刃」のアニメ制作会社は？",
+    "options": [
+      "ボンズ",
+      "ufotable",
+      "A-1 Pictures",
+      "WIT STUDIO"
+    ],
+    "correctIndex": 1,
+    "explanation": "ufotableの高品質な作画が鬼滅の刃の大ヒットに貢献しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ガンダムSEED」が放送された年は？",
+    "options": [
+      "2000年",
+      "2002年",
+      "2004年",
+      "2006年"
+    ],
+    "correctIndex": 1,
+    "explanation": "2002年に放送開始し、21世紀のガンダムシリーズの代表作となりました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「コードギアス」の舞台となる架空の帝国は？",
+    "options": [
+      "ブリタニア帝国",
+      "ローマ帝国",
+      "ジオン公国",
+      "プランテイション"
+    ],
+    "correctIndex": 0,
+    "explanation": "神聖ブリタニア帝国が日本を支配する架空の世界が舞台です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「涼宮ハルヒの憂鬱」の「エンドレスエイト」とは？",
+    "options": [
+      "8話連続の戦闘シーン",
+      "同じ内容を8回繰り返す放送",
+      "8人のキャラクターの物語",
+      "8つの並行世界"
+    ],
+    "correctIndex": 1,
+    "explanation": "2009年の2期で同じストーリーを微妙に変えて8回放送し大きな話題に。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「天気の子」の監督は？",
+    "options": [
+      "細田守",
+      "宮崎駿",
+      "新海誠",
+      "庵野秀明"
+    ],
+    "correctIndex": 2,
+    "explanation": "新海誠監督の2019年公開作品です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「サイバーパンク: エッジランナーズ」の制作スタジオは？",
+    "options": [
+      "MAPPA",
+      "トリガー",
+      "A-1",
+      "ボンズ"
+    ],
+    "correctIndex": 1,
+    "explanation": "スタジオトリガーがNetflixアニメとして制作しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「プロメア」を制作したスタジオは？",
+    "options": [
+      "ufotable",
+      "サンライズ",
+      "トリガー",
+      "Production I.G"
+    ],
+    "correctIndex": 2,
+    "explanation": "今石洋之監督・スタジオトリガー制作の2019年劇場アニメです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「メイドインアビス」の探窟家のランクで最高位は？",
+    "options": [
+      "赤笛",
+      "青笛",
+      "黒笛",
+      "白笛"
+    ],
+    "correctIndex": 3,
+    "explanation": "白笛は最高ランクの探窟家で「伝説的」な存在です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「CLANNAD」のゲーム制作会社は？",
+    "options": [
+      "TYPE-MOON",
+      "Leaf",
+      "Key",
+      "Nitroplus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Key（ビジュアルアーツ）が制作した恋愛アドベンチャーゲームです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「シャーマンキング」の作者は？",
+    "options": [
+      "冨樫義博",
+      "尾田栄一郎",
+      "武井宏之",
+      "岸本斉史"
+    ],
+    "correctIndex": 2,
+    "explanation": "武井宏之がジャンプで連載した霊能力バトル漫画です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「機動警察パトレイバー」のテーマは？",
+    "options": [
+      "宇宙戦争",
+      "ロボットを使った警察活動",
+      "魔法",
+      "異世界探検"
+    ],
+    "correctIndex": 1,
+    "explanation": "レイバーという作業ロボットの犯罪を取り締まる警察の物語です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "京都アニメーションの代表作でないのは？",
+    "options": [
+      "けいおん！",
+      "涼宮ハルヒ",
+      "進撃の巨人",
+      "響け！ユーフォニアム"
+    ],
+    "correctIndex": 2,
+    "explanation": "進撃の巨人はWIT STUDIO/MAPPAの制作です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「デュラララ!!」の舞台は？",
+    "options": [
+      "渋谷",
+      "池袋",
+      "秋葉原",
+      "新宿"
+    ],
+    "correctIndex": 1,
+    "explanation": "東京・池袋を舞台にした群像劇です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「銀河英雄伝説」の原作は？",
+    "options": [
+      "漫画",
+      "小説",
+      "ゲーム",
+      "映画"
+    ],
+    "correctIndex": 1,
+    "explanation": "田中芳樹のSF小説が原作で、OVA・アニメ化されました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「TIGER & BUNNY」のスポンサー要素が特徴的な理由は？",
+    "options": [
+      "実在企業のロゴがヒーローのスーツに表示される",
+      "ヒーローが企業の広告を作る",
+      "企業がヒーローを選挙で選ぶ",
+      "スポンサーがヒーローの敵になる"
+    ],
+    "correctIndex": 0,
+    "explanation": "ヒーロースーツに実在の企業ロゴが入る商業的な演出が斬新でした。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「とある魔術の禁書目録」の主人公の能力は？",
+    "options": [
+      "超電磁砲",
+      "幻想殺し",
+      "念動力",
+      "時間操作"
+    ],
+    "correctIndex": 1,
+    "explanation": "上条当麻の右手「幻想殺し（イマジンブレイカー）」は異能を打ち消します。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ガールズ＆パンツァー」の特殊な設定は？",
+    "options": [
+      "魔法が使える",
+      "戦車道が女子の嗜みとされている",
+      "宇宙で戦う",
+      "ロボットに乗る"
+    ],
+    "correctIndex": 1,
+    "explanation": "戦車道が武道のような文化活動として女子高生が行う設定です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「BANANA FISH」の原作の連載時期は？",
+    "options": [
+      "1970年代",
+      "1980年代",
+      "1990年代",
+      "2000年代"
+    ],
+    "correctIndex": 1,
+    "explanation": "吉田秋生による原作は1985年から1994年にかけて連載されました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「異世界カルテット」に登場しない作品は？",
+    "options": [
+      "Re:ゼロ",
+      "オーバーロード",
+      "盾の勇者",
+      "このすば"
+    ],
+    "correctIndex": 2,
+    "explanation": "Re:ゼロ、オーバーロード、このすば、幼女戦記の4作品のクロスオーバーです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ガンダム00」のガンダムのエネルギー源は？",
+    "options": [
+      "核融合炉",
+      "GN粒子",
+      "ミノフスキー粒子",
+      "スパイラルパワー"
+    ],
+    "correctIndex": 1,
+    "explanation": "GNドライヴから生成されるGN粒子がガンダム00のエネルギー源です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ヒカルの碁」で主人公に取り憑く平安時代の棋士は？",
+    "options": [
+      "本因坊秀策",
+      "藤原佐為",
+      "塔矢行洋",
+      "桑原本因坊"
+    ],
+    "correctIndex": 1,
+    "explanation": "藤原佐為はヒカルに取り憑いた平安時代の天才棋士の霊です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「蟲師」のアニメの特徴は？",
+    "options": [
+      "派手なバトル",
+      "静かで幻想的な雰囲気",
+      "学園コメディ",
+      "ロボットアクション"
+    ],
+    "correctIndex": 1,
+    "explanation": "蟲と人の関わりを静かに描く独特の雰囲気が特徴です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「機動戦士ガンダム 水星の魔女」で注目された点は？",
+    "options": [
+      "初のCG制作",
+      "初の女性主人公のガンダムTV作品",
+      "初の深夜放送",
+      "初の海外共同制作"
+    ],
+    "correctIndex": 1,
+    "explanation": "スレッタ・マーキュリーはガンダムTVシリーズ初の女性主人公です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「オーバーロード」の主人公が残されたのはどんな場所？",
+    "options": [
+      "異世界",
+      "ゲームの世界",
+      "夢の中",
+      "仮想現実"
+    ],
+    "correctIndex": 1,
+    "explanation": "MMORPGのサービス終了時にゲーム世界に閉じ込められた設定です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ノーゲーム・ノーライフ」で全てが何で決まる世界？",
+    "options": [
+      "じゃんけん",
+      "戦争",
+      "ゲーム",
+      "投票"
+    ],
+    "correctIndex": 2,
+    "explanation": "全ての争いがゲームで決される異世界が舞台です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「僕だけがいない街」のジャンルは？",
+    "options": [
+      "ラブコメ",
+      "サスペンス・タイムリープ",
+      "ファンタジー",
+      "ロボット"
+    ],
+    "correctIndex": 1,
+    "explanation": "タイムリープ能力で過去の誘拐事件を防ごうとするサスペンスです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「宝石の国」の独特な表現手法は？",
+    "options": [
+      "全編水彩画風",
+      "全編3DCGアニメ",
+      "実写合成",
+      "モノクロ作画"
+    ],
+    "correctIndex": 1,
+    "explanation": "オレンジによる全編3DCGアニメーションが高く評価されました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「GREAT PRETENDER」が配信されたプラットフォームは？",
+    "options": [
+      "Amazon",
+      "Netflix",
+      "Disney+",
+      "Hulu"
+    ],
+    "correctIndex": 1,
+    "explanation": "WIT STUDIO制作のコンゲーム作品でNetflixで世界配信されました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ゾンビランドサガ」の斬新な設定は？",
+    "options": [
+      "ゾンビがアイドルになる",
+      "ゾンビが学校に通う",
+      "ゾンビが料理する",
+      "ゾンビが探偵になる"
+    ],
+    "correctIndex": 0,
+    "explanation": "ゾンビとして蘇った少女たちが佐賀県を救うためにアイドル活動をします。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「86―エイティシックス―」のテーマは？",
+    "options": [
+      "スポーツ",
+      "人種差別と戦争",
+      "恋愛",
+      "料理"
+    ],
+    "correctIndex": 1,
+    "explanation": "人種差別によって最前線に送られる少年少女たちの戦いを描きます。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「リコリス・リコイル」が話題になった年は？",
+    "options": [
+      "2020年",
+      "2021年",
+      "2022年",
+      "2023年"
+    ],
+    "correctIndex": 2,
+    "explanation": "2022年にA-1 Pictures制作のオリジナルアニメとして大きな話題に。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「幼女戦記」の主人公の前世は？",
+    "options": [
+      "高校生",
+      "サラリーマン",
+      "軍人",
+      "科学者"
+    ],
+    "correctIndex": 1,
+    "explanation": "合理主義のサラリーマンが異世界の幼女の軍人に転生します。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「プラネテス」のテーマは？",
+    "options": [
+      "深海探検",
+      "宇宙のデブリ回収",
+      "タイムトラベル",
+      "異世界冒険"
+    ],
+    "correctIndex": 1,
+    "explanation": "宇宙ゴミ（デブリ）回収を仕事にする人々を描くSF作品です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ダンジョン飯」の特徴は？",
+    "options": [
+      "モンスターを料理して食べる",
+      "ダンジョンで農業をする",
+      "ダンジョンでカフェを開く",
+      "モンスターとダンスする"
+    ],
+    "correctIndex": 0,
+    "explanation": "ダンジョンのモンスターを素材にした料理を作りながら冒険します。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「呪術廻戦」の制作会社は？",
+    "options": [
+      "ufotable",
+      "京都アニメーション",
+      "MAPPA",
+      "サンライズ"
+    ],
+    "correctIndex": 2,
+    "explanation": "MAPPAが呪術廻戦のアニメーション制作を担当しています。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ドロヘドロ」の作風は？",
+    "options": [
+      "キラキラ少女漫画風",
+      "ダーク・グロテスクファンタジー",
+      "ほのぼの日常系",
+      "王道少年漫画"
+    ],
+    "correctIndex": 1,
+    "explanation": "独特のダークで混沌とした世界観が特徴のファンタジー作品です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「SSSS.GRIDMAN」のルーツとなった特撮は？",
+    "options": [
+      "ウルトラマン",
+      "仮面ライダー",
+      "電光超人グリッドマン",
+      "ゴジラ"
+    ],
+    "correctIndex": 2,
+    "explanation": "1993年の特撮「電光超人グリッドマン」を原作としたアニメです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「平家物語」（2022年アニメ）の制作スタジオは？",
+    "options": [
+      "ufotable",
+      "サイエンスSARU",
+      "MAPPA",
+      "Production I.G"
+    ],
+    "correctIndex": 1,
+    "explanation": "山田尚子監督・サイエンスSARU制作で古典を新しい映像で描きました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「地獄楽」の舞台となる島は？",
+    "options": [
+      "鬼ヶ島",
+      "神仙郷",
+      "竜宮城",
+      "蓬莱島"
+    ],
+    "correctIndex": 1,
+    "explanation": "死刑囚たちが不老不死の仙薬を求めて神仙郷（しんせんきょう）に送られます。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ぼっち・ざ・ろっく！」の制作会社は？",
+    "options": [
+      "京都アニメーション",
+      "A-1 Pictures",
+      "CloverWorks",
+      "MAPPA"
+    ],
+    "correctIndex": 2,
+    "explanation": "CloverWorksが制作し、2022年に大ヒットしました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「サマータイムレンダ」の舞台は？",
+    "options": [
+      "東京の離島",
+      "和歌山の離島",
+      "沖縄の離島",
+      "北海道の離島"
+    ],
+    "correctIndex": 1,
+    "explanation": "和歌山県の離島・日都ヶ島が舞台のサスペンスです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「進撃の巨人」の最終シーズンを制作したスタジオは？",
+    "options": [
+      "WIT STUDIO",
+      "MAPPA",
+      "ufotable",
+      "A-1 Pictures"
+    ],
+    "correctIndex": 1,
+    "explanation": "ファイナルシーズンからWIT STUDIOに代わりMAPPAが制作を担当しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「響け！ユーフォニアム」の吹奏楽部の楽器は？",
+    "options": [
+      "フルート",
+      "トランペット",
+      "ユーフォニアム",
+      "クラリネット"
+    ],
+    "correctIndex": 2,
+    "explanation": "主人公の黄前久美子はユーフォニアムを演奏します。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ID:INVADED」の独特な設定は？",
+    "options": [
+      "犯人の無意識に潜入する",
+      "AIが犯罪を予測する",
+      "夢の中で戦う",
+      "記憶を売買する"
+    ],
+    "correctIndex": 0,
+    "explanation": "殺意の世界（イド）に潜入して犯人を追い詰めるSFミステリーです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「映像研には手を出すな！」のテーマは？",
+    "options": [
+      "映画制作",
+      "アニメ制作",
+      "ゲーム制作",
+      "音楽制作"
+    ],
+    "correctIndex": 1,
+    "explanation": "女子高生3人がアニメ制作に挑む青春ストーリーです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「Vivy -Fluorite Eye's Song-」のテーマは？",
+    "options": [
+      "AIが歌で人を救う",
+      "ロボットが反乱を起こす",
+      "人間がAIになる",
+      "AIが料理を覚える"
+    ],
+    "correctIndex": 0,
+    "explanation": "AI歌姫ヴィヴィが100年の旅で人類を救うSFオリジナルアニメです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「王様ランキング」の主人公ボッジの特徴は？",
+    "options": [
+      "最強の戦士",
+      "耳が聞こえず力も弱い王子",
+      "魔法使い",
+      "天才剣士"
+    ],
+    "correctIndex": 1,
+    "explanation": "ボッジは聴覚障害があり非力ですが、勇気と優しさで道を切り開きます。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「フリーレン」のアニメ制作会社は？",
+    "options": [
+      "MAPPA",
+      "ufotable",
+      "マッドハウス",
+      "京都アニメーション"
+    ],
+    "correctIndex": 2,
+    "explanation": "マッドハウスが「葬送のフリーレン」のアニメを制作しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「GHOST IN THE SHELL / 攻殻機動隊」の劇場版の公開年は？",
+    "options": [
+      "1993年",
+      "1995年",
+      "1997年",
+      "1999年"
+    ],
+    "correctIndex": 1,
+    "explanation": "押井守監督の劇場版は1995年公開で、マトリックスにも影響を与えました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「AKIRA」の劇場版の制作費は当時としてどうだった？",
+    "options": [
+      "低予算",
+      "平均的",
+      "日本アニメ映画史上最高額",
+      "ハリウッド映画並み"
+    ],
+    "correctIndex": 2,
+    "explanation": "約10億円という当時の日本アニメ映画としては破格の制作費でした。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「少女革命ウテナ」の監督は？",
+    "options": [
+      "庵野秀明",
+      "幾原邦彦",
+      "押井守",
+      "出崎統"
+    ],
+    "correctIndex": 1,
+    "explanation": "幾原邦彦監督の前衛的な演出が高く評価された作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「serial experiments lain」のテーマは？",
+    "options": [
+      "宇宙冒険",
+      "インターネットと現実の境界",
+      "魔法少女",
+      "ロボット戦争"
+    ],
+    "correctIndex": 1,
+    "explanation": "1998年の作品で、ネットワーク社会とアイデンティティを先見的に描きました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「灰羽連盟」の原作者は？",
+    "options": [
+      "安倍吉俊",
+      "村田蓮爾",
+      "小畑健",
+      "天野喜孝"
+    ],
+    "correctIndex": 0,
+    "explanation": "安倍吉俊の同人作品「オールドホームの灰羽達」が原作です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「蟲師」の原作者は？",
+    "options": [
+      "漆原友紀",
+      "岩明均",
+      "三浦建太郎",
+      "冨樫義博"
+    ],
+    "correctIndex": 0,
+    "explanation": "漆原友紀がアフタヌーンで連載した漫画が原作です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「カウボーイビバップ」の音楽担当は？",
+    "options": [
+      "久石譲",
+      "梶浦由記",
+      "菅野よう子",
+      "澤野弘之"
+    ],
+    "correctIndex": 2,
+    "explanation": "菅野よう子のジャズを中心とした音楽がビバップの大きな魅力です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「MONSTER」の原作者は？",
+    "options": [
+      "伊藤潤二",
+      "浦沢直樹",
+      "手塚治虫",
+      "諫山創"
+    ],
+    "correctIndex": 1,
+    "explanation": "浦沢直樹がビッグコミックオリジナルで連載したサスペンス作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「十二国記」の原作者は？",
+    "options": [
+      "上橋菜穂子",
+      "小野不由美",
+      "荻原規子",
+      "梨木香歩"
+    ],
+    "correctIndex": 1,
+    "explanation": "小野不由美による中国風異世界ファンタジー小説シリーズです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ガングレイヴ」の原作ゲームを制作した会社は？",
+    "options": [
+      "カプコン",
+      "コナミ",
+      "セガ",
+      "レッド・エンタテインメント"
+    ],
+    "correctIndex": 3,
+    "explanation": "内藤泰弘原案、レッド・エンタテインメントのゲームが原作です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「巌窟王」はどの文学作品を元にしている？",
+    "options": [
+      "罪と罰",
+      "モンテ・クリスト伯",
+      "レ・ミゼラブル",
+      "オペラ座の怪人"
+    ],
+    "correctIndex": 1,
+    "explanation": "アレクサンドル・デュマの「モンテ・クリスト伯」をSFアレンジした作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「翠星のガルガンティア」の脚本を担当したのは？",
+    "options": [
+      "虚淵玄",
+      "岡田麿里",
+      "大河内一楼",
+      "花田十輝"
+    ],
+    "correctIndex": 0,
+    "explanation": "虚淵玄が脚本を担当したロボットSFアニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「四畳半神話大系」の原作者は？",
+    "options": [
+      "中村光",
+      "森見登美彦",
+      "有川浩",
+      "万城目学"
+    ],
+    "correctIndex": 1,
+    "explanation": "森見登美彦の小説をマッドハウスがアニメ化しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ピンポン」のアニメの監督は？",
+    "options": [
+      "渡辺信一郎",
+      "細田守",
+      "湯浅政明",
+      "中村健治"
+    ],
+    "correctIndex": 2,
+    "explanation": "湯浅政明監督の独特な作画表現で松本大洋の漫画をアニメ化しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「カイバ」の監督は？",
+    "options": [
+      "新海誠",
+      "湯浅政明",
+      "今敏",
+      "幾原邦彦"
+    ],
+    "correctIndex": 1,
+    "explanation": "湯浅政明監督の独創的なSFアニメで、記憶をテーマにした作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「今敏」監督の遺作は？",
+    "options": [
+      "パプリカ",
+      "千年女優",
+      "東京ゴッドファーザーズ",
+      "パーフェクトブルー"
+    ],
+    "correctIndex": 0,
+    "explanation": "2006年の「パプリカ」が今敏監督の最後の長編劇場作品となりました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「パーフェクトブルー」がインスピレーションを与えたとされるハリウッド映画は？",
+    "options": [
+      "マトリックス",
+      "ブラック・スワン",
+      "インセプション",
+      "ファイトクラブ"
+    ],
+    "correctIndex": 1,
+    "explanation": "ダーレン・アロノフスキーの「ブラック・スワン」に影響を与えたとされます。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「鉄コン筋クリート」の原作者は？",
+    "options": [
+      "大友克洋",
+      "松本大洋",
+      "浅野いにお",
+      "鳥山明"
+    ],
+    "correctIndex": 1,
+    "explanation": "松本大洋の漫画をSTUDIO 4°Cがアニメ映画化しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「イノセンス」は「攻殻機動隊」のどの登場人物が主人公？",
+    "options": [
+      "草薙素子",
+      "バトー",
+      "トグサ",
+      "荒巻"
+    ],
+    "correctIndex": 1,
+    "explanation": "押井守監督の2004年作品で、バトーが主人公のストーリーです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「マクロスF」で特徴的な要素の組み合わせは？",
+    "options": [
+      "剣と魔法と恋愛",
+      "歌とロボットと三角関係",
+      "料理とバトルと友情",
+      "スポーツと恋愛と勝利"
+    ],
+    "correctIndex": 1,
+    "explanation": "マクロスシリーズの伝統である歌・可変戦闘機・三角関係が特徴です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ギルティクラウン」の楽曲を担当したのは？",
+    "options": [
+      "梶浦由記",
+      "菅野よう子",
+      "澤野弘之",
+      "岩崎琢"
+    ],
+    "correctIndex": 2,
+    "explanation": "澤野弘之が劇伴音楽を担当し、壮大なサウンドが話題になりました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「輪るピングドラム」の監督は？",
+    "options": [
+      "庵野秀明",
+      "幾原邦彦",
+      "新房昭之",
+      "水島精二"
+    ],
+    "correctIndex": 1,
+    "explanation": "幾原邦彦監督の2011年オリジナルアニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「FLCL（フリクリ）」を制作したスタジオは？",
+    "options": [
+      "サンライズ",
+      "ガイナックス",
+      "ボンズ",
+      "マッドハウス"
+    ],
+    "correctIndex": 1,
+    "explanation": "2000年にガイナックスが制作した全6話のOVAです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「OVA」という形式が最も流行した時期は？",
+    "options": [
+      "1970年代",
+      "1980年代後半〜1990年代前半",
+      "2000年代",
+      "2010年代"
+    ],
+    "correctIndex": 1,
+    "explanation": "VHS/LDの普及により1980年代後半〜90年代前半がOVAの黄金期でした。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ガンダムUC」のUCの意味は？",
+    "options": [
+      "Ultra Century",
+      "Universal Century",
+      "United Command",
+      "Ultimate Core"
+    ],
+    "correctIndex": 1,
+    "explanation": "UCはUniversal Century（宇宙世紀）の略です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「交響詩篇エウレカセブン」のジャンルは？",
+    "options": [
+      "ファンタジー",
+      "ロボット・サーフィンSF",
+      "ホラー",
+      "学園もの"
+    ],
+    "correctIndex": 1,
+    "explanation": "スカイサーフィンとロボットを組み合わせた独特のSF作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ファフナー」シリーズの正式名称は？",
+    "options": [
+      "蒼穹のファフナー",
+      "碧空のファフナー",
+      "天空のファフナー",
+      "星空のファフナー"
+    ],
+    "correctIndex": 0,
+    "explanation": "「蒼穹のファフナー」が正式名称で、2004年に放送開始しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ターンエーガンダム」の監督は？",
+    "options": [
+      "高松信司",
+      "今川泰宏",
+      "富野由悠季",
+      "福田己津央"
+    ],
+    "correctIndex": 2,
+    "explanation": "ガンダムの生みの親・富野由悠季が監督した1999年の作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「スクライド」の原作者は？",
+    "options": [
+      "矢立肇",
+      "黒田洋介",
+      "谷口悟朗",
+      "大河内一楼"
+    ],
+    "correctIndex": 1,
+    "explanation": "黒田洋介が脚本・構成を担当したサンライズのオリジナルアニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ラーゼフォン」が比較されることが多い作品は？",
+    "options": [
+      "ガンダム",
+      "マクロス",
+      "エヴァンゲリオン",
+      "パトレイバー"
+    ],
+    "correctIndex": 2,
+    "explanation": "2002年のロボットアニメで、設定やテーマがエヴァと比較されました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「プラネテス」の原作者は？",
+    "options": [
+      "幸村誠",
+      "弐瓶勉",
+      "沙村広明",
+      "木城ゆきと"
+    ],
+    "correctIndex": 0,
+    "explanation": "幸村誠のモーニング連載漫画が原作です。後に「ヴィンランド・サガ」も執筆。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「蒼き鋼のアルペジオ」で全編CGを担当したスタジオは？",
+    "options": [
+      "ポリゴン・ピクチュアズ",
+      "オレンジ",
+      "サンジゲン",
+      "MAPPA"
+    ],
+    "correctIndex": 2,
+    "explanation": "サンジゲンが全編3DCGで制作し、CGアニメの可能性を広げました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「アルドノア・ゼロ」の脚本を第1話〜第3話まで担当したのは？",
+    "options": [
+      "大河内一楼",
+      "虚淵玄",
+      "岡田麿里",
+      "花田十輝"
+    ],
+    "correctIndex": 1,
+    "explanation": "虚淵玄がストーリー原案と序盤の脚本を担当しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「BEASTARS」の原作者は？",
+    "options": [
+      "荒川弘",
+      "板垣巴留",
+      "大今良時",
+      "石田スイ"
+    ],
+    "correctIndex": 1,
+    "explanation": "板垣巴留が少年チャンピオンで連載した動物擬人化漫画です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ヴィンランド・サガ」の時代設定は？",
+    "options": [
+      "中世ヨーロッパ・ヴァイキング時代",
+      "古代ローマ",
+      "戦国日本",
+      "近未来"
+    ],
+    "correctIndex": 0,
+    "explanation": "11世紀のヴァイキング時代を舞台にした歴史漫画のアニメ化です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「モノノ怪」の独特なビジュアルスタイルは？",
+    "options": [
+      "水墨画風",
+      "和紙テクスチャの極彩色",
+      "ドット絵風",
+      "実写合成"
+    ],
+    "correctIndex": 1,
+    "explanation": "和紙のテクスチャと極彩色を組み合わせた独特の映像美が特徴です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「残響のテロル」の監督は？",
+    "options": [
+      "渡辺信一郎",
+      "新海誠",
+      "細田守",
+      "押井守"
+    ],
+    "correctIndex": 0,
+    "explanation": "渡辺信一郎監督の2014年オリジナルアニメで、菅野よう子が音楽を担当。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「少女終末旅行」の世界観は？",
+    "options": [
+      "異世界ファンタジー",
+      "文明崩壊後のディストピア",
+      "未来のユートピア",
+      "現代の日常"
+    ],
+    "correctIndex": 1,
+    "explanation": "文明が崩壊した世界を二人の少女が旅する静かなポストアポカリプス作品。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「メガロボクス」はどの古典作品のオマージュ？",
+    "options": [
+      "鉄腕アトム",
+      "あしたのジョー",
+      "リングにかけろ",
+      "はじめの一歩"
+    ],
+    "correctIndex": 1,
+    "explanation": "「あしたのジョー」の50周年記念企画として制作されました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「映画 聲の形」の監督は？",
+    "options": [
+      "新海誠",
+      "山田尚子",
+      "細田守",
+      "湯浅政明"
+    ],
+    "correctIndex": 1,
+    "explanation": "山田尚子監督・京都アニメーション制作の2016年劇場アニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ODD TAXI」がサスペンスとして評価された理由は？",
+    "options": [
+      "派手なアクション",
+      "伏線回収の巧みさ",
+      "ホラー要素",
+      "実話ベース"
+    ],
+    "correctIndex": 1,
+    "explanation": "一見コメディ調ながら緻密な伏線回収で2021年のダークホースとなりました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ランウェイで笑って」のテーマは？",
+    "options": [
+      "お笑い",
+      "ファッション業界",
+      "料理",
+      "スポーツ"
+    ],
+    "correctIndex": 1,
+    "explanation": "ファッションモデルとデザイナーを目指す若者たちの物語です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「天元突破グレンラガン」のシリーズ構成を担当した脚本家は？",
+    "options": [
+      "虚淵玄",
+      "中島かずき",
+      "大河内一楼",
+      "岡田麿里"
+    ],
+    "correctIndex": 1,
+    "explanation": "劇団☆新感線の中島かずきが熱いシリーズ構成を担当しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「鉄人28号」が日本のロボットアニメに与えた影響は？",
+    "options": [
+      "変身ロボの元祖",
+      "リモコン操縦型巨大ロボの先駆け",
+      "合体ロボの元祖",
+      "AIロボの元祖"
+    ],
+    "correctIndex": 1,
+    "explanation": "1963年アニメ化。少年が巨大ロボをリモコンで操縦する先駆的作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「マジンガーZ」の革新的な要素は？",
+    "options": [
+      "変形合体",
+      "パイロットが搭乗する初の巨大ロボ",
+      "AIによる自律行動",
+      "宇宙が舞台"
+    ],
+    "correctIndex": 1,
+    "explanation": "1972年放送。パイロットがコクピットに搭乗するロボットアニメの元祖です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ガンバスター」（トップをねらえ！）の監督は？",
+    "options": [
+      "富野由悠季",
+      "庵野秀明",
+      "押井守",
+      "宮崎駿"
+    ],
+    "correctIndex": 1,
+    "explanation": "庵野秀明が監督デビューした1988年のOVA作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「サムライチャンプルー」の音楽ジャンルは？",
+    "options": [
+      "クラシック",
+      "ジャズ",
+      "ヒップホップ",
+      "メタル"
+    ],
+    "correctIndex": 2,
+    "explanation": "渡辺信一郎監督作品で、ヒップホップと時代劇を融合させた斬新な作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「地球少女アルジュナ」の特徴的なテーマは？",
+    "options": [
+      "宇宙戦争",
+      "環境問題",
+      "恋愛",
+      "スポーツ"
+    ],
+    "correctIndex": 1,
+    "explanation": "2001年の河森正治監督作品で、環境問題を正面から扱ったアニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「Ergo Proxy」の放送年は？",
+    "options": [
+      "2004年",
+      "2006年",
+      "2008年",
+      "2010年"
+    ],
+    "correctIndex": 1,
+    "explanation": "2006年にマングローブが制作したSFアニメで、海外でカルト的人気を得ました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「パンティ&ストッキングwithガーターベルト」の作画スタイルは？",
+    "options": [
+      "リアル系",
+      "アメリカンカートゥーン風",
+      "水墨画風",
+      "ドット絵"
+    ],
+    "correctIndex": 1,
+    "explanation": "ガイナックスが制作し、アメリカのカートゥーンを意識した独特のスタイルです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「SLAM DUNK」の名言「諦めたらそこで試合終了だよ」を言ったのは？",
+    "options": [
+      "桜木花道",
+      "安西先生",
+      "流川楓",
+      "三井寿"
+    ],
+    "correctIndex": 1,
+    "explanation": "安西先生が三井寿に言った有名なセリフです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「サザエさん」の弟の名前は？",
+    "options": [
+      "タラちゃん",
+      "カツオ",
+      "ワカメ",
+      "マスオ"
+    ],
+    "correctIndex": 1,
+    "explanation": "磯野カツオはサザエさんの弟です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ポケモン」で最初に選べる御三家タイプは？",
+    "options": [
+      "水・炎・電気",
+      "草・炎・水",
+      "岩・格闘・飛行",
+      "毒・地面・氷"
+    ],
+    "correctIndex": 1,
+    "explanation": "草・炎・水タイプの3匹から1匹を選ぶのが伝統です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「名探偵コナン」の決め台詞は？",
+    "options": [
+      "「お前はもう死んでいる」",
+      "「真実はいつもひとつ！」",
+      "「月に代わっておしおきよ」",
+      "「諦めたら試合終了」"
+    ],
+    "correctIndex": 1,
+    "explanation": "コナンの名セリフ「真実はいつもひとつ！」は有名です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「プリキュア」シリーズの第1作は？",
+    "options": [
+      "ハートキャッチプリキュア",
+      "ふたりはプリキュア",
+      "スマイルプリキュア",
+      "フレッシュプリキュア"
+    ],
+    "correctIndex": 1,
+    "explanation": "2004年放送の「ふたりはプリキュア」がシリーズ第1作です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「キングダム」の時代設定は？",
+    "options": [
+      "日本の戦国時代",
+      "中国の春秋戦国時代",
+      "三国志の時代",
+      "古代エジプト"
+    ],
+    "correctIndex": 1,
+    "explanation": "中国の春秋戦国時代、秦の始皇帝の時代を描いています。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「DEATH NOTE」で使われるノートのルールで正しいのは？",
+    "options": [
+      "名前を書くと幸せになる",
+      "名前と顔を知って名前を書くと死ぬ",
+      "名前を書くと友達になる",
+      "名前を消すと生き返る"
+    ],
+    "correctIndex": 1,
+    "explanation": "顔と名前を知った上で名前を書くと、その人物が死にます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ナルト」の里の名前は？",
+    "options": [
+      "砂隠れの里",
+      "木ノ葉隠れの里",
+      "霧隠れの里",
+      "雲隠れの里"
+    ],
+    "correctIndex": 1,
+    "explanation": "ナルトは木ノ葉隠れの里の忍者です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「鬼滅の刃」で炭治郎の妹の名前は？",
+    "options": [
+      "カナヲ",
+      "しのぶ",
+      "禰豆子",
+      "蜜璃"
+    ],
+    "correctIndex": 2,
+    "explanation": "竈門禰豆子（ねずこ）は鬼になった妹です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ワンピース」で海賊王になると宣言するのは？",
+    "options": [
+      "ゾロ",
+      "サンジ",
+      "ルフィ",
+      "エース"
+    ],
+    "correctIndex": 2,
+    "explanation": "モンキー・D・ルフィが海賊王になることを夢見ています。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「トリコ」のテーマは？",
+    "options": [
+      "スポーツ",
+      "グルメ（食）",
+      "音楽",
+      "ファッション"
+    ],
+    "correctIndex": 1,
+    "explanation": "美食家トリコが究極の食材を探すグルメバトル漫画です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「境界のRINNE」の作者は？",
+    "options": [
+      "青山剛昌",
+      "高橋留美子",
+      "あだち充",
+      "藤田和日郎"
+    ],
+    "correctIndex": 1,
+    "explanation": "高橋留美子がサンデーで連載した境界のRINNEです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「はたらく細胞」で主に描かれるのは？",
+    "options": [
+      "宇宙",
+      "人体の中",
+      "海底",
+      "異世界"
+    ],
+    "correctIndex": 1,
+    "explanation": "人体の細胞を擬人化して体内の働きを描く教育的アニメです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ダンまち」の正式タイトルに含まれるのは？",
+    "options": [
+      "ダンジョンに出会いを求めるのは間違っているだろうか",
+      "ダンスは魔法",
+      "ダンジョンで飯を作る",
+      "ダンジョンマスター"
+    ],
+    "correctIndex": 0,
+    "explanation": "正式名称は「ダンジョンに出会いを求めるのは間違っているだろうか」です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「遊☆戯☆王」の主人公が得意なのは？",
+    "options": [
+      "スポーツ",
+      "カードゲーム",
+      "料理",
+      "プログラミング"
+    ],
+    "correctIndex": 1,
+    "explanation": "武藤遊戯がカードゲームで戦う物語です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「蟲師」のアニメが放送されたのは何年？",
+    "options": [
+      "2003年",
+      "2005年",
+      "2007年",
+      "2009年"
+    ],
+    "correctIndex": 1,
+    "explanation": "2005年にフジテレビで放送され、静かな雰囲気で高い評価を得ました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ジョジョ」第4部の舞台は？",
+    "options": [
+      "エジプト",
+      "イタリア",
+      "杜王町",
+      "ケープカナベラル"
+    ],
+    "correctIndex": 2,
+    "explanation": "第4部「ダイヤモンドは砕けない」は架空の町・杜王町が舞台です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「BANANA FISH」のアニメが放送された年は？",
+    "options": [
+      "2016年",
+      "2018年",
+      "2020年",
+      "2022年"
+    ],
+    "correctIndex": 1,
+    "explanation": "2018年にMAPPAが制作しアニメ化されました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「サイコパス」の世界で犯罪係数が高い市民はどうなる？",
+    "options": [
+      "褒められる",
+      "隔離・執行対象になる",
+      "昇進する",
+      "何も起きない"
+    ],
+    "correctIndex": 1,
+    "explanation": "犯罪係数が一定値を超えると執行対象として処分されます。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「リコリコ」の千束の武器の特徴は？",
+    "options": [
+      "日本刀",
+      "ゴム弾を使う",
+      "レーザー銃",
+      "弓矢"
+    ],
+    "correctIndex": 1,
+    "explanation": "千束は殺さない主義でゴム弾（非致死弾）を使用します。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「SPY×FAMILY」のロイドの正体は？",
+    "options": [
+      "教師",
+      "医者",
+      "スパイ",
+      "警察官"
+    ],
+    "correctIndex": 2,
+    "explanation": "ロイド・フォージャーは西国のスパイ「黄昏（たそがれ）」です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「モブサイコ100」のアニメ制作会社は？",
+    "options": [
+      "マッドハウス",
+      "ボンズ",
+      "MAPPA",
+      "WIT STUDIO"
+    ],
+    "correctIndex": 1,
+    "explanation": "ボンズが独特のアニメーションでモブサイコ100を制作しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「推しの子」で描かれる業界は？",
+    "options": [
+      "スポーツ業界",
+      "芸能・エンタメ業界",
+      "IT業界",
+      "飲食業界"
+    ],
+    "correctIndex": 1,
+    "explanation": "芸能界の光と闇を描くサスペンス要素のあるエンタメ作品です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「僕のヒーローアカデミア」のアニメ制作会社は？",
+    "options": [
+      "ufotable",
+      "ボンズ",
+      "MAPPA",
+      "A-1 Pictures"
+    ],
+    "correctIndex": 1,
+    "explanation": "ボンズがヒロアカのアニメーション制作を担当しています。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「天空のエスカフローネ」が海外で人気になった理由は？",
+    "options": [
+      "ゲーム連動",
+      "ファンタジーとロボットの融合",
+      "実写映画化",
+      "タイアップ曲"
+    ],
+    "correctIndex": 1,
+    "explanation": "ファンタジー世界とロボットアクションの融合が海外ファンに受けました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「グレンラガン」と「キルラキル」の共通点は？",
+    "options": [
+      "同じ原作者",
+      "同じ制作スタジオ（トリガー系列）",
+      "同じ声優陣",
+      "同じ時代設定"
+    ],
+    "correctIndex": 1,
+    "explanation": "どちらもガイナックス出身スタッフ（後のトリガー）による熱い作品です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ゴブリンスレイヤー」が話題になった理由は？",
+    "options": [
+      "ゴブリンのみを狩る徹底した主人公像",
+      "可愛いキャラデザイン",
+      "ギャグ路線",
+      "全年齢向けの安心内容"
+    ],
+    "correctIndex": 0,
+    "explanation": "ゴブリン退治のみに特化した主人公の徹底ぶりが注目されました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「とんでもスキルで異世界放浪メシ」のユニークな点は？",
+    "options": [
+      "最強の剣技",
+      "ネットスーパーで食材を取り寄せる",
+      "タイムトラベル",
+      "ロボットを作る"
+    ],
+    "correctIndex": 1,
+    "explanation": "異世界でネットスーパーの食材を使って料理するという斬新な設定です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「チェンソーマン」のアニメ制作会社は？",
+    "options": [
+      "ufotable",
+      "京都アニメーション",
+      "MAPPA",
+      "サンライズ"
+    ],
+    "correctIndex": 2,
+    "explanation": "MAPPAがチェンソーマンのTVアニメを制作しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「らんま1/2」の特殊設定は？",
+    "options": [
+      "水をかぶると性別が変わる",
+      "月を見ると変身する",
+      "名前を呼ぶと消える",
+      "食べると強くなる"
+    ],
+    "correctIndex": 0,
+    "explanation": "水をかぶると女になり、お湯をかぶると男に戻る設定です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「着せ恋」の正式タイトルは？",
+    "options": [
+      "その着せ替え人形は恋をする",
+      "着物の恋人",
+      "着せ替えゲーム",
+      "恋の衣装"
+    ],
+    "correctIndex": 0,
+    "explanation": "コスプレ衣装制作を通じた恋愛を描く「その着せ替え人形は恋をする」です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「異世界居酒屋」のコンセプトは？",
+    "options": [
+      "異世界で居酒屋を経営する",
+      "居酒屋が異世界とつながる",
+      "居酒屋で戦う",
+      "居酒屋で魔法を使う"
+    ],
+    "correctIndex": 1,
+    "explanation": "居酒屋の入り口が異世界につながっている設定です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ハイスコアガール」のテーマは？",
+    "options": [
+      "ボードゲーム",
+      "アーケードゲーム",
+      "カードゲーム",
+      "スポーツ"
+    ],
+    "correctIndex": 1,
+    "explanation": "1990年代のアーケードゲームを題材にしたラブコメです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「うる星やつら」のリメイクアニメが放送された年は？",
+    "options": [
+      "2020年",
+      "2022年",
+      "2024年",
+      "未放送"
+    ],
+    "correctIndex": 1,
+    "explanation": "2022年にデイヴィッドプロダクション制作でリメイクされました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「プランダラ」の世界で人々が持つ「カウント」とは？",
+    "options": [
+      "お金",
+      "数値化された能力や実績",
+      "年齢",
+      "身長"
+    ],
+    "correctIndex": 1,
+    "explanation": "全ての人が体に刻まれた数値（カウント）で評価される世界です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「lain」の監督は？",
+    "options": [
+      "押井守",
+      "中村隆太郎",
+      "渡辺信一郎",
+      "今敏"
+    ],
+    "correctIndex": 1,
+    "explanation": "中村隆太郎が監督を務めた1998年の先駆的サイバーパンクアニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「TEXHNOLYZE」の制作スタジオは？",
+    "options": [
+      "サンライズ",
+      "マッドハウス",
+      "ボンズ",
+      "ガイナックス"
+    ],
+    "correctIndex": 1,
+    "explanation": "マッドハウスが制作した2003年のダークSFアニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ブギーポップは笑わない」の原作メディアは？",
+    "options": [
+      "漫画",
+      "ライトノベル",
+      "ゲーム",
+      "映画"
+    ],
+    "correctIndex": 1,
+    "explanation": "上遠野浩平のライトノベルで、ラノベブームの先駆けとなりました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「Fate/Grand Order」がアニメ業界に与えた影響は？",
+    "options": [
+      "アニメの質が下がった",
+      "ソシャゲ原作アニメの地位を確立した",
+      "アニメが短くなった",
+      "声優が減った"
+    ],
+    "correctIndex": 1,
+    "explanation": "FGOの成功によりソーシャルゲーム発のアニメ企画が増加しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「けものフレンズ」の監督・たつき氏が話題になった理由は？",
+    "options": [
+      "受賞歴",
+      "シーズン2で降板した騒動",
+      "引退宣言",
+      "海外移住"
+    ],
+    "correctIndex": 1,
+    "explanation": "たつき監督の降板騒動は大きなファンの抗議運動を引き起こしました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「レイアース」を制作したグループは？",
+    "options": [
+      "手塚プロ",
+      "CLAMP",
+      "赤松健",
+      "高橋留美子"
+    ],
+    "correctIndex": 1,
+    "explanation": "CLAMPが原作の「魔法騎士レイアース」は少女向けロボットアニメの先駆けです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「N・H・Kにようこそ！」のテーマは？",
+    "options": [
+      "テレビ局",
+      "引きこもり問題",
+      "料理",
+      "スポーツ"
+    ],
+    "correctIndex": 1,
+    "explanation": "引きこもりの青年を描いた社会派作品です。NHKは日本引きこもり協会の略。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「東のエデン」の監督は？",
+    "options": [
+      "渡辺信一郎",
+      "神山健治",
+      "押井守",
+      "細田守"
+    ],
+    "correctIndex": 1,
+    "explanation": "神山健治監督のProduction I.Gによる2009年のオリジナルアニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「UN-GO」の原作はどの文豪の作品？",
+    "options": [
+      "江戸川乱歩",
+      "坂口安吾",
+      "太宰治",
+      "夏目漱石"
+    ],
+    "correctIndex": 1,
+    "explanation": "坂口安吾の「明治開化 安吾捕物帖」を近未来に翻案した作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「Sonny Boy」の特徴は？",
+    "options": [
+      "原作あり",
+      "音楽なしのアニメ",
+      "完全オリジナルの実験的作品",
+      "ロボットアニメ"
+    ],
+    "correctIndex": 2,
+    "explanation": "夏目真悟監督の完全オリジナル作品で、実験的な演出が話題を呼びました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ポプテピピック」が異例だった点は？",
+    "options": [
+      "同じ内容をAパート・Bパートで声優を変えて2回放送",
+      "全話無音",
+      "10分アニメ",
+      "実写のみ"
+    ],
+    "correctIndex": 0,
+    "explanation": "同じ内容を異なる声優キャストで2回放送するという前代未聞の構成でした。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「空の境界」シリーズの原作者は？",
+    "options": [
+      "虚淵玄",
+      "奈須きのこ",
+      "西尾維新",
+      "上遠野浩平"
+    ],
+    "correctIndex": 1,
+    "explanation": "奈須きのこの小説をufotableが7部作で劇場アニメ化しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ヨルムンガンド」のテーマは？",
+    "options": [
+      "ファンタジー冒険",
+      "武器商人と少年兵",
+      "学園バトル",
+      "宇宙探検"
+    ],
+    "correctIndex": 1,
+    "explanation": "武器商人ココ・ヘクマティアルと少年兵ヨナの物語です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「四月は君の嘘」の音楽担当は？",
+    "options": [
+      "澤野弘之",
+      "菅野よう子",
+      "横山克",
+      "梶浦由記"
+    ],
+    "correctIndex": 2,
+    "explanation": "横山克がクラシック音楽を中心とした劇伴を担当しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ODDTAXI」の制作会社は？",
+    "options": [
+      "P.I.C.S.とOLM",
+      "MAPPA",
+      "ufotable",
+      "サンライズ"
+    ],
+    "correctIndex": 0,
+    "explanation": "P.I.C.S.とOLMが共同制作した2021年のオリジナルアニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ひぐらしのなく頃に」の原作メディアは？",
+    "options": [
+      "漫画",
+      "小説",
+      "同人ゲーム",
+      "TVドラマ"
+    ],
+    "correctIndex": 2,
+    "explanation": "07th Expansionが制作した同人サウンドノベルゲームが原作です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「新世界より」の原作者は？",
+    "options": [
+      "貴志祐介",
+      "乙一",
+      "恩田陸",
+      "伊藤計劃"
+    ],
+    "correctIndex": 0,
+    "explanation": "貴志祐介のSF小説で、日本SF大賞を受賞しています。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「さよなら絶望先生」の原作者は？",
+    "options": [
+      "赤松健",
+      "久米田康治",
+      "畑健二郎",
+      "藤田和日郎"
+    ],
+    "correctIndex": 1,
+    "explanation": "久米田康治のブラックユーモア満載の学園コメディ漫画です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ARIA」シリーズの舞台は？",
+    "options": [
+      "未来の東京",
+      "火星のネオ・ヴェネツィア",
+      "月面都市",
+      "海底都市"
+    ],
+    "correctIndex": 1,
+    "explanation": "テラフォーミングされた火星の水の都・ネオ・ヴェネツィアが舞台です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ローゼンメイデン」で人形たちが争う目的は？",
+    "options": [
+      "世界征服",
+      "アリスゲーム（完璧な少女になるため）",
+      "宝探し",
+      "復讐"
+    ],
+    "correctIndex": 1,
+    "explanation": "薔薇乙女たちがアリスゲームで戦い、完璧な少女「アリス」を目指します。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「劇場版 少女☆歌劇 レヴュースタァライト」が評価された理由は？",
+    "options": [
+      "興行収入",
+      "TVシリーズの概念を覆す映像表現",
+      "タイアップ曲",
+      "実写パート"
+    ],
+    "correctIndex": 1,
+    "explanation": "TVシリーズを再解釈する実験的な映像と演出が絶賛されました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「映像研には手を出すな！」の原作者は？",
+    "options": [
+      "大童澄瞳",
+      "つくしあきひと",
+      "石黒正数",
+      "久保帯人"
+    ],
+    "correctIndex": 0,
+    "explanation": "大童澄瞳がスピリッツで連載しているアニメ制作漫画です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「BACCANO!」の特徴的な物語構造は？",
+    "options": [
+      "一人称視点",
+      "群像劇で時系列がバラバラ",
+      "逆再生",
+      "選択肢分岐"
+    ],
+    "correctIndex": 1,
+    "explanation": "複数の登場人物の物語が異なる時代で並行して進む群像劇構造です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「デカダンス」のアニメの独自設定は？",
+    "options": [
+      "世界がゲームのように管理されている",
+      "全員がロボット",
+      "食べ物がない世界",
+      "動物が支配する世界"
+    ],
+    "correctIndex": 0,
+    "explanation": "人類が知らないうちに世界がゲームシステムとして管理されている設定です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「天元突破グレンラガン」の最終話の規模が話題になった理由は？",
+    "options": [
+      "銀河より大きいロボットが登場",
+      "全キャラが死亡",
+      "放送が中止された",
+      "現実世界とリンクした"
+    ],
+    "correctIndex": 0,
+    "explanation": "最終話では銀河を投げるほどの超巨大スケールのロボット戦が展開されました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ベルセルク」の主人公の名前は？",
+    "options": [
+      "グリフィス",
+      "ガッツ",
+      "キャスカ",
+      "リッケルト"
+    ],
+    "correctIndex": 1,
+    "explanation": "ガッツは巨大な剣を振るう傭兵で、ベルセルクの主人公です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「らんま1/2」の作者は？",
+    "options": [
+      "あだち充",
+      "青山剛昌",
+      "高橋留美子",
+      "藤子不二雄"
+    ],
+    "correctIndex": 2,
+    "explanation": "高橋留美子がサンデーで連載した格闘ラブコメディです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「機動戦士ガンダム」に登場する主人公機の名前は？",
+    "options": [
+      "ザク",
+      "ガンダム",
+      "ジム",
+      "ドム"
+    ],
+    "correctIndex": 1,
+    "explanation": "RX-78-2ガンダムがアムロ・レイの搭乗機です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「NARUTO」で主人公の体内に封印されている存在は？",
+    "options": [
+      "一尾",
+      "五尾",
+      "九尾（九喇嘛）",
+      "十尾"
+    ],
+    "correctIndex": 2,
+    "explanation": "九尾の妖狐（九喇嘛/クラマ）がナルトの体内に封印されています。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ワンピース」のルフィの能力は？",
+    "options": [
+      "氷の能力",
+      "ゴムの能力",
+      "炎の能力",
+      "光の能力"
+    ],
+    "correctIndex": 1,
+    "explanation": "ゴムゴムの実（正式にはヒトヒトの実）を食べてゴム人間になりました。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「かいけつゾロリ」はどんなキャラクター？",
+    "options": [
+      "猫",
+      "犬",
+      "きつね",
+      "たぬき"
+    ],
+    "correctIndex": 2,
+    "explanation": "きつねのゾロリが冒険するシリーズです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「イナズマイレブン」のスポーツは？",
+    "options": [
+      "野球",
+      "バスケ",
+      "サッカー",
+      "テニス"
+    ],
+    "correctIndex": 2,
+    "explanation": "超次元サッカーをテーマにしたアニメです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「妖怪ウォッチ」で妖怪を見るために使うのは？",
+    "options": [
+      "望遠鏡",
+      "妖怪ウォッチ",
+      "魔法の杖",
+      "スマホ"
+    ],
+    "correctIndex": 1,
+    "explanation": "妖怪ウォッチという腕時計型アイテムで妖怪を見ることができます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「Dr.スランプ」の主人公は？",
+    "options": [
+      "則巻千兵衛",
+      "則巻アラレ",
+      "ニコちゃん大王",
+      "ガッちゃん"
+    ],
+    "correctIndex": 1,
+    "explanation": "ロボットの女の子・則巻アラレちゃんが主人公のギャグ漫画です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「銀河鉄道999」の乗り物は？",
+    "options": [
+      "宇宙船",
+      "列車",
+      "飛行機",
+      "バス"
+    ],
+    "correctIndex": 1,
+    "explanation": "宇宙を走る列車・銀河鉄道999号が舞台です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ブラッククローバー」の主人公の特徴は？",
+    "options": [
+      "最強の魔法使い",
+      "魔力を持たない",
+      "時間を操る",
+      "巨人族"
+    ],
+    "correctIndex": 1,
+    "explanation": "アスタは魔力を持たない少年ですが、魔法帝を目指します。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「七つの大罪」のグループ名の由来は？",
+    "options": [
+      "7つの宝石",
+      "キリスト教の七つの大罪",
+      "7つの国",
+      "7つの星"
+    ],
+    "correctIndex": 1,
+    "explanation": "メンバーがそれぞれ七つの大罪（傲慢、嫉妬等）の名を持ちます。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「魔法科高校の劣等生」の主人公の立場は？",
+    "options": [
+      "優等生",
+      "劣等生（実は最強）",
+      "転校生",
+      "教師"
+    ],
+    "correctIndex": 1,
+    "explanation": "司波達也は劣等生扱いですが実際は最強クラスの実力者です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「ダイの大冒険」の原作ゲームは？",
+    "options": [
+      "ファイナルファンタジー",
+      "ドラゴンクエスト",
+      "ポケモン",
+      "モンスターハンター"
+    ],
+    "correctIndex": 1,
+    "explanation": "ドラゴンクエストの世界観をベースにした漫画・アニメです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「デジモンアドベンチャー」で子供たちが迷い込むのは？",
+    "options": [
+      "異世界",
+      "デジタルワールド",
+      "月面",
+      "海底"
+    ],
+    "correctIndex": 1,
+    "explanation": "選ばれし子どもたちがデジタルワールドに冒険する物語です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「炎炎ノ消防隊」のテーマは？",
+    "options": [
+      "警察",
+      "消防（特殊な炎と戦う）",
+      "医療",
+      "軍隊"
+    ],
+    "correctIndex": 1,
+    "explanation": "人体が突然発火する「焔ビト」と戦う特殊消防隊の物語です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「不滅のあなたへ」の主人公は？",
+    "options": [
+      "普通の人間",
+      "不死身の存在",
+      "ロボット",
+      "神"
+    ],
+    "correctIndex": 1,
+    "explanation": "不死の存在フシが様々な姿に変化しながら成長していく物語です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「交響詩篇エウレカセブン」の放送年は？",
+    "options": [
+      "2003年",
+      "2005年",
+      "2007年",
+      "2009年"
+    ],
+    "correctIndex": 1,
+    "explanation": "2005年にボンズが制作したロボットアニメです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「TRIGUN」の主人公の異名は？",
+    "options": [
+      "赤い彗星",
+      "人間台風",
+      "黒い剣士",
+      "白い悪魔"
+    ],
+    "correctIndex": 1,
+    "explanation": "ヴァッシュ・ザ・スタンピードの異名は「人間台風」です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「血界戦線」の舞台は？",
+    "options": [
+      "東京",
+      "ニューヨーク改めヘルサレムズ・ロット",
+      "ロンドン",
+      "パリ"
+    ],
+    "correctIndex": 1,
+    "explanation": "ニューヨークが異界と融合した「ヘルサレムズ・ロット」が舞台です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「かぐや様は告らせたい」のアニメ制作会社は？",
+    "options": [
+      "MAPPA",
+      "京都アニメーション",
+      "A-1 Pictures",
+      "ufotable"
+    ],
+    "correctIndex": 2,
+    "explanation": "A-1 Picturesがアニメーション制作を担当しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「無職転生」のアニメで評価された点は？",
+    "options": [
+      "短い話数",
+      "異世界描写の圧倒的な作画クオリティ",
+      "実写パート",
+      "モノクロ演出"
+    ],
+    "correctIndex": 1,
+    "explanation": "スタジオバインドの高品質な異世界描写が高く評価されました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「呪術廻戦」の渋谷事変は何シーズンで描かれた？",
+    "options": [
+      "第1期",
+      "第2期",
+      "第3期",
+      "映画"
+    ],
+    "correctIndex": 1,
+    "explanation": "2023年放送の第2期で渋谷事変が描かれました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「スキップとローファー」のジャンルは？",
+    "options": [
+      "バトル",
+      "日常系青春ドラマ",
+      "ホラー",
+      "SF"
+    ],
+    "correctIndex": 1,
+    "explanation": "地方から上京した少女の高校生活を描く日常系青春アニメです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「その着せ替え人形は恋をする」のアニメ制作会社は？",
+    "options": [
+      "A-1 Pictures",
+      "CloverWorks",
+      "ボンズ",
+      "マッドハウス"
+    ],
+    "correctIndex": 1,
+    "explanation": "CloverWorksが2022年にアニメ化し大ヒットしました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「天国大魔境」の世界観は？",
+    "options": [
+      "中世ファンタジー",
+      "ポストアポカリプス日本",
+      "宇宙",
+      "現代学園"
+    ],
+    "correctIndex": 1,
+    "explanation": "崩壊した日本を舞台にした2つの物語が交差するSF作品です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「BLEACH 千年血戦篇」のアニメ復活は何年ぶり？",
+    "options": [
+      "5年",
+      "8年",
+      "10年",
+      "12年"
+    ],
+    "correctIndex": 2,
+    "explanation": "2012年のTV版終了から約10年ぶりに2022年に復活しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ダンダダン」のジャンルは？",
+    "options": [
+      "純恋愛",
+      "オカルトバトルコメディ",
+      "料理",
+      "推理"
+    ],
+    "correctIndex": 1,
+    "explanation": "宇宙人とお化けが入り乱れるオカルトバトルコメディです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ソウルイーター」のアニメ制作会社は？",
+    "options": [
+      "サンライズ",
+      "ボンズ",
+      "マッドハウス",
+      "MAPPA"
+    ],
+    "correctIndex": 1,
+    "explanation": "ボンズが制作した死神武器職人専門学校を舞台にしたアクションアニメ。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「氷菓」のアニメ制作会社は？",
+    "options": [
+      "ufotable",
+      "京都アニメーション",
+      "A-1 Pictures",
+      "P.A.WORKS"
+    ],
+    "correctIndex": 1,
+    "explanation": "京都アニメーションが米澤穂信の古典部シリーズをアニメ化しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「リコリス・リコイル」で千束が所属する組織は？",
+    "options": [
+      "DA（Direct Attack）",
+      "公安",
+      "NERV",
+      "FBI"
+    ],
+    "correctIndex": 0,
+    "explanation": "千束はDA（Direct Attack）のリコリスとして活動しています。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「PSYCHO-PASS」のアニメ制作会社は？",
+    "options": [
+      "マッドハウス",
+      "Production I.G",
+      "ufotable",
+      "京都アニメーション"
+    ],
+    "correctIndex": 1,
+    "explanation": "Production I.Gが虚淵玄脚本のSF警察アニメを制作しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「魔法使いの嫁」の主人公が売られた相手は？",
+    "options": [
+      "人間の魔法使い",
+      "人外の魔法使い（エリアス）",
+      "ドラゴン",
+      "妖精"
+    ],
+    "correctIndex": 1,
+    "explanation": "智世は人外の魔法使いエリアス・エインズワースに買い取られました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ハイキュー!!」のアニメ制作会社は？",
+    "options": [
+      "Production I.G",
+      "ボンズ",
+      "MAPPA",
+      "マッドハウス"
+    ],
+    "correctIndex": 0,
+    "explanation": "Production I.Gがハイキュー!!のアニメーション制作を担当しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「異世界食堂」のコンセプトは？",
+    "options": [
+      "異世界で料理修行",
+      "週に1度だけ異世界とつながるレストラン",
+      "料理で戦う",
+      "モンスターの料理教室"
+    ],
+    "correctIndex": 1,
+    "explanation": "毎週土曜日だけ異世界の住人が来店する洋食屋の物語です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「BEASTARS」のアニメ制作会社は？",
+    "options": [
+      "MAPPA",
+      "オレンジ",
+      "サンライズ",
+      "ボンズ"
+    ],
+    "correctIndex": 1,
+    "explanation": "3DCGスタジオのオレンジがBEASTARSを制作しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「テクノライズ」のシリーズ構成は？",
+    "options": [
+      "虚淵玄",
+      "小中千昭",
+      "大河内一楼",
+      "岡田麿里"
+    ],
+    "correctIndex": 1,
+    "explanation": "小中千昭がシリーズ構成を担当したダークSFアニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「妄想代理人」の監督は？",
+    "options": [
+      "渡辺信一郎",
+      "今敏",
+      "押井守",
+      "庵野秀明"
+    ],
+    "correctIndex": 1,
+    "explanation": "今敏監督による2004年のTVアニメシリーズです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「プリンセスチュチュ」が評価される理由は？",
+    "options": [
+      "作画の美しさ",
+      "バレエとメタフィクションの融合",
+      "アクション",
+      "ギャグ"
+    ],
+    "correctIndex": 1,
+    "explanation": "バレエとおとぎ話のメタフィクション構造が高く評価されています。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「キノの旅」の原作者は？",
+    "options": [
+      "時雨沢恵一",
+      "川原礫",
+      "伏見つかさ",
+      "鎌池和馬"
+    ],
+    "correctIndex": 0,
+    "explanation": "時雨沢恵一のライトノベルで、各国を旅する哲学的な作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ACCA13区監察課」の原作者は？",
+    "options": [
+      "オノ・ナツメ",
+      "羽海野チカ",
+      "ヤマザキマリ",
+      "荒川弘"
+    ],
+    "correctIndex": 0,
+    "explanation": "オノ・ナツメの漫画をマッドハウスがアニメ化しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「フラクタル」が話題になった理由は？",
+    "options": [
+      "大ヒットした",
+      "監督が自身のキャリアを賭けた発言をした",
+      "全編実写",
+      "放送中止になった"
+    ],
+    "correctIndex": 1,
+    "explanation": "山本寛監督が本作の成否にキャリアを賭けると発言し注目されました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「UN-GO」のアニメ制作会社は？",
+    "options": [
+      "ボンズ",
+      "マッドハウス",
+      "Production I.G",
+      "サンライズ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ボンズが制作した2011年の近未来推理アニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「有頂天家族」の原作者は？",
+    "options": [
+      "万城目学",
+      "森見登美彦",
+      "有川浩",
+      "上橋菜穂子"
+    ],
+    "correctIndex": 1,
+    "explanation": "森見登美彦の小説で、京都のたぬき一家を描く物語です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ゼーガペイン」が再評価された理由は？",
+    "options": [
+      "続編が作られた",
+      "仮想現実テーマの先見性",
+      "声優人気",
+      "ゲーム化"
+    ],
+    "correctIndex": 1,
+    "explanation": "2006年の作品ですが、VR・仮想現実テーマの先見性が後に再評価されました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「サクラダリセット」の放送年は？",
+    "options": [
+      "2015年",
+      "2017年",
+      "2019年",
+      "2021年"
+    ],
+    "correctIndex": 1,
+    "explanation": "2017年にデイヴィッドプロダクションがアニメ化した超能力青春SFです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「正解するカド」が議論を呼んだ理由は？",
+    "options": [
+      "作画崩壊",
+      "終盤の急展開",
+      "放送中止",
+      "声優交代"
+    ],
+    "correctIndex": 1,
+    "explanation": "序盤のハードSF路線から終盤の急展開が視聴者の間で大きな議論になりました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「スペース☆ダンディ」の特徴的な制作方式は？",
+    "options": [
+      "全話同じスタッフ",
+      "各話で異なる監督・スタイル",
+      "全編CG",
+      "視聴者参加型"
+    ],
+    "correctIndex": 1,
+    "explanation": "各話で異なるゲスト監督を迎え、多様なスタイルで制作されました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「地球外少年少女」の監督は？",
+    "options": [
+      "新海誠",
+      "磯光雄",
+      "細田守",
+      "湯浅政明"
+    ],
+    "correctIndex": 1,
+    "explanation": "磯光雄監督の2022年のSFアニメで、「電脳コイル」に次ぐ監督作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「星合の空」が注目された問題は？",
+    "options": [
+      "制作費不足",
+      "打ち切りで物語が完結しなかった",
+      "声優トラブル",
+      "配信停止"
+    ],
+    "correctIndex": 1,
+    "explanation": "当初24話の予定が12話に短縮され、物語が途中で終わり話題になりました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ID:INVADED」の脚本家は？",
+    "options": [
+      "虚淵玄",
+      "舞城王太郎",
+      "大河内一楼",
+      "花田十輝"
+    ],
+    "correctIndex": 1,
+    "explanation": "小説家の舞城王太郎がシリーズ構成・脚本を担当しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「デカダンス」のアニメ制作会社は？",
+    "options": [
+      "NUT",
+      "MAPPA",
+      "ufotable",
+      "ボンズ"
+    ],
+    "correctIndex": 0,
+    "explanation": "NUTが制作した2020年のオリジナルSFアニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「Vivy」のシリーズ構成を担当したのは？",
+    "options": [
+      "虚淵玄",
+      "長月達平と梅原英司",
+      "大河内一楼",
+      "岡田麿里"
+    ],
+    "correctIndex": 1,
+    "explanation": "Re:ゼロの長月達平と梅原英司がシリーズ構成を共同担当しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ワンダーエッグ・プライオリティ」が話題と問題の両方を呼んだ理由は？",
+    "options": [
+      "高い序盤評価と制作問題による終盤の混乱",
+      "低視聴率",
+      "声優交代",
+      "原作者との対立"
+    ],
+    "correctIndex": 0,
+    "explanation": "序盤の高い評価から一転、制作問題で最終話が遅延し特別編の内容が議論を呼びました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「体操ザムライ」の制作会社は？",
+    "options": [
+      "MAPPA",
+      "Production I.G",
+      "サンライズ",
+      "京都アニメーション"
+    ],
+    "correctIndex": 0,
+    "explanation": "MAPPAが制作した2020年の体操を題材にしたオリジナルアニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「吸血鬼すぐ死ぬ」のジャンルは？",
+    "options": [
+      "ホラー",
+      "ギャグコメディ",
+      "恋愛",
+      "SF"
+    ],
+    "correctIndex": 1,
+    "explanation": "すぐ死ぬ（すぐ復活する）吸血鬼を描くギャグアニメです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「シティーハンター」の主人公は？",
+    "options": [
+      "冴羽獠",
+      "海坊主",
+      "槇村秀幸",
+      "野上冴子"
+    ],
+    "correctIndex": 0,
+    "explanation": "冴羽獠は新宿を拠点とするスイーパー（始末屋）です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「タッチ」の双子の名前は？",
+    "options": [
+      "達也と和也",
+      "太郎と次郎",
+      "一也と二也",
+      "光と影"
+    ],
+    "correctIndex": 0,
+    "explanation": "上杉達也と上杉和也の双子が主人公のあだち充作品です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「キャプテン翼」のスポーツは？",
+    "options": [
+      "野球",
+      "バスケ",
+      "サッカー",
+      "テニス"
+    ],
+    "correctIndex": 2,
+    "explanation": "大空翼がサッカーで世界を目指す物語です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「とっとこハム太郎」の主人公は？",
+    "options": [
+      "猫",
+      "犬",
+      "ハムスター",
+      "うさぎ"
+    ],
+    "correctIndex": 2,
+    "explanation": "ハムスターのハム太郎が主人公の子供向けアニメです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「こちら葛飾区亀有公園前派出所」の主人公は？",
+    "options": [
+      "中川",
+      "麗子",
+      "両津勘吉",
+      "大原部長"
+    ],
+    "correctIndex": 2,
+    "explanation": "両津勘吉巡査長が主人公のギャグ漫画です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「MAJOR」のスポーツは？",
+    "options": [
+      "サッカー",
+      "野球",
+      "テニス",
+      "バスケ"
+    ],
+    "correctIndex": 1,
+    "explanation": "茂野吾郎が野球選手として成長する物語です。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「おそ松さん」の六つ子は何人兄弟？",
+    "options": [
+      "4人",
+      "5人",
+      "6人",
+      "7人"
+    ],
+    "correctIndex": 2,
+    "explanation": "松野家の六つ子が主人公のコメディアニメです。",
+    "difficulty": "easy"
+  },
+  {
+    "question": "「がっこうぐらし！」の衝撃的な設定は？",
+    "options": [
+      "学園が宇宙にある",
+      "実はゾンビ世界",
+      "全員がAI",
+      "夢の中の世界"
+    ],
+    "correctIndex": 1,
+    "explanation": "一見普通の学園日常ものに見えて実はゾンビに囲まれた世界です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「少女☆歌劇 レヴュースタァライト」のテーマは？",
+    "options": [
+      "アイドル",
+      "舞台少女のバトルロイヤル",
+      "魔法少女",
+      "料理"
+    ],
+    "correctIndex": 1,
+    "explanation": "舞台女優を目指す少女たちがオーディション形式で戦う作品です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「甲鉄城のカバネリ」の制作スタジオは？",
+    "options": [
+      "MAPPA",
+      "WIT STUDIO",
+      "ufotable",
+      "サンライズ"
+    ],
+    "correctIndex": 1,
+    "explanation": "進撃の巨人と同じWIT STUDIOが制作したオリジナルアニメです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「revisions リヴィジョンズ」の全編CGを手がけたスタジオは？",
+    "options": [
+      "オレンジ",
+      "サンジゲン",
+      "ポリゴン・ピクチュアズ",
+      "白組"
+    ],
+    "correctIndex": 3,
+    "explanation": "白組が制作した全編CGロボットアニメです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「GREAT PRETENDER」の監督は？",
+    "options": [
+      "渡辺信一郎",
+      "鏑木ひろ",
+      "細田守",
+      "新海誠"
+    ],
+    "correctIndex": 1,
+    "explanation": "鏑木ひろ監督のWIT STUDIO制作コンゲームアニメです。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「彼方のアストラ」が評価された理由は？",
+    "options": [
+      "長期連載",
+      "全5巻で完璧に完結した構成力",
+      "アニメ未放送",
+      "実写化"
+    ],
+    "correctIndex": 1,
+    "explanation": "篠原健太の全5巻完結の構成の見事さが漫画大賞を受賞しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ドロヘドロ」のアニメ制作会社は？",
+    "options": [
+      "ufotable",
+      "MAPPA",
+      "ボンズ",
+      "A-1 Pictures"
+    ],
+    "correctIndex": 1,
+    "explanation": "MAPPAがドロヘドロのアニメを制作しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ワールドトリガー」のアニメが一時中断した理由は？",
+    "options": [
+      "視聴率低迷",
+      "原作者の体調不良による連載休止",
+      "制作会社の倒産",
+      "放送枠の問題"
+    ],
+    "correctIndex": 1,
+    "explanation": "原作者の葦原大介先生の体調不良で連載が長期休載となりました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「アクダマドライブ」の脚本家は？",
+    "options": [
+      "虚淵玄",
+      "小高和剛",
+      "岡田麿里",
+      "大河内一楼"
+    ],
+    "correctIndex": 1,
+    "explanation": "ダンガンロンパの小高和剛がシリーズ構成・脚本を担当しました。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「ブルーピリオド」のテーマは？",
+    "options": [
+      "音楽",
+      "美術（絵画）",
+      "文学",
+      "写真"
+    ],
+    "correctIndex": 1,
+    "explanation": "美術大学を目指す高校生を描く美術をテーマにした青春作品です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「天晴爛漫！」の舞台は？",
+    "options": [
+      "江戸時代の日本",
+      "明治時代のアメリカ横断レース",
+      "未来の宇宙",
+      "中世ヨーロッパ"
+    ],
+    "correctIndex": 1,
+    "explanation": "明治時代を舞台にアメリカ大陸を横断するレースに挑む物語です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「憂国のモリアーティ」の原案は？",
+    "options": [
+      "オリジナル",
+      "シャーロック・ホームズシリーズ",
+      "アルセーヌ・ルパン",
+      "オペラ座の怪人"
+    ],
+    "correctIndex": 1,
+    "explanation": "コナン・ドイルのシャーロック・ホームズのモリアーティ教授が主人公です。",
+    "difficulty": "medium"
+  },
+  {
+    "question": "「昭和元禄落語心中」のテーマは？",
+    "options": [
+      "歌舞伎",
+      "落語",
+      "能",
+      "狂言"
+    ],
+    "correctIndex": 1,
+    "explanation": "落語家たちの人生を描いた人間ドラマです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「映像研には手を出すな！」のアニメ監督は？",
+    "options": [
+      "細田守",
+      "湯浅政明",
+      "渡辺信一郎",
+      "新海誠"
+    ],
+    "correctIndex": 1,
+    "explanation": "湯浅政明監督がサイエンスSARUでアニメ化しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「Sonny Boy」の制作スタジオは？",
+    "options": [
+      "マッドハウス",
+      "MAPPA",
+      "サンライズ",
+      "Production I.G"
+    ],
+    "correctIndex": 0,
+    "explanation": "マッドハウスが制作した2021年のオリジナルアニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「大王についてきて」（王様ランキング）の原作の掲載先は？",
+    "options": [
+      "ジャンプ",
+      "マンガハック（Web漫画）",
+      "マガジン",
+      "サンデー"
+    ],
+    "correctIndex": 1,
+    "explanation": "十日草輔がマンガハックで連載したWeb漫画が原作です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「ヴァイオレット・エヴァーガーデン」の原作はどの賞を受賞？",
+    "options": [
+      "直木賞",
+      "京都アニメーション大賞",
+      "電撃大賞",
+      "このラノ1位"
+    ],
+    "correctIndex": 1,
+    "explanation": "暁佳奈の小説が第5回京都アニメーション大賞の大賞を受賞しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「スキップとローファー」の原作掲載誌は？",
+    "options": [
+      "少年ジャンプ",
+      "アフタヌーン",
+      "マガジン",
+      "チャンピオン"
+    ],
+    "correctIndex": 1,
+    "explanation": "高松美咲がアフタヌーンで連載している漫画です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「Vivy」の制作スタジオは？",
+    "options": [
+      "MAPPA",
+      "WIT STUDIO",
+      "ufotable",
+      "京都アニメーション"
+    ],
+    "correctIndex": 1,
+    "explanation": "WIT STUDIOが制作した2021年のオリジナルSFアニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「86」のアニメ制作会社は？",
+    "options": [
+      "MAPPA",
+      "A-1 Pictures",
+      "ufotable",
+      "ボンズ"
+    ],
+    "correctIndex": 1,
+    "explanation": "A-1 Picturesが安里アサトのライトノベルをアニメ化しました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「サマータイムレンダ」の原作掲載先は？",
+    "options": [
+      "ジャンプ",
+      "少年ジャンプ+",
+      "マガジン",
+      "サンデー"
+    ],
+    "correctIndex": 1,
+    "explanation": "田中靖規が少年ジャンプ+で連載したサスペンス漫画です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「かげきしょうじょ!!」のテーマは？",
+    "options": [
+      "アイドル",
+      "宝塚のような歌劇団の養成学校",
+      "魔法学校",
+      "スポーツ"
+    ],
+    "correctIndex": 1,
+    "explanation": "紅華歌劇団の養成学校を舞台にした青春作品です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「オッドタクシー」の原案・脚本は？",
+    "options": [
+      "虚淵玄",
+      "此元和津也",
+      "大河内一楼",
+      "花田十輝"
+    ],
+    "correctIndex": 1,
+    "explanation": "此元和津也が原案・脚本を担当し、緻密な伏線回収で評価されました。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「プラネット・ウィズ」の原作者は？",
+    "options": [
+      "水上悟志",
+      "つくしあきひと",
+      "大暮維人",
+      "藤田和日郎"
+    ],
+    "correctIndex": 0,
+    "explanation": "水上悟志が原作・シリーズ構成を担当したロボットアニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「天元突破グレンラガン」の制作会社は？",
+    "options": [
+      "ボンズ",
+      "ガイナックス",
+      "サンライズ",
+      "マッドハウス"
+    ],
+    "correctIndex": 1,
+    "explanation": "ガイナックスが制作した2007年のロボットアニメです。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「サクガン」の正式タイトルは？",
+    "options": [
+      "削岩",
+      "サクガン‐SAKUGAN‐",
+      "削岩ラビリンス",
+      "削岩記"
+    ],
+    "correctIndex": 1,
+    "explanation": "親子で地底世界を冒険するSFアニメ。サテライト制作の2021年作品。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「オッドタクシー」で使われた独特の手法は？",
+    "options": [
+      "全員動物の姿で描かれる",
+      "全編実写",
+      "無音アニメ",
+      "逆再生"
+    ],
+    "correctIndex": 0,
+    "explanation": "登場人物が全員動物の姿で描かれますが、実は理由がある構成です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「パリピ孔明」の設定は？",
+    "options": [
+      "諸葛孔明が現代の渋谷に転生する",
+      "孔明がパーティーを開く",
+      "三国志のアニメ化",
+      "歴史ドキュメンタリー"
+    ],
+    "correctIndex": 0,
+    "explanation": "三国志の諸葛孔明が現代の渋谷に転生し、歌手をプロデュースする物語です。",
+    "difficulty": "hard"
+  },
+  {
+    "question": "「プランダラ」のアニメ制作会社は？",
+    "options": [
+      "GEEKTOYS",
+      "MAPPA",
+      "ufotable",
+      "Production I.G"
+    ],
+    "correctIndex": 0,
+    "explanation": "GEEKTOYSが制作した2020年のファンタジーバトルアニメです。",
+    "difficulty": "hard"
+  }
+]

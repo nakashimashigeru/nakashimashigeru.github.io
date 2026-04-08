@@ -1,0 +1,4802 @@
+[
+  {
+    "question": "Who is the main character of \"Dragon Ball\"?",
+    "options": [
+      "Vegeta",
+      "Goku",
+      "Piccolo",
+      "Krillin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Son Goku is a Saiyan and the protagonist of the Dragon Ball series.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What Devil Fruit did Luffy eat in \"ONE PIECE\"?",
+    "options": [
+      "Flame-Flame Fruit",
+      "Gum-Gum Fruit",
+      "Chop-Chop Fruit",
+      "Slip-Slip Fruit"
+    ],
+    "correctIndex": 1,
+    "explanation": "He ate the Gum-Gum Fruit and became a rubber man.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is the main character of \"Demon Slayer\"?",
+    "options": [
+      "Zenitsu Agatsuma",
+      "Inosuke Hashibira",
+      "Tanjiro Kamado",
+      "Giyu Tomioka"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tanjiro Kamado fights to save his sister after his family is killed by demons.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is Ash's partner in \"Pokemon\"?",
+    "options": [
+      "Charmander",
+      "Squirtle",
+      "Bulbasaur",
+      "Pikachu"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pikachu is Ash's first partner Pokemon.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is Conan's true identity in \"Detective Conan\"?",
+    "options": [
+      "Kogoro Mouri",
+      "Heiji Hattori",
+      "Shinichi Kudo",
+      "Shuichi Akai"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shinichi Kudo was shrunk by a poison and operates as Conan Edogawa.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is Naruto's dream in \"NARUTO\"?",
+    "options": [
+      "Strongest ninja",
+      "Become Hokage",
+      "World domination",
+      "Protect friends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Naruto Uzumaki's dream is to become the Hokage of the Hidden Leaf Village.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Where do humans live in \"Attack on Titan\"?",
+    "options": [
+      "Underground city",
+      "Inside walls",
+      "Floating island",
+      "Underwater"
+    ],
+    "correctIndex": 1,
+    "explanation": "Humanity lives inside three concentric walls to protect themselves from Titans.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who directed \"Spirited Away\"?",
+    "options": [
+      "Makoto Shinkai",
+      "Mamoru Hosoda",
+      "Hayao Miyazaki",
+      "Hideaki Anno"
+    ],
+    "correctIndex": 2,
+    "explanation": "Directed by Hayao Miyazaki at Studio Ghibli, it won the Academy Award.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Where did Doraemon come from?",
+    "options": [
+      "Space",
+      "The future",
+      "Another world",
+      "Underwater"
+    ],
+    "correctIndex": 1,
+    "explanation": "Doraemon came from the 22nd century to help Nobita.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Yuji swallow in \"Jujutsu Kaisen\"?",
+    "options": [
+      "A talisman",
+      "Sukuna's finger",
+      "A cursed core",
+      "A special grade object"
+    ],
+    "correctIndex": 1,
+    "explanation": "He swallowed Ryomen Sukuna's finger and became Sukuna's vessel.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What sport is \"Slam Dunk\" about?",
+    "options": [
+      "Soccer",
+      "Basketball",
+      "Volleyball",
+      "Tennis"
+    ],
+    "correctIndex": 1,
+    "explanation": "It follows Hanamichi Sakuragi discovering and growing in basketball.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is Detective Conan's catchphrase?",
+    "options": [
+      "You are already dead",
+      "There is always only one truth!",
+      "In the name of the moon",
+      "If you give up, the game is over"
+    ],
+    "correctIndex": 1,
+    "explanation": "Conan's iconic line: 'There is always only one truth!'",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the main character in \"Sailor Moon\"?",
+    "options": [
+      "Rei Hino",
+      "Usagi Tsukino",
+      "Ami Mizuno",
+      "Makoto Kino"
+    ],
+    "correctIndex": 1,
+    "explanation": "Usagi Tsukino transforms into Sailor Moon to fight evil.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the main feature of \"One Punch Man\"'s hero?",
+    "options": [
+      "Super speed",
+      "One-hit KO",
+      "Immortality",
+      "Shapeshifting"
+    ],
+    "correctIndex": 1,
+    "explanation": "Saitama can defeat any enemy with a single punch.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is Anya's ability in \"SPY×FAMILY\"?",
+    "options": [
+      "X-ray vision",
+      "Super strength",
+      "Telepathy",
+      "Precognition"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anya is an esper who can read people's minds.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which \"My Hero Academia\" character was born Quirkless?",
+    "options": [
+      "Katsuki Bakugo",
+      "Shoto Todoroki",
+      "Izuku Midoriya",
+      "Tenya Iida"
+    ],
+    "correctIndex": 2,
+    "explanation": "Izuku Midoriya (Deku) was Quirkless but inherited One For All from All Might.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What vehicle appears in \"My Neighbor Totoro\"?",
+    "options": [
+      "Magic carpet",
+      "Catbus",
+      "Broomstick",
+      "Flying stone"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Catbus is a magical creature-vehicle in Totoro's world.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What era is \"Gintama\" set in?",
+    "options": [
+      "Warring States",
+      "Heian period",
+      "Sci-fi Edo period",
+      "Modern day"
+    ],
+    "correctIndex": 2,
+    "explanation": "It's set in an alternate Edo period where aliens have invaded.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who found the Death Note in \"Death Note\"?",
+    "options": [
+      "L",
+      "Light Yagami",
+      "Misa Amane",
+      "Near"
+    ],
+    "correctIndex": 1,
+    "explanation": "Light Yagami found the Death Note and became \"Kira,\" judging criminals.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What sport is \"Haikyuu!!\" about?",
+    "options": [
+      "Soccer",
+      "Tennis",
+      "Volleyball",
+      "Badminton"
+    ],
+    "correctIndex": 2,
+    "explanation": "It follows Hinata Shoyo's passion for volleyball.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How old is the main character of \"Crayon Shin-chan\"?",
+    "options": [
+      "3 years old",
+      "5 years old",
+      "7 years old",
+      "10 years old"
+    ],
+    "correctIndex": 1,
+    "explanation": "Shinnosuke Nohara is a 5-year-old kindergartener.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does the main character of \"Chainsaw Man\" transform into?",
+    "options": [
+      "Werewolf",
+      "Chainsaw Devil",
+      "Fire Devil",
+      "Gun Devil"
+    ],
+    "correctIndex": 1,
+    "explanation": "Denji fuses with Pochita and transforms into Chainsaw Man.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is the main character of \"Neon Genesis Evangelion\"?",
+    "options": [
+      "Kaworu Nagisa",
+      "Shinji Ikari",
+      "Kensuke Aida",
+      "Ryoji Kaji"
+    ],
+    "correctIndex": 1,
+    "explanation": "Shinji Ikari pilots the giant robot Eva to fight Angels.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is Kiki's companion in \"Kiki's Delivery Service\"?",
+    "options": [
+      "White dog",
+      "Black cat Jiji",
+      "Owl",
+      "Crow"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jiji the black cat is Kiki's witch companion.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the main character's power in \"Tokyo Revengers\"?",
+    "options": [
+      "Superpowers",
+      "Time leap",
+      "Immortality",
+      "Telekinesis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Takemichi Hanagaki can leap back in time to change destiny.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the Pirate King in \"ONE PIECE\"?",
+    "options": [
+      "Shanks",
+      "Whitebeard",
+      "Gol D. Roger",
+      "Kaido"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gol D. Roger was the only pirate to conquer the Grand Line.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What breathing technique does Tanjiro use in \"Demon Slayer\"?",
+    "options": [
+      "Flame Breathing",
+      "Water Breathing",
+      "Thunder Breathing",
+      "Wind Breathing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tanjiro first learned Water Breathing, then also used Hinokami Kagura.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which clan possesses the Sharingan in \"NARUTO\"?",
+    "options": [
+      "Hyuga Clan",
+      "Uchiha Clan",
+      "Sarutobi Clan",
+      "Senju Clan"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Uchiha Clan is a prestigious family with the special eye technique Sharingan.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the organization's name in \"Evangelion\"?",
+    "options": [
+      "SEELE",
+      "NERV",
+      "Third",
+      "SHIELD"
+    ],
+    "correctIndex": 1,
+    "explanation": "NERV is the organization that operates the Evas to fight Angels.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who is the protagonist of \"JoJo's Bizarre Adventure\" Part 3?",
+    "options": [
+      "Joseph",
+      "Jotaro",
+      "Giorno",
+      "Josuke"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jotaro Kujo is the wielder of the Stand \"Star Platinum.\"",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Gon's father's name in \"HUNTER×HUNTER\"?",
+    "options": [
+      "Leorio",
+      "Kite",
+      "Ging",
+      "Kurapika"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ging Freecss is a legendary Hunter and Gon's father.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the outermost wall in \"Attack on Titan\"?",
+    "options": [
+      "Wall Rose",
+      "Wall Sina",
+      "Wall Maria",
+      "Wall Fritz"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wall Maria is the outermost wall and was the first to be breached by Titans.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of Ichigo's Bankai in \"BLEACH\"?",
+    "options": [
+      "Zangetsu",
+      "Tensa Zangetsu",
+      "Senbonzakura",
+      "Hyorinmaru"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tensa Zangetsu is Ichigo Kurosaki's Bankai, specializing in speed.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the law of equivalent exchange in \"Fullmetal Alchemist\"?",
+    "options": [
+      "Can create anything",
+      "Equal cost required",
+      "Magic is omnipotent",
+      "Control time"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alchemy requires \"something of equal value must be given\" as its basic principle.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Lelouch's power in \"Code Geass\"?",
+    "options": [
+      "Telepathy",
+      "Geass of Absolute Obedience",
+      "Future sight",
+      "Time stop"
+    ],
+    "correctIndex": 1,
+    "explanation": "He can give one absolute command to anyone he makes eye contact with.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the orphanage's name in \"The Promised Neverland\"?",
+    "options": [
+      "Grace Field",
+      "Neverland",
+      "The Plant",
+      "Eden"
+    ],
+    "correctIndex": 0,
+    "explanation": "Grace Field House was actually a farm raising children as food for demons.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Ai's profession in \"Oshi no Ko\"?",
+    "options": [
+      "Actress",
+      "Idol",
+      "Voice actress",
+      "Model"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ai is the top idol and center of the group \"B-Komachi.\"",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What race is Frieren in \"Frieren: Beyond Journey's End\"?",
+    "options": [
+      "Human",
+      "Dwarf",
+      "Elf",
+      "Demon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Frieren is a long-lived elf mage who has lived for over a thousand years.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is L's real name in \"DEATH NOTE\"?",
+    "options": [
+      "Light Yagami",
+      "L Lawliet",
+      "Near",
+      "Mello"
+    ],
+    "correctIndex": 1,
+    "explanation": "L's real name is L Lawliet, and he is the world's greatest detective.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What number is Frieza's final form in \"Dragon Ball\"?",
+    "options": [
+      "2nd form",
+      "3rd form",
+      "4th form",
+      "5th form"
+    ],
+    "correctIndex": 2,
+    "explanation": "Frieza fought Goku in his 4th (final) form in an epic battle.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Kenshin's nickname in \"Rurouni Kenshin\"?",
+    "options": [
+      "Battousai the Manslayer",
+      "Sword master",
+      "Pacifist samurai",
+      "Wandering swordsman"
+    ],
+    "correctIndex": 0,
+    "explanation": "Himura Kenshin was feared as \"Hitokiri Battousai\" during the Bakumatsu.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who are the two directors that founded Studio Ghibli?",
+    "options": [
+      "Miyazaki & Anno",
+      "Miyazaki & Takahata",
+      "Takahata & Hosoda",
+      "Miyazaki & Oshii"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hayao Miyazaki and Isao Takahata founded Studio Ghibli in 1985.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many members make up the \"Generation of Miracles\" in \"Kuroko's Basketball\"?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 0,
+    "explanation": "The five members are Kise, Midorima, Aomine, Murasakibara, and Akashi. Kuroko is called the \"Phantom Sixth Man\" but is not counted as a member of the Generation of Miracles itself.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Koro-sensei's weakness in \"Assassination Classroom\"?",
+    "options": [
+      "Water",
+      "Anti-sensei material",
+      "Fire",
+      "Electricity"
+    ],
+    "correctIndex": 1,
+    "explanation": "Only weapons made of anti-sensei material can harm him.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Subaru's ability in \"Re:Zero\"?",
+    "options": [
+      "Time stop",
+      "Return by Death",
+      "Acceleration",
+      "Teleportation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Natsuki Subaru has \"Return by Death,\" reviving at a checkpoint when he dies.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the first setting of \"Sword Art Online\"?",
+    "options": [
+      "ALO",
+      "GGO",
+      "Aincrad",
+      "Underworld"
+    ],
+    "correctIndex": 2,
+    "explanation": "The floating castle Aincrad is the first setting, with 100 floors to clear.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What school is the setting of \"Kaguya-sama: Love Is War\"?",
+    "options": [
+      "Shuchiin Academy",
+      "Ouran High School",
+      "Otonokizaka Academy",
+      "Uranohoshi Girls' Academy"
+    ],
+    "correctIndex": 0,
+    "explanation": "The student council at Shuchiin Academy is where Shirogane and Kaguya wage their war of love.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What triggered Kaneki's transformation in \"Tokyo Ghoul\"?",
+    "options": [
+      "Accident",
+      "Ghoul organ transplant",
+      "Curse",
+      "Experiment"
+    ],
+    "correctIndex": 1,
+    "explanation": "He received Rize's organs and became a half-ghoul.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Saber's true name in the \"Fate\" series?",
+    "options": [
+      "Joan of Arc",
+      "Artoria Pendragon",
+      "Nero",
+      "Mordred"
+    ],
+    "correctIndex": 1,
+    "explanation": "Saber's true name is Artoria (King Arthur).",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio animated \"Jujutsu Kaisen\"?",
+    "options": [
+      "ufotable",
+      "MAPPA",
+      "Kyoto Animation",
+      "WIT STUDIO"
+    ],
+    "correctIndex": 1,
+    "explanation": "MAPPA produced the Jujutsu Kaisen anime series.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What year is \"AKIRA\" set in?",
+    "options": [
+      "2019",
+      "2020",
+      "2030",
+      "2050"
+    ],
+    "correctIndex": 0,
+    "explanation": "Released in 1988, the film is set in Neo-Tokyo in 2019.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the protagonist's full name in \"Ghost in the Shell\"?",
+    "options": [
+      "Motoko Kusanagi",
+      "Daisuke Aramaki",
+      "Batou",
+      "Togusa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Major Motoko Kusanagi leads Public Security Section 9 as a cyborg.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is Hisoka's Nen ability in \"HUNTER×HUNTER\"?",
+    "options": [
+      "En",
+      "Bungee Gum",
+      "Bandit's Secret",
+      "Skill Hunter"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bungee Gum has the properties of both rubber and gum.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is Giorno's Stand name in \"JoJo\" Part 5?",
+    "options": [
+      "King Crimson",
+      "Gold Experience",
+      "Sticky Fingers",
+      "Purple Haze"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gold Experience has the ability to give life to objects.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who voices Tanjiro Kamado in the \"Demon Slayer\" anime?",
+    "options": [
+      "Hiro Shimono",
+      "Natsuki Hanae",
+      "Yoshitsugu Matsuoka",
+      "Yuki Kaji"
+    ],
+    "correctIndex": 1,
+    "explanation": "Natsuki Hanae voiced Tanjiro and gained massive recognition through the role.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which is NOT a Kyoto Animation production?",
+    "options": [
+      "K-On!",
+      "The Melancholy of Haruhi Suzumiya",
+      "Attack on Titan",
+      "Violet Evergarden"
+    ],
+    "correctIndex": 2,
+    "explanation": "Attack on Titan was produced by WIT STUDIO (later MAPPA). KyoAni created the other three and many more classics.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the first Japanese anime to win the Academy Award for Best Animated Feature?",
+    "options": [
+      "Princess Mononoke",
+      "Spirited Away",
+      "AKIRA",
+      "Your Name"
+    ],
+    "correctIndex": 1,
+    "explanation": "Spirited Away won at the 75th Academy Awards in 2003.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who developed the Reanimation Jutsu in \"NARUTO\"?",
+    "options": [
+      "Orochimaru",
+      "Tobirama",
+      "Kabuto",
+      "Madara"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Second Hokage, Tobirama Senju, developed the Edo Tensei jutsu.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who does NOT carry the \"Will of D\" in \"ONE PIECE\"?",
+    "options": [
+      "Monkey D. Luffy",
+      "Gol D. Roger",
+      "Trafalgar D. Law",
+      "Roronoa Zoro"
+    ],
+    "correctIndex": 3,
+    "explanation": "Zoro's name does not contain the letter \"D.\"",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is Kyubey's true identity in \"Madoka Magica\"?",
+    "options": [
+      "Witch",
+      "Angel",
+      "Incubator",
+      "Familiar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kyubey is an Incubator that harvests entropy from the universe.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the spaceship's name in \"Cowboy Bebop\"?",
+    "options": [
+      "Bebop",
+      "Swordfish",
+      "Red Tail",
+      "Hammerhead"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Bebop is Spike and crew's mother ship, originally a fishing vessel.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where is Ashitaka from in \"Princess Mononoke\"?",
+    "options": [
+      "Tatara Ba",
+      "Emishi village",
+      "Forest tribe",
+      "Umbrella guild"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ashitaka is a descendant of the Emishi clan from northeastern Japan.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the first animated TV series in history (Japan)?",
+    "options": [
+      "Astro Boy",
+      "Sazae-san",
+      "A Story Left on the Calendar",
+      "Tetsujin 28"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Astro Boy\" (1963) was Japan's first serialized TV anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What are the two major factions in \"Legend of the Galactic Heroes\"?",
+    "options": [
+      "Earth & Mars",
+      "Empire & Alliance",
+      "Federation & Principality",
+      "Kingdom & Republic"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Galactic Empire and the Free Planets Alliance wage an epic space war.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How much did \"Your Name\" gross at the Japanese box office?",
+    "options": [
+      "About 10 billion yen",
+      "About 25 billion yen",
+      "About 40 billion yen",
+      "About 50 billion yen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Released in 2016, it earned about 25 billion yen, making it the second highest-grossing Japanese film at the time.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What year was \"GHOST IN THE SHELL\" released?",
+    "options": [
+      "1993",
+      "1995",
+      "1997",
+      "1999"
+    ],
+    "correctIndex": 1,
+    "explanation": "Released in 1995, it greatly influenced \"The Matrix.\"",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is Guts' weapon in \"Berserk\"?",
+    "options": [
+      "Katana",
+      "Dragon Slayer",
+      "Magic staff",
+      "Dual swords"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Dragon Slayer is a massive iron blade too large for a normal human.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What classic story inspired \"Dragon Ball\"?",
+    "options": [
+      "Romance of the Three Kingdoms",
+      "Water Margin",
+      "Journey to the West",
+      "Investiture of the Gods"
+    ],
+    "correctIndex": 2,
+    "explanation": "Son Goku, Nimbus Cloud, and Power Pole all come from Journey to the West.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the purpose of the \"Human Instrumentality Project\" in \"Evangelion\"?",
+    "options": [
+      "Giantification",
+      "Human unification",
+      "Time travel",
+      "Space colonization"
+    ],
+    "correctIndex": 1,
+    "explanation": "A plan to merge all human souls into one to eliminate loneliness and conflict.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the last shot Hanamichi made in \"SLAM DUNK\"?",
+    "options": [
+      "Dunk",
+      "Layup",
+      "Mid-range shot",
+      "3-pointer"
+    ],
+    "correctIndex": 2,
+    "explanation": "In the Sannoh game's finale, he calmly sank a mid-range jumper.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does Ginko deal with in \"Mushishi\"?",
+    "options": [
+      "Yokai",
+      "Mushi",
+      "Spirits",
+      "Ghosts"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mushi are beings close to the source of life, and Ginko is a specialist (Mushishi).",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the famous quote from \"Gurren Lagann\"?",
+    "options": [
+      "I mustn't run away",
+      "Your drill pierces the heavens",
+      "Game over if you give up",
+      "The truth is always one"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Your drill is the drill that will pierce the heavens!\" is Kamina's iconic line.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Japanese studio created \"Cyberpunk: Edgerunners\"?",
+    "options": [
+      "MAPPA",
+      "TRIGGER",
+      "Production I.G",
+      "Bones"
+    ],
+    "correctIndex": 1,
+    "explanation": "Studio TRIGGER co-produced it with CD Projekt RED for worldwide release on Netflix.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Studio Ghibli's first feature film?",
+    "options": [
+      "My Neighbor Totoro",
+      "Castle in the Sky",
+      "Nausicaa",
+      "Princess Mononoke"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Castle in the Sky\" (1986) was the first feature film after Ghibli's founding.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the protagonist's name in \"Vinland Saga\"?",
+    "options": [
+      "Askeladd",
+      "Thorfinn",
+      "Canute",
+      "Thorkell"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thorfinn pursues his father's killer while searching for the meaning of a true warrior.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is the main character of Slam Dunk?",
+    "options": [
+      "Kaede Rukawa",
+      "Hanamichi Sakuragi",
+      "Hisashi Mitsui",
+      "Takenori Akagi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hanamichi Sakuragi is the protagonist of the basketball manga/anime.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Fullmetal Alchemist, what is Edward's brother's name?",
+    "options": [
+      "Roy",
+      "Al",
+      "Ling",
+      "Scar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alphonse Elric (Al) is Edward's younger brother.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the main character's name in One Punch Man?",
+    "options": [
+      "Genos",
+      "King",
+      "Saitama",
+      "Garou"
+    ],
+    "correctIndex": 2,
+    "explanation": "Saitama is a hero who can defeat any enemy with a single punch.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In SPY×FAMILY, what is Anya's special ability?",
+    "options": [
+      "Invisibility",
+      "Telepathy",
+      "Future sight",
+      "Flight"
+    ],
+    "correctIndex": 1,
+    "explanation": "Anya is an esper who can read other people's minds.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What are the sisters' names in My Neighbor Totoro?",
+    "options": [
+      "Satsuki and Mei",
+      "Lin and Chihiro",
+      "Nausicaa and Kushana",
+      "Sophie and Howl"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sisters Satsuki and Mei encounter Totoro in the countryside.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is the main character of Gintama?",
+    "options": [
+      "Toshiro Hijikata",
+      "Gintoki Sakata",
+      "Shinsuke Takasugi",
+      "Kotaro Katsura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gintoki Sakata runs a freelance business in Edo.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What position does the main character play in Haikyuu!!?",
+    "options": [
+      "Setter",
+      "Libero",
+      "Middle blocker",
+      "Wing spiker"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hinata Shoyo plays as a wing spiker.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Death Note, what appears after the protagonist picks up the notebook?",
+    "options": [
+      "An angel",
+      "A demon",
+      "A shinigami",
+      "A fairy"
+    ],
+    "correctIndex": 2,
+    "explanation": "The shinigami Ryuk dropped the Death Note that Light Yagami found.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In My Hero Academia, what is the protagonist's quirk?",
+    "options": [
+      "Explosion",
+      "Half-Cold Half-Hot",
+      "One For All",
+      "Erasure"
+    ],
+    "correctIndex": 2,
+    "explanation": "Izuku Midoriya inherited One For All from All Might.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is the main character of Bleach?",
+    "options": [
+      "Rukia Kuchiki",
+      "Ichigo Kurosaki",
+      "Toshiro Hitsugaya",
+      "Kisuke Urahara"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ichigo Kurosaki becomes a substitute Soul Reaper.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In The Promised Neverland, where do the children live?",
+    "options": [
+      "A school",
+      "An orphanage",
+      "A hospital",
+      "A temple"
+    ],
+    "correctIndex": 1,
+    "explanation": "Grace Field House is the orphanage where the story begins.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the main character's username in Sword Art Online?",
+    "options": [
+      "Asuna",
+      "Klein",
+      "Kirito",
+      "Leafa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kazuto Kirigaya's in-game name is Kirito.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Madoka Magica, who tries to make Madoka form a contract?",
+    "options": [
+      "Mami",
+      "Homura",
+      "Kyubey",
+      "Sayaka"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kyubey (Incubator) offers girls contracts to become magical girls.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is Crayon Shin-chan's real name?",
+    "options": [
+      "Shinnosuke Nohara",
+      "Hiroshi Nohara",
+      "Misae Nohara",
+      "Himawari Nohara"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shinnosuke Nohara (age 5) is the main character.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Re:Zero, what is Subaru's special ability?",
+    "options": [
+      "Time stop",
+      "Return by Death",
+      "Teleportation",
+      "X-ray vision"
+    ],
+    "correctIndex": 1,
+    "explanation": "Natsuki Subaru returns to a save point each time he dies.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What powers Gurren Lagann?",
+    "options": [
+      "Electricity",
+      "Nuclear energy",
+      "Spiral Power",
+      "Magic"
+    ],
+    "correctIndex": 2,
+    "explanation": "Spiral Power is the energy source that drives Gurren Lagann.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Kuroko's Basketball, what is the protagonist's special skill?",
+    "options": [
+      "Ultra-fast dribbling",
+      "Passing using low presence",
+      "3-point shooting",
+      "Dunking"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kuroko Tetsuya uses his low presence for misdirection passes.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Fruits Basket, which family transforms into zodiac animals?",
+    "options": [
+      "Honda",
+      "Soma",
+      "Hanajima",
+      "Uotani"
+    ],
+    "correctIndex": 1,
+    "explanation": "Members of the Soma family transform when embraced by the opposite sex.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the setting of Kaguya-sama: Love is War?",
+    "options": [
+      "A regular public school",
+      "Shuchiin Academy",
+      "Seishun Academy",
+      "Teiko Middle School"
+    ],
+    "correctIndex": 1,
+    "explanation": "The story takes place at elite Shuchiin Academy's student council.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Assassination Classroom, who are the students trying to assassinate?",
+    "options": [
+      "The principal",
+      "Their homeroom teacher",
+      "A rival class student",
+      "An alien"
+    ],
+    "correctIndex": 1,
+    "explanation": "Students must assassinate Koro-sensei, a super-creature who is their teacher.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Tokyo Ghoul, what does the protagonist become?",
+    "options": [
+      "A vampire",
+      "A werewolf",
+      "A ghoul",
+      "A zombie"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ken Kaneki becomes a half-ghoul after an accident.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Code Geass, what power does the protagonist gain?",
+    "options": [
+      "Super speed",
+      "Geass (power of absolute obedience)",
+      "Telepathy",
+      "Immortality"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lelouch receives the power of Geass from C.C.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What club is featured in K-ON!?",
+    "options": [
+      "Brass band",
+      "Light music club",
+      "Choir",
+      "Drama"
+    ],
+    "correctIndex": 1,
+    "explanation": "The show follows the light music club at Sakuragaoka High School.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Where is Chibi Maruko-chan set?",
+    "options": [
+      "Tokyo",
+      "Osaka",
+      "Shizuoka (Shimizu)",
+      "Nagoya"
+    ],
+    "correctIndex": 2,
+    "explanation": "The series is set in Shimizu City, Shizuoka Prefecture.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Anpanman, what is the hero's head made of?",
+    "options": [
+      "Melon bread",
+      "Curry bread",
+      "Red bean bread",
+      "Cream bread"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anpanman's head is made of anpan (red bean bread).",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the group name in the original Love Live!?",
+    "options": [
+      "A-RISE",
+      "μ's",
+      "Aqours",
+      "Liella!"
+    ],
+    "correctIndex": 1,
+    "explanation": "μ's (Muse) is the school idol group in the first Love Live! series.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Oshi no Ko, what is Ai's profession?",
+    "options": [
+      "Voice actress",
+      "Actress",
+      "Idol",
+      "Model"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hoshino Ai is the center of idol group B-Komachi.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Chainsaw Man, who is Denji's partner?",
+    "options": [
+      "Power",
+      "Makima",
+      "Aki",
+      "Pochita"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pochita is the Chainsaw Devil who became Denji's heart.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many Dragon Balls are needed to summon Shenron?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "correctIndex": 2,
+    "explanation": "Collecting all 7 Dragon Balls summons Shenron who grants wishes.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the time setting of Inuyasha?",
+    "options": [
+      "Modern only",
+      "Heian period",
+      "Sengoku era and modern",
+      "Edo period"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kagome travels between modern-day and the Sengoku period through a well.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the protagonist's name in That Time I Got Reincarnated as a Slime?",
+    "options": [
+      "Rimuru",
+      "Benimaru",
+      "Shuna",
+      "Veldora"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rimuru Tempest is the protagonist reincarnated as a slime.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is the main character of Yu Yu Hakusho?",
+    "options": [
+      "Kurama",
+      "Hiei",
+      "Yusuke Urameshi",
+      "Kazuma Kuwabara"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yusuke Urameshi is the spirit detective protagonist.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the famous catchphrase from Fist of the North Star?",
+    "options": [
+      "You are already dead",
+      "In the name of the moon, I'll punish you",
+      "If you give up, the game is over",
+      "There is always only one truth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kenshiro's 'You are already dead' (Omae wa mou shindeiru) is iconic.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the protagonist's name in Hunter x Hunter?",
+    "options": [
+      "Killua",
+      "Kurapika",
+      "Gon",
+      "Leorio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gon Freecss is a boy who aims to become a Hunter.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Lupin III, who is Lupin's rival inspector?",
+    "options": [
+      "Kogoro Mouri",
+      "Inspector Zenigata",
+      "Inspector Megure",
+      "Inspector Nakamori"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inspector Zenigata of ICPO is obsessed with catching Lupin.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Nausicaa of the Valley of the Wind, what threatens humanity?",
+    "options": [
+      "Giants",
+      "The Toxic Jungle",
+      "Underground people",
+      "Demons"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ichigo Kurosaki's Zanpakuto is named \"Zangetsu\" (Slaying Moon). \"Tensa Zangetsu\" is the Bankai form, but the sword itself is called Zangetsu.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Sazae-san, what is Sazae's husband's name?",
+    "options": [
+      "Masuo",
+      "Katsuo",
+      "Namihei",
+      "Tarao"
+    ],
+    "correctIndex": 0,
+    "explanation": "Masuo Fuguta is Sazae's husband.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What flower is included in the full title of \"Anohana\"?",
+    "options": [
+      "Sunflower",
+      "Cherry blossom",
+      "Violet",
+      "A flower whose name we don't know"
+    ],
+    "correctIndex": 3,
+    "explanation": "The full title is \"Anohana: The Flower We Saw That Day\" (Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai).",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the theme of \"Steins;Gate\"?",
+    "options": [
+      "Space exploration",
+      "Time travel",
+      "AI rebellion",
+      "Parallel worlds"
+    ],
+    "correctIndex": 1,
+    "explanation": "Steins;Gate is a sci-fi thriller centered around time travel using a modified microwave.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Bleach, what is the protagonist's sword called?",
+    "options": [
+      "Zangetsu",
+      "Senbonzakura",
+      "Hyorinmaru",
+      "Zanpakuto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ichigo Kurosaki's Zanpakuto is named \"Zangetsu\" (Slaying Moon). \"Tensa Zangetsu\" is the Bankai form, but the sword itself is called Zangetsu.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In KonoSuba, which goddess does Kazuma take to the other world?",
+    "options": [
+      "Eris",
+      "Aqua",
+      "Wiz",
+      "Megumin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aqua is the water goddess who gets dragged to the other world with Kazuma.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Natsume's Book of Friends, what does Natsume inherit?",
+    "options": [
+      "A sword",
+      "A book of friends",
+      "A grimoire",
+      "A jewel"
+    ],
+    "correctIndex": 1,
+    "explanation": "He inherits the Book of Friends containing yokai names from his grandmother.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What sport is featured in Yowamushi Pedal?",
+    "options": [
+      "Swimming",
+      "Marathon",
+      "Road cycling",
+      "Triathlon"
+    ],
+    "correctIndex": 2,
+    "explanation": "It's a sports anime focused on competitive road cycling.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is the main character of Prince of Tennis?",
+    "options": [
+      "Tezuka",
+      "Fuji",
+      "Ryoma Echizen",
+      "Oishi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ryoma Echizen is a tennis prodigy who joins Seishun Academy.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Kaiju No. 8, what does the protagonist become?",
+    "options": [
+      "A giant",
+      "A kaiju",
+      "A robot",
+      "An alien"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kafka Hibeno is parasitized by a mysterious creature and becomes kaiju-like.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Fairy Tail, what magic does Natsu use?",
+    "options": [
+      "Ice magic",
+      "Fire Dragon Slayer",
+      "Celestial Spirit magic",
+      "Requip"
+    ],
+    "correctIndex": 1,
+    "explanation": "Natsu Dragneel is a Fire Dragon Slayer wizard.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What are characters in Bungo Stray Dogs named after?",
+    "options": [
+      "Japanese mythology",
+      "Real authors",
+      "Constellations",
+      "Historical warriors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Characters are named after real literary figures like Dazai, Nakajima, and Akutagawa.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the premise of \"Uncle from Another World\"?",
+    "options": [
+      "An uncle who returned from another world",
+      "An uncle's adventure in another world",
+      "An uncle from another world comes to the modern era",
+      "An uncle who came from the future"
+    ],
+    "correctIndex": 0,
+    "explanation": "The story follows an uncle who spent 17 years in another world and has returned to the modern era, sharing his experiences.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the \"Abyss\" in \"Made in Abyss\"?",
+    "options": [
+      "Outer space",
+      "The ocean floor",
+      "A giant pit",
+      "A portal to another world"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Abyss is a massive vertical pit on the surface, home to unknown creatures and relics.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Jujutsu Kaisen, who is known as the strongest sorcerer?",
+    "options": [
+      "Itadori Yuji",
+      "Fushiguro Megumi",
+      "Gojo Satoru",
+      "Geto Suguru"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gojo Satoru is known as the strongest jujutsu sorcerer.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the theme of Bocchi the Rock!?",
+    "options": [
+      "Singing",
+      "Guitar",
+      "Drums",
+      "Piano"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hitori Gotoh (Bocchi-chan) is an introverted girl skilled at guitar.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Where is Golden Kamuy set?",
+    "options": [
+      "Tokyo",
+      "Okinawa",
+      "Hokkaido",
+      "Kyoto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Set in late Meiji-era Hokkaido, following a hunt for Ainu gold.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Mushoku Tensei, what is the world called?",
+    "options": [
+      "Another world",
+      "Six-Faced World",
+      "Fantasia",
+      "Eden"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rudeus is reincarnated into the Six-Faced World.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In The Quintessential Quintuplets, how many sisters are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 2,
+    "explanation": "The five Nakano quintuplets (Ichika, Nino, Miku, Yotsuba, Itsuki) are the bride candidates.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is Mob's real name in Mob Psycho 100?",
+    "options": [
+      "Teruki Hanazawa",
+      "Shigeo Kageyama",
+      "Arataka Reigen",
+      "Ekubo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Shigeo Kageyama is the psychic boy nicknamed 'Mob'.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In \"Dr. Stone\", how many years pass before the protagonist awakens from petrification?",
+    "options": [
+      "100 years",
+      "1,000 years",
+      "3,700 years",
+      "10,000 years"
+    ],
+    "correctIndex": 2,
+    "explanation": "Senku awakens approximately 3,700 years after humanity was petrified.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Fate/Zero, what is Saber's true name?",
+    "options": [
+      "Joan of Arc",
+      "Artoria Pendragon",
+      "Nero",
+      "Medusa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Saber's true identity is King Arthur (Artoria Pendragon).",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is Violet Evergarden's job?",
+    "options": [
+      "Soldier",
+      "Doctor",
+      "Auto Memory Doll",
+      "Teacher"
+    ],
+    "correctIndex": 2,
+    "explanation": "Violet works as an Auto Memory Doll, ghostwriting letters.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What sport is featured in Ace of Diamond?",
+    "options": [
+      "Soccer",
+      "Basketball",
+      "Baseball",
+      "Tennis"
+    ],
+    "correctIndex": 2,
+    "explanation": "It's a sports anime focused on baseball.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In The Apothecary Diaries, what is the protagonist's expertise?",
+    "options": [
+      "Swordsmanship",
+      "Pharmacy and poisons",
+      "Magic",
+      "Cooking"
+    ],
+    "correctIndex": 1,
+    "explanation": "Maomao is a pharmacist with extensive knowledge of medicines and poisons.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What sport is Blue Lock about?",
+    "options": [
+      "Basketball",
+      "Baseball",
+      "Soccer",
+      "Tennis"
+    ],
+    "correctIndex": 2,
+    "explanation": "A project to create the world's best striker in soccer.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the setting of Welcome to Demon School! Iruma-kun?",
+    "options": [
+      "Heaven",
+      "A demon school",
+      "A human high school",
+      "Another world"
+    ],
+    "correctIndex": 1,
+    "explanation": "Human boy Iruma attends a school in the demon world.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the theme of Laid-Back Camp?",
+    "options": [
+      "Hiking",
+      "Camping",
+      "Fishing",
+      "Cycling"
+    ],
+    "correctIndex": 1,
+    "explanation": "The anime follows high school girls enjoying outdoor camping.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Shield Hero, what weapon does the protagonist use?",
+    "options": [
+      "Sword",
+      "Spear",
+      "Bow",
+      "Shield"
+    ],
+    "correctIndex": 3,
+    "explanation": "Naofumi Iwatani is summoned as the Shield Hero, one of four legendary heroes.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What city is AKIRA set in?",
+    "options": [
+      "Neo Osaka",
+      "Neo Tokyo",
+      "Neo Yokohama",
+      "Neo Kyoto"
+    ],
+    "correctIndex": 1,
+    "explanation": "The film is set in Neo Tokyo in 2019, created by Katsuhiro Otomo.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who is the protagonist of Ghost in the Shell?",
+    "options": [
+      "Batou",
+      "Togusa",
+      "Major Motoko Kusanagi",
+      "Aramaki"
+    ],
+    "correctIndex": 2,
+    "explanation": "Major Kusanagi leads Section 9 in the cyberpunk series.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Studio Ghibli's first feature-length film?",
+    "options": [
+      "My Neighbor Totoro",
+      "Castle in the Sky",
+      "Nausicaä of the Valley of the Wind",
+      "Princess Mononoke"
+    ],
+    "correctIndex": 1,
+    "explanation": "Castle in the Sky (1986) was Ghibli's first feature film. Nausicaä was made before Ghibli was founded.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why was the Evangelion TV finale controversial?",
+    "options": [
+      "It was cancelled",
+      "It was abstract and introspective",
+      "The ending was too happy",
+      "The animation quality dropped"
+    ],
+    "correctIndex": 1,
+    "explanation": "Episodes 25-26 featured experimental, introspective content due to budget issues.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What genre is Cowboy Bebop?",
+    "options": [
+      "Fantasy",
+      "SF/Space Western",
+      "Horror",
+      "School drama"
+    ],
+    "correctIndex": 1,
+    "explanation": "A story of bounty hunters in space, characterized by jazz music.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In PSYCHO-PASS, what system predicts crime?",
+    "options": [
+      "The Matrix",
+      "Sibyl System",
+      "Dominator",
+      "Laplace"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Sibyl System quantifies citizens' mental states to predict criminal behavior.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which episode of Madoka Magica shocked viewers?",
+    "options": [
+      "Episode 1",
+      "Episode 3",
+      "Episode 6",
+      "Episode 10"
+    ],
+    "correctIndex": 1,
+    "explanation": "Episode 3's shocking scene with Mami changed viewers' expectations dramatically.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which is NOT one of the three routes in Fate/stay night?",
+    "options": [
+      "Fate",
+      "UBW",
+      "HF",
+      "Zero"
+    ],
+    "correctIndex": 3,
+    "explanation": "The three routes are Fate, Unlimited Blade Works, and Heaven's Feel. Zero is a prequel.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who is the author of the Monogatari Series?",
+    "options": [
+      "Kinoko Nasu",
+      "NisiOisiN",
+      "Gen Urobuchi",
+      "Kouhei Kadono"
+    ],
+    "correctIndex": 1,
+    "explanation": "NisiOisiN wrote the Monogatari light novel series starting with Bakemonogatari.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the genre of Steins;Gate?",
+    "options": [
+      "Mecha",
+      "Time travel SF",
+      "Isekai fantasy",
+      "Sports"
+    ],
+    "correctIndex": 1,
+    "explanation": "It's a science fiction thriller centered on time travel.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio animated Re:Zero?",
+    "options": [
+      "ufotable",
+      "MAPPA",
+      "WHITE FOX",
+      "Kyoto Animation"
+    ],
+    "correctIndex": 2,
+    "explanation": "WHITE FOX produced the Re:Zero anime series.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio animated Demon Slayer?",
+    "options": [
+      "Bones",
+      "ufotable",
+      "A-1 Pictures",
+      "WIT STUDIO"
+    ],
+    "correctIndex": 1,
+    "explanation": "ufotable's high-quality animation was key to Demon Slayer's massive success.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When did Gundam SEED first air?",
+    "options": [
+      "2000",
+      "2002",
+      "2004",
+      "2006"
+    ],
+    "correctIndex": 1,
+    "explanation": "It premiered in 2002 and became one of the defining Gundam series of the 21st century.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What fictional empire is the setting of Code Geass?",
+    "options": [
+      "Holy Britannian Empire",
+      "Roman Empire",
+      "Principality of Zeon",
+      "Plantation"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Holy Britannian Empire controls Japan (renamed Area 11) in the series.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was 'Endless Eight' in Haruhi Suzumiya?",
+    "options": [
+      "8 consecutive battle episodes",
+      "The same story repeated 8 times",
+      "All episodes aired on the same day",
+      "8 parallel worlds"
+    ],
+    "correctIndex": 1,
+    "explanation": "In 2009's Season 2, the same story was broadcast with slight variations 8 times.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who directed Weathering with You?",
+    "options": [
+      "Mamoru Hosoda",
+      "Hayao Miyazaki",
+      "Makoto Shinkai",
+      "Hideaki Anno"
+    ],
+    "correctIndex": 2,
+    "explanation": "Makoto Shinkai directed this 2019 film.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio produced Cyberpunk: Edgerunners?",
+    "options": [
+      "MAPPA",
+      "Studio Trigger",
+      "A-1",
+      "Bones"
+    ],
+    "correctIndex": 1,
+    "explanation": "Studio Trigger produced this Netflix anime series.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio produced Promare?",
+    "options": [
+      "ufotable",
+      "Sunrise",
+      "Trigger",
+      "Production I.G"
+    ],
+    "correctIndex": 2,
+    "explanation": "Directed by Hiroyuki Imaishi, produced by Studio Trigger in 2019.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the highest rank of cave raider in Made in Abyss?",
+    "options": [
+      "Red Whistle",
+      "Blue Whistle",
+      "Black Whistle",
+      "White Whistle"
+    ],
+    "correctIndex": 3,
+    "explanation": "White Whistle is the highest rank, reserved for legendary cave raiders.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which company made the CLANNAD visual novel?",
+    "options": [
+      "TYPE-MOON",
+      "Leaf",
+      "Key",
+      "Nitroplus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Key (Visual Art's) created the CLANNAD visual novel.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who created Shaman King?",
+    "options": [
+      "Yoshihiro Togashi",
+      "Eiichiro Oda",
+      "Hiroyuki Takei",
+      "Masashi Kishimoto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hiroyuki Takei serialized this spiritual battle manga in Jump.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Mobile Police Patlabor about?",
+    "options": [
+      "Space warfare",
+      "Police using robots",
+      "Magic",
+      "Isekai exploration"
+    ],
+    "correctIndex": 1,
+    "explanation": "A police unit uses Labor robots to fight crime in a near-future Tokyo.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which of these is NOT a representative work of Kyoto Animation?",
+    "options": [
+      "K-On!",
+      "The Melancholy of Haruhi Suzumiya",
+      "Attack on Titan",
+      "Sound! Euphonium"
+    ],
+    "correctIndex": 2,
+    "explanation": "Attack on Titan was produced by WIT STUDIO and later MAPPA.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Where is Durarara!! set?",
+    "options": [
+      "Shibuya",
+      "Ikebukuro",
+      "Akihabara",
+      "Shinjuku"
+    ],
+    "correctIndex": 1,
+    "explanation": "The series is set in Tokyo's Ikebukuro district.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the source material for Legend of the Galactic Heroes?",
+    "options": [
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yoshiki Tanaka's SF novel series was adapted into OVA and anime.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What made TIGER & BUNNY's sponsor element unique?",
+    "options": [
+      "Real company logos appeared on hero suits",
+      "Heroes made company ads",
+      "Companies elected heroes",
+      "Sponsors became villains"
+    ],
+    "correctIndex": 0,
+    "explanation": "Real corporate logos on hero suits was an innovative approach.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In A Certain Magical Index, what is the protagonist's power?",
+    "options": [
+      "Railgun",
+      "Imagine Breaker",
+      "Telekinesis",
+      "Time manipulation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Touma Kamijou's right hand, Imagine Breaker, can negate supernatural powers.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the unique premise of Girls und Panzer?",
+    "options": [
+      "Magic use",
+      "Tankery is a refined art for girls",
+      "Space battles",
+      "Mecha piloting"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tankery (Sensha-do) is treated as a cultural martial art practiced by schoolgirls.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When was the original BANANA FISH manga serialized?",
+    "options": [
+      "1970s",
+      "1980s",
+      "1990s",
+      "2000s"
+    ],
+    "correctIndex": 1,
+    "explanation": "Akimi Yoshida's manga was serialized from 1985 to 1994.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which series does NOT appear in Isekai Quartet?",
+    "options": [
+      "Re:Zero",
+      "Overlord",
+      "Shield Hero",
+      "KonoSuba"
+    ],
+    "correctIndex": 2,
+    "explanation": "The crossover features Re:Zero, Overlord, KonoSuba, and Saga of Tanya the Evil.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What powers the Gundams in Gundam 00?",
+    "options": [
+      "Nuclear fusion",
+      "GN Particles",
+      "Minovsky Particles",
+      "Spiral Power"
+    ],
+    "correctIndex": 1,
+    "explanation": "GN Drives generate GN Particles that power the Gundams.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Hikaru no Go, who is the Heian-era ghost that haunts Hikaru?",
+    "options": [
+      "Honinbo Shusaku",
+      "Fujiwara no Sai",
+      "Toya Koyo",
+      "Kuwabara Honinbo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fujiwara no Sai is a genius Go player from the Heian era.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What characterizes the Mushishi anime?",
+    "options": [
+      "Flashy battles",
+      "Quiet, ethereal atmosphere",
+      "School comedy",
+      "Robot action"
+    ],
+    "correctIndex": 1,
+    "explanation": "The anime is known for its serene exploration of mushi-human relationships.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was notable about Mobile Suit Gundam: The Witch from Mercury?",
+    "options": [
+      "First CG production",
+      "First female protagonist in a Gundam TV series",
+      "First late-night airing",
+      "First international co-production"
+    ],
+    "correctIndex": 1,
+    "explanation": "Suletta Mercury is the first female protagonist in a mainline Gundam TV series.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Overlord, what kind of world is the protagonist trapped in?",
+    "options": [
+      "Another world",
+      "A game world",
+      "A dream",
+      "Virtual reality"
+    ],
+    "correctIndex": 1,
+    "explanation": "The protagonist is trapped in an MMORPG world after the game's servers shut down.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In No Game No Life, what determines everything?",
+    "options": [
+      "Rock-paper-scissors",
+      "War",
+      "Games",
+      "Voting"
+    ],
+    "correctIndex": 2,
+    "explanation": "In this world, all conflicts are resolved through games.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What genre is Erased (Boku dake ga Inai Machi)?",
+    "options": [
+      "Rom-com",
+      "Suspense/time leap",
+      "Fantasy",
+      "Mecha"
+    ],
+    "correctIndex": 1,
+    "explanation": "A suspense story about preventing a kidnapping through time-leaping.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is unique about Land of the Lustrous' visual style?",
+    "options": [
+      "Watercolor style",
+      "Full 3DCG animation",
+      "Pixel art",
+      "Live-action hybrid"
+    ],
+    "correctIndex": 1,
+    "explanation": "Studio Orange's full 3DCG animation was highly acclaimed.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Where was GREAT PRETENDER distributed?",
+    "options": [
+      "Amazon",
+      "Netflix",
+      "Disney+",
+      "Hulu"
+    ],
+    "correctIndex": 1,
+    "explanation": "WIT STUDIO's con-game series was globally distributed on Netflix.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the unique premise of Zombieland Saga?",
+    "options": [
+      "Zombies become idols",
+      "Zombies attend school",
+      "Zombies cook",
+      "Zombies become detectives"
+    ],
+    "correctIndex": 0,
+    "explanation": "Girls resurrected as zombies become idols to save Saga Prefecture.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the theme of 86 -Eighty Six-?",
+    "options": [
+      "Sports",
+      "Racial discrimination and war",
+      "Romance",
+      "Cooking"
+    ],
+    "correctIndex": 1,
+    "explanation": "It depicts youth sent to the front lines due to racial discrimination.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When did Lycoris Recoil become a hit?",
+    "options": [
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "correctIndex": 2,
+    "explanation": "This A-1 Pictures original anime became a major hit in 2022.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the protagonist's previous life in Saga of Tanya the Evil?",
+    "options": [
+      "High schooler",
+      "Salaryman",
+      "Soldier",
+      "Scientist"
+    ],
+    "correctIndex": 1,
+    "explanation": "A rational salaryman is reincarnated as a young girl soldier in an alternate world.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the theme of Planetes?",
+    "options": [
+      "Deep sea exploration",
+      "Space debris collection",
+      "Time travel",
+      "Isekai adventure"
+    ],
+    "correctIndex": 1,
+    "explanation": "A story about people who collect space debris for a living.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is unique about Delicious in Dungeon?",
+    "options": [
+      "Cooking and eating monsters",
+      "Farming in dungeons",
+      "Opening a dungeon cafe",
+      "Dancing with monsters"
+    ],
+    "correctIndex": 0,
+    "explanation": "The party cooks and eats monsters as they adventure through a dungeon.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio produced Jujutsu Kaisen?",
+    "options": [
+      "ufotable",
+      "Kyoto Animation",
+      "MAPPA",
+      "Sunrise"
+    ],
+    "correctIndex": 2,
+    "explanation": "MAPPA produced the Jujutsu Kaisen anime.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How would you describe Dorohedoro's aesthetic?",
+    "options": [
+      "Sparkly shojo style",
+      "Dark grotesque fantasy",
+      "Cozy slice-of-life",
+      "Classic shonen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Known for its uniquely dark, chaotic world and grotesque fantasy elements.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What tokusatsu is SSSS.GRIDMAN based on?",
+    "options": [
+      "Ultraman",
+      "Kamen Rider",
+      "Denkou Choujin Gridman",
+      "Godzilla"
+    ],
+    "correctIndex": 2,
+    "explanation": "Based on the 1993 tokusatsu series 'Denkou Choujin Gridman'.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio produced the 2022 Heike Story anime?",
+    "options": [
+      "ufotable",
+      "Science SARU",
+      "MAPPA",
+      "Production I.G"
+    ],
+    "correctIndex": 1,
+    "explanation": "Directed by Naoko Yamada, produced by Science SARU.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What mysterious location is the setting of Hell's Paradise?",
+    "options": [
+      "Onigashima",
+      "Shinsenkyo",
+      "Ryugu Castle",
+      "Horai Island"
+    ],
+    "correctIndex": 1,
+    "explanation": "Death row inmates are sent to Shinsenkyo to find the elixir of immortality.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio produced Bocchi the Rock!?",
+    "options": [
+      "Kyoto Animation",
+      "A-1 Pictures",
+      "CloverWorks",
+      "MAPPA"
+    ],
+    "correctIndex": 2,
+    "explanation": "CloverWorks produced this 2022 hit anime.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Where is Summer Time Rendering set?",
+    "options": [
+      "A Tokyo island",
+      "A Wakayama island",
+      "An Okinawa island",
+      "A Hokkaido island"
+    ],
+    "correctIndex": 1,
+    "explanation": "Set on fictional Hitogashima island in Wakayama Prefecture.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio took over Attack on Titan's Final Season?",
+    "options": [
+      "WIT STUDIO",
+      "MAPPA",
+      "ufotable",
+      "A-1 Pictures"
+    ],
+    "correctIndex": 1,
+    "explanation": "MAPPA took over from WIT STUDIO for the Final Season.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What instrument does the protagonist play in Sound! Euphonium?",
+    "options": [
+      "Flute",
+      "Trumpet",
+      "Euphonium",
+      "Clarinet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kumiko Oumae plays the euphonium in concert band.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the unique concept of ID:INVADED?",
+    "options": [
+      "Diving into criminals' unconscious",
+      "AI predicting crime",
+      "Fighting in dreams",
+      "Trading memories"
+    ],
+    "correctIndex": 0,
+    "explanation": "Detectives dive into 'id wells' of killers' unconsciousness to solve crimes.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Keep Your Hands Off Eizouken! about?",
+    "options": [
+      "Film production",
+      "Anime production",
+      "Game development",
+      "Music production"
+    ],
+    "correctIndex": 1,
+    "explanation": "Three high school girls take on the challenge of creating anime.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the theme of \"Vivy -Fluorite Eye's Song-\"?",
+    "options": [
+      "AI saving people through song",
+      "A robot uprising",
+      "Virtual idol concerts",
+      "Time-traveling musicians"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vivy is about an AI songstress on a 100-year mission to save humanity through her singing.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is special about Prince Bojji in Ranking of Kings?",
+    "options": [
+      "Strongest warrior",
+      "Deaf and weak prince",
+      "Wizard",
+      "Genius swordsman"
+    ],
+    "correctIndex": 1,
+    "explanation": "Despite being deaf and physically weak, Bojji uses courage and kindness.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio produced Frieren: Beyond Journey's End?",
+    "options": [
+      "MAPPA",
+      "ufotable",
+      "Madhouse",
+      "Kyoto Animation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Madhouse produced the Frieren anime.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When was the \"Ghost in the Shell\" theatrical film released?",
+    "options": [
+      "1988",
+      "1995",
+      "2001",
+      "2004"
+    ],
+    "correctIndex": 1,
+    "explanation": "The original Ghost in the Shell film directed by Mamoru Oshii was released in 1995.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How was AKIRA's production budget unusual for its time?",
+    "options": [
+      "Very low",
+      "Average",
+      "Highest ever for a Japanese anime film",
+      "Hollywood-level"
+    ],
+    "correctIndex": 2,
+    "explanation": "About 1 billion yen, an unprecedented budget for a Japanese anime film at the time.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who directed Revolutionary Girl Utena?",
+    "options": [
+      "Hideaki Anno",
+      "Kunihiko Ikuhara",
+      "Mamoru Oshii",
+      "Osamu Dezaki"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kunihiko Ikuhara's avant-garde directing was highly acclaimed.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is serial experiments lain about?",
+    "options": [
+      "Space adventure",
+      "The boundary between internet and reality",
+      "Magical girls",
+      "Robot wars"
+    ],
+    "correctIndex": 1,
+    "explanation": "This 1998 anime presciently explored network society and identity.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who created Haibane Renmei?",
+    "options": [
+      "Yoshitoshi ABe",
+      "Range Murata",
+      "Takeshi Obata",
+      "Yoshitaka Amano"
+    ],
+    "correctIndex": 0,
+    "explanation": "Based on Yoshitoshi ABe's doujinshi 'The Haibane of Old Home'.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who created the Mushishi manga?",
+    "options": [
+      "Yuki Urushibara",
+      "Hitoshi Iwaaki",
+      "Kentaro Miura",
+      "Yoshihiro Togashi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yuki Urushibara serialized Mushishi in Afternoon magazine.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who composed the music for Cowboy Bebop?",
+    "options": [
+      "Joe Hisaishi",
+      "Yuki Kajiura",
+      "Yoko Kanno",
+      "Hiroyuki Sawano"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yoko Kanno's jazz-centered soundtrack is a defining element of the series.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who created the manga MONSTER?",
+    "options": [
+      "Junji Ito",
+      "Naoki Urasawa",
+      "Osamu Tezuka",
+      "Hajime Isayama"
+    ],
+    "correctIndex": 1,
+    "explanation": "Naoki Urasawa's suspense manga serialized in Big Comic Original.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who wrote The Twelve Kingdoms?",
+    "options": [
+      "Nahoko Uehashi",
+      "Fuyumi Ono",
+      "Noriko Ogiwara",
+      "Banana Yoshimoto"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fuyumi Ono's Chinese-inspired fantasy novel series.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which company developed the original game for \"Gungrave\"?",
+    "options": [
+      "Capcom",
+      "Konami",
+      "Sega",
+      "Red Entertainment"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gungrave was originally a game by Red Entertainment, with character designs by Yasuhiro Nightow.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What literary work is Gankutsuou based on?",
+    "options": [
+      "Crime and Punishment",
+      "The Count of Monte Cristo",
+      "Les Miserables",
+      "Phantom of the Opera"
+    ],
+    "correctIndex": 1,
+    "explanation": "A sci-fi adaptation of Alexandre Dumas' The Count of Monte Cristo.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who wrote the script for Gargantia on the Verdurous Planet?",
+    "options": [
+      "Gen Urobuchi",
+      "Mari Okada",
+      "Ichiro Okouchi",
+      "Jukki Hanada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gen Urobuchi wrote the script for this mecha sci-fi anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who wrote the novel The Tatami Galaxy?",
+    "options": [
+      "Hikaru Nakamura",
+      "Tomihiko Morimi",
+      "Hiro Arikawa",
+      "Manabu Makime"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tomihiko Morimi's novel was adapted by Madhouse.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who directed the Ping Pong anime?",
+    "options": [
+      "Shinichiro Watanabe",
+      "Mamoru Hosoda",
+      "Masaaki Yuasa",
+      "Kenji Nakamura"
+    ],
+    "correctIndex": 2,
+    "explanation": "Masaaki Yuasa adapted Taiyo Matsumoto's manga with his distinctive visual style.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who directed Kaiba?",
+    "options": [
+      "Makoto Shinkai",
+      "Masaaki Yuasa",
+      "Satoshi Kon",
+      "Kunihiko Ikuhara"
+    ],
+    "correctIndex": 1,
+    "explanation": "Masaaki Yuasa directed this original sci-fi anime about memory.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Satoshi Kon's final film?",
+    "options": [
+      "Paprika",
+      "Millennium Actress",
+      "Tokyo Godfathers",
+      "Perfect Blue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Paprika (2006) was Satoshi Kon's last completed feature film.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Hollywood film was reportedly inspired by Perfect Blue?",
+    "options": [
+      "The Matrix",
+      "Black Swan",
+      "Inception",
+      "Fight Club"
+    ],
+    "correctIndex": 1,
+    "explanation": "Darren Aronofsky's Black Swan is said to have been influenced by Perfect Blue.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who created the manga Tekkonkinkreet?",
+    "options": [
+      "Katsuhiro Otomo",
+      "Taiyo Matsumoto",
+      "Inio Asano",
+      "Akira Toriyama"
+    ],
+    "correctIndex": 1,
+    "explanation": "Taiyo Matsumoto's manga was adapted into a film by STUDIO 4°C.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Innocence, who is the main character from Ghost in the Shell?",
+    "options": [
+      "Motoko Kusanagi",
+      "Batou",
+      "Togusa",
+      "Aramaki"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mamoru Oshii's 2004 film focuses on Batou as the protagonist.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the signature combination of elements in Macross Frontier?",
+    "options": [
+      "Sword, magic, romance",
+      "Song, mecha, love triangle",
+      "Cooking, battle, friendship",
+      "Sports, romance, victory"
+    ],
+    "correctIndex": 1,
+    "explanation": "Song, transforming fighters, and love triangles are Macross hallmarks.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who composed music for Guilty Crown?",
+    "options": [
+      "Yuki Kajiura",
+      "Yoko Kanno",
+      "Hiroyuki Sawano",
+      "Iwasaki Taku"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hiroyuki Sawano's epic soundtrack was a highlight of the series.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who directed Mawaru Penguindrum?",
+    "options": [
+      "Hideaki Anno",
+      "Kunihiko Ikuhara",
+      "Akiyuki Shinbo",
+      "Seiji Mizushima"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kunihiko Ikuhara directed this original 2011 anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which studio produced \"FLCL\"?",
+    "options": [
+      "Sunrise",
+      "Gainax",
+      "Bones",
+      "Madhouse"
+    ],
+    "correctIndex": 1,
+    "explanation": "FLCL was a 6-episode OVA produced by Gainax in 2000.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When was the golden age of OVA?",
+    "options": [
+      "1970s",
+      "Late 1980s to early 1990s",
+      "2000s",
+      "2010s"
+    ],
+    "correctIndex": 1,
+    "explanation": "The VHS/LD era of the late 1980s-early 1990s was the OVA golden age.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does UC stand for in Gundam UC?",
+    "options": [
+      "Ultra Century",
+      "Universal Century",
+      "United Command",
+      "Ultimate Core"
+    ],
+    "correctIndex": 1,
+    "explanation": "UC stands for Universal Century, the primary Gundam timeline.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What genre is Eureka Seven?",
+    "options": [
+      "Fantasy",
+      "Mecha/surfing SF",
+      "Horror",
+      "School drama"
+    ],
+    "correctIndex": 1,
+    "explanation": "A unique combination of sky surfing and mecha in a sci-fi setting.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the full title of the Fafner series?",
+    "options": [
+      "Fafner of the Azure",
+      "Fafner of the Blue Sky",
+      "Fafner of Heaven",
+      "Fafner of the Stars"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Soukyuu no Fafner' (Fafner of the Azure) premiered in 2004.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who directed Turn A Gundam?",
+    "options": [
+      "Shinji Takamatsu",
+      "Yasuhiro Imagawa",
+      "Yoshiyuki Tomino",
+      "Mitsuo Fukuda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gundam creator Yoshiyuki Tomino directed this 1999 series.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who wrote the screenplay for \"s-CRY-ed\"?",
+    "options": [
+      "Hajime Yatate",
+      "Yosuke Kuroda",
+      "Goro Taniguchi",
+      "Ichiro Okouchi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yosuke Kuroda handled the screenplay and composition for this Sunrise original anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which anime is Rahxephon frequently compared to?",
+    "options": [
+      "Gundam",
+      "Macross",
+      "Evangelion",
+      "Patlabor"
+    ],
+    "correctIndex": 2,
+    "explanation": "This 2002 mecha anime drew frequent comparisons to Evangelion.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who created the Planetes manga?",
+    "options": [
+      "Makoto Yukimura",
+      "Tsutomu Nihei",
+      "Hiroaki Samura",
+      "Yukito Kishiro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Makoto Yukimura serialized Planetes in Morning. He also created Vinland Saga.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which studio produced Arpeggio of Blue Steel in full CG?",
+    "options": [
+      "Polygon Pictures",
+      "Orange",
+      "Sanzigen",
+      "MAPPA"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sanzigen's full 3DCG production expanded the possibilities for CG anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who wrote episodes 1-3 of Aldnoah.Zero?",
+    "options": [
+      "Ichiro Okouchi",
+      "Gen Urobuchi",
+      "Mari Okada",
+      "Jukki Hanada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gen Urobuchi handled the story concept and early episode scripts.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who created the BEASTARS manga?",
+    "options": [
+      "Hiromu Arakawa",
+      "Paru Itagaki",
+      "Yoshitoki Oima",
+      "Sui Ishida"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paru Itagaki's anthropomorphic animal manga serialized in Shonen Champion.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What era is Vinland Saga set in?",
+    "options": [
+      "Medieval Europe/Viking age",
+      "Ancient Rome",
+      "Sengoku Japan",
+      "Near future"
+    ],
+    "correctIndex": 0,
+    "explanation": "Set during the 11th century Viking era in Northern Europe.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is distinctive about Mononoke's visual style?",
+    "options": [
+      "Ink wash painting",
+      "Washi texture with vivid colors",
+      "Pixel art",
+      "Live-action hybrid"
+    ],
+    "correctIndex": 1,
+    "explanation": "Known for its unique visual style combining washi paper textures with vibrant colors.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who directed Terror in Resonance?",
+    "options": [
+      "Shinichiro Watanabe",
+      "Makoto Shinkai",
+      "Mamoru Hosoda",
+      "Mamoru Oshii"
+    ],
+    "correctIndex": 0,
+    "explanation": "Directed by Shinichiro Watanabe with music by Yoko Kanno (2014).",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How would you describe Girls' Last Tour's world?",
+    "options": [
+      "Isekai fantasy",
+      "Post-apocalyptic dystopia",
+      "Future utopia",
+      "Modern daily life"
+    ],
+    "correctIndex": 1,
+    "explanation": "Two girls travel through a post-civilization wasteland in a quiet post-apocalyptic story.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What classic work inspired Megalobox?",
+    "options": [
+      "Astro Boy",
+      "Ashita no Joe",
+      "Ring ni Kakero",
+      "Hajime no Ippo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Created as a 50th anniversary project for Ashita no Joe.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who directed A Silent Voice (the film)?",
+    "options": [
+      "Makoto Shinkai",
+      "Naoko Yamada",
+      "Mamoru Hosoda",
+      "Masaaki Yuasa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Naoko Yamada directed this 2016 Kyoto Animation film.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why was Odd Taxi critically acclaimed as a suspense anime?",
+    "options": [
+      "Flashy action",
+      "Masterful foreshadowing and payoff",
+      "Horror elements",
+      "Based on true events"
+    ],
+    "correctIndex": 1,
+    "explanation": "Its seemingly comedic surface hid intricate foreshadowing, making it a 2021 dark horse.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is Smile Down the Runway about?",
+    "options": [
+      "Comedy",
+      "The fashion industry",
+      "Cooking",
+      "Sports"
+    ],
+    "correctIndex": 1,
+    "explanation": "A story about young people pursuing dreams in fashion modeling and design.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who handled series composition for Gurren Lagann?",
+    "options": [
+      "Gen Urobuchi",
+      "Kazuki Nakashima",
+      "Ichiro Okouchi",
+      "Mari Okada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kazuki Nakashima of Gekidan Shinkansen wrote the passionate series composition.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Tetsujin 28's influence on robot anime?",
+    "options": [
+      "First transforming robot",
+      "Pioneer of remote-controlled giant robots",
+      "First combining robot",
+      "First AI robot"
+    ],
+    "correctIndex": 1,
+    "explanation": "This 1963 anime pioneered the concept of a boy controlling a giant robot via remote.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was revolutionary about Mazinger Z?",
+    "options": [
+      "Transformation ability",
+      "First piloted giant robot",
+      "AI autonomous action",
+      "Space setting"
+    ],
+    "correctIndex": 1,
+    "explanation": "Debuting in 1972, it was the first anime with a pilot riding inside a giant robot.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who directed Gunbuster (Aim for the Top!)?",
+    "options": [
+      "Yoshiyuki Tomino",
+      "Hideaki Anno",
+      "Mamoru Oshii",
+      "Hayao Miyazaki"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hideaki Anno's directorial debut was this 1988 OVA.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What music genre characterizes Samurai Champloo?",
+    "options": [
+      "Classical",
+      "Jazz",
+      "Hip-hop",
+      "Metal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shinichiro Watanabe fused hip-hop with a samurai period setting.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What theme defined Earth Girl Arjuna?",
+    "options": [
+      "Space warfare",
+      "Environmental issues",
+      "Romance",
+      "Sports"
+    ],
+    "correctIndex": 1,
+    "explanation": "Shoji Kawamori's 2001 anime directly addressed environmental concerns.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When did Ergo Proxy air?",
+    "options": [
+      "2004",
+      "2006",
+      "2008",
+      "2010"
+    ],
+    "correctIndex": 1,
+    "explanation": "This 2006 Manglobe sci-fi anime gained a cult following internationally.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What visual style characterized Panty & Stocking with Garterbelt?",
+    "options": [
+      "Realistic",
+      "American cartoon-inspired",
+      "Ink wash",
+      "Pixel art"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gainax produced it with a distinctive American cartoon-inspired art style.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Slam Dunk, who said 'If you give up, the game is over'?",
+    "options": [
+      "Hanamichi Sakuragi",
+      "Coach Anzai",
+      "Kaede Rukawa",
+      "Hisashi Mitsui"
+    ],
+    "correctIndex": 1,
+    "explanation": "Coach Anzai's famous quote to Mitsui.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Sazae-san, who is Sazae's brother?",
+    "options": [
+      "Tara",
+      "Katsuo",
+      "Wakame",
+      "Masuo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Isono Katsuo is Sazae's younger brother.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Pokemon, what are the three starter types?",
+    "options": [
+      "Water, Fire, Electric",
+      "Grass, Fire, Water",
+      "Rock, Fighting, Flying",
+      "Poison, Ground, Ice"
+    ],
+    "correctIndex": 1,
+    "explanation": "Choosing between Grass, Fire, and Water type starters is traditional.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is Detective Conan's famous catchphrase?",
+    "options": [
+      "\"You are already dead\"",
+      "\"There is always only one truth!\"",
+      "\"In the name of the Moon, I'll punish you\"",
+      "\"If you give up, the game is over\""
+    ],
+    "correctIndex": 1,
+    "explanation": "Conan's iconic line \"There is always only one truth!\" (Shinjitsu wa itsumo hitotsu!) is famous.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was the first Pretty Cure series?",
+    "options": [
+      "HeartCatch PreCure",
+      "Futari wa PreCure",
+      "Smile PreCure",
+      "Fresh PreCure"
+    ],
+    "correctIndex": 1,
+    "explanation": "Futari wa PreCure premiered in 2004 as the first in the franchise.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What era is Kingdom set in?",
+    "options": [
+      "Japan's Sengoku period",
+      "China's Warring States period",
+      "Three Kingdoms era",
+      "Ancient Egypt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Set during China's Warring States period, depicting Qin's unification.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Death Note, what rule applies to the notebook?",
+    "options": [
+      "Writing a name brings happiness",
+      "Writing a name while knowing the face causes death",
+      "Writing a name makes them a friend",
+      "Erasing a name revives them"
+    ],
+    "correctIndex": 1,
+    "explanation": "A person dies when their name is written while the writer knows their face.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of Naruto's village?",
+    "options": [
+      "Sand Village",
+      "Hidden Leaf Village",
+      "Mist Village",
+      "Cloud Village"
+    ],
+    "correctIndex": 1,
+    "explanation": "Naruto is a ninja from the Hidden Leaf Village (Konohagakure).",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Demon Slayer, what is Tanjiro's sister's name?",
+    "options": [
+      "Kanao",
+      "Shinobu",
+      "Nezuko",
+      "Mitsuri"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kamado Nezuko is Tanjiro's sister who was turned into a demon.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In One Piece, who declares they will become the Pirate King?",
+    "options": [
+      "Zoro",
+      "Sanji",
+      "Luffy",
+      "Ace"
+    ],
+    "correctIndex": 2,
+    "explanation": "Monkey D. Luffy dreams of becoming the Pirate King.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the theme of Toriko?",
+    "options": [
+      "Sports",
+      "Gourmet (food)",
+      "Music",
+      "Fashion"
+    ],
+    "correctIndex": 1,
+    "explanation": "A gourmet battle manga about finding ultimate ingredients.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who created Rin-ne (Kyoukai no Rinne)?",
+    "options": [
+      "Gosho Aoyama",
+      "Rumiko Takahashi",
+      "Mitsuru Adachi",
+      "Kazuhiro Fujita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rumiko Takahashi serialized Rin-ne in Shonen Sunday.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does Cells at Work! primarily depict?",
+    "options": [
+      "Outer space",
+      "Inside the human body",
+      "The ocean floor",
+      "Another world"
+    ],
+    "correctIndex": 1,
+    "explanation": "An educational anime anthropomorphizing cells working in the human body.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is included in the full title of \"DanMachi\"?",
+    "options": [
+      "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "Dance is Magic",
+      "Cooking in a Dungeon",
+      "Dungeon Master"
+    ],
+    "correctIndex": 0,
+    "explanation": "The full title is \"Is It Wrong to Try to Pick Up Girls in a Dungeon?\" (Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka).",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the protagonist good at in Yu-Gi-Oh!?",
+    "options": [
+      "Sports",
+      "Card games",
+      "Cooking",
+      "Programming"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yugi Mutou battles opponents through card games.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When did the Mushishi anime first air?",
+    "options": [
+      "2003",
+      "2005",
+      "2007",
+      "2009"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mushishi aired in 2005, praised for its quiet, contemplative atmosphere.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Where is JoJo Part 4 set?",
+    "options": [
+      "Egypt",
+      "Italy",
+      "Morioh",
+      "Cape Canaveral"
+    ],
+    "correctIndex": 2,
+    "explanation": "Part 4 'Diamond is Unbreakable' is set in the fictional town of Morioh.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When was the BANANA FISH anime broadcast?",
+    "options": [
+      "2016",
+      "2018",
+      "2020",
+      "2022"
+    ],
+    "correctIndex": 1,
+    "explanation": "Produced by MAPPA, the anime aired in 2018.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Psycho-Pass, what happens to citizens with high Crime Coefficients?",
+    "options": [
+      "They're praised",
+      "They're isolated or eliminated",
+      "They're promoted",
+      "Nothing happens"
+    ],
+    "correctIndex": 1,
+    "explanation": "Citizens exceeding the threshold become targets for enforcement.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is special about Chisato's weapon in Lycoris Recoil?",
+    "options": [
+      "Katana",
+      "She uses rubber bullets",
+      "Laser gun",
+      "Bow and arrow"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chisato uses non-lethal rubber bullets as she refuses to kill.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Loid's true identity in SPY×FAMILY?",
+    "options": [
+      "Teacher",
+      "Doctor",
+      "Spy",
+      "Police officer"
+    ],
+    "correctIndex": 2,
+    "explanation": "Loid Forger is a spy codenamed 'Twilight' from Westalis.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio animated Mob Psycho 100?",
+    "options": [
+      "Madhouse",
+      "Bones",
+      "MAPPA",
+      "WIT STUDIO"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bones produced Mob Psycho 100 with distinctive animation.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What industry does Oshi no Ko explore?",
+    "options": [
+      "Sports",
+      "Entertainment industry",
+      "IT",
+      "Food service"
+    ],
+    "correctIndex": 1,
+    "explanation": "A suspenseful drama exploring the light and dark sides of the entertainment world.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio produces My Hero Academia?",
+    "options": [
+      "ufotable",
+      "Bones",
+      "MAPPA",
+      "A-1 Pictures"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bones handles the animation production of My Hero Academia.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why did Escaflowne gain popularity overseas?",
+    "options": [
+      "Game tie-in",
+      "Fusion of fantasy and mecha",
+      "Live-action film",
+      "Theme song"
+    ],
+    "correctIndex": 1,
+    "explanation": "The blend of fantasy world-building and mecha action appealed to international fans.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What do Gurren Lagann and Kill la Kill have in common?",
+    "options": [
+      "Same author",
+      "Same studio lineage (Gainax/Trigger)",
+      "Same voice cast",
+      "Same setting"
+    ],
+    "correctIndex": 1,
+    "explanation": "Both were created by ex-Gainax staff who later formed Studio Trigger.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why did Goblin Slayer generate buzz?",
+    "options": [
+      "The protagonist only hunts goblins",
+      "Cute character designs",
+      "Comedy focus",
+      "Family-friendly content"
+    ],
+    "correctIndex": 0,
+    "explanation": "The protagonist's single-minded devotion to goblin-hunting stood out.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is unique about Campfire Cooking in Another World?",
+    "options": [
+      "Strongest swordsmanship",
+      "Ordering food from an online supermarket",
+      "Time travel",
+      "Building robots"
+    ],
+    "correctIndex": 1,
+    "explanation": "The protagonist uses a real-world online supermarket to get ingredients in an isekai.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio animated Chainsaw Man?",
+    "options": [
+      "ufotable",
+      "Kyoto Animation",
+      "MAPPA",
+      "Sunrise"
+    ],
+    "correctIndex": 2,
+    "explanation": "MAPPA produced the Chainsaw Man TV anime.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the special premise of Ranma 1/2?",
+    "options": [
+      "Cold water changes gender",
+      "Moonlight causes transformation",
+      "Saying a name erases them",
+      "Eating makes them stronger"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cold water turns Ranma female; hot water turns him back to male.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is My Dress-Up Darling about?",
+    "options": [
+      "Making cosplay costumes and romance",
+      "Kimono lovers",
+      "A dress-up game",
+      "Costume design competition"
+    ],
+    "correctIndex": 0,
+    "explanation": "A romance story about crafting cosplay costumes.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the concept of Isekai Izakaya?",
+    "options": [
+      "Running an izakaya in another world",
+      "An izakaya connected to another world",
+      "Fighting in an izakaya",
+      "Using magic in an izakaya"
+    ],
+    "correctIndex": 1,
+    "explanation": "An izakaya's entrance connects to a fantasy world.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the theme of Hi Score Girl?",
+    "options": [
+      "Board games",
+      "Arcade games",
+      "Card games",
+      "Sports"
+    ],
+    "correctIndex": 1,
+    "explanation": "A romantic comedy set around 1990s arcade gaming culture.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When was the Urusei Yatsura remake broadcast?",
+    "options": [
+      "2020",
+      "2022",
+      "2024",
+      "Not yet"
+    ],
+    "correctIndex": 1,
+    "explanation": "David Production produced the remake which aired in 2022.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Plunderer, what are the 'Counts' that people have?",
+    "options": [
+      "Money",
+      "Numerical values of abilities/achievements",
+      "Age",
+      "Height"
+    ],
+    "correctIndex": 1,
+    "explanation": "Everyone has a number (Count) engraved on their body that measures their worth.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who directed serial experiments lain?",
+    "options": [
+      "Mamoru Oshii",
+      "Ryutaro Nakamura",
+      "Shinichiro Watanabe",
+      "Satoshi Kon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ryutaro Nakamura directed this pioneering 1998 cyberpunk anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which studio produced TEXHNOLYZE?",
+    "options": [
+      "Sunrise",
+      "Madhouse",
+      "Bones",
+      "Gainax"
+    ],
+    "correctIndex": 1,
+    "explanation": "Madhouse produced this dark 2003 sci-fi anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the source material for Boogiepop Phantom?",
+    "options": [
+      "Manga",
+      "Light novel",
+      "Game",
+      "Film"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kouhei Kadono's light novel was a pioneer of the LN boom.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How did Fate/Grand Order impact the anime industry?",
+    "options": [
+      "Lowered quality",
+      "Established mobile game anime adaptations",
+      "Made anime shorter",
+      "Reduced voice actors"
+    ],
+    "correctIndex": 1,
+    "explanation": "FGO's success led to an increase in mobile game-based anime projects.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why was Kemono Friends director Tatsuki controversial?",
+    "options": [
+      "Awards history",
+      "He was removed from Season 2",
+      "He retired",
+      "He moved abroad"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tatsuki's removal as director sparked massive fan protests.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who created the original Magic Knight Rayearth?",
+    "options": [
+      "Tezuka Productions",
+      "CLAMP",
+      "Ken Akamatsu",
+      "Rumiko Takahashi"
+    ],
+    "correctIndex": 1,
+    "explanation": "CLAMP created this pioneering girls' mecha fantasy manga.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the theme of \"Welcome to the N.H.K.!\"?",
+    "options": [
+      "A TV station",
+      "Hikikomori (social withdrawal)",
+      "Cooking",
+      "Sports"
+    ],
+    "correctIndex": 1,
+    "explanation": "The series follows a young hikikomori (shut-in). NHK stands for Nihon Hikikomori Kyokai (Japan Hikikomori Association).",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who directed Eden of the East?",
+    "options": [
+      "Shinichiro Watanabe",
+      "Kenji Kamiyama",
+      "Mamoru Oshii",
+      "Mamoru Hosoda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kenji Kamiyama directed this 2009 Production I.G original anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which author's work is UN-GO based on?",
+    "options": [
+      "Edogawa Ranpo",
+      "Ango Sakaguchi",
+      "Osamu Dazai",
+      "Soseki Natsume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Based on Ango Sakaguchi's detective stories, reimagined in a near-future setting.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What characterizes Sonny Boy?",
+    "options": [
+      "Based on a manga",
+      "No music",
+      "A completely original experimental work",
+      "Mecha anime"
+    ],
+    "correctIndex": 2,
+    "explanation": "Director Shingo Natsume's fully original work with experimental storytelling.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was unusual about Pop Team Epic?",
+    "options": [
+      "Same content aired twice with different voice casts",
+      "Completely silent",
+      "10-minute episodes",
+      "Live action only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Each episode aired the same content twice with different voice actors in parts A and B.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who wrote the original Kara no Kyoukai (Garden of Sinners)?",
+    "options": [
+      "Gen Urobuchi",
+      "Kinoko Nasu",
+      "NisiOisiN",
+      "Kouhei Kadono"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kinoko Nasu's novel series was adapted into 7 films by ufotable.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is Jormungand about?",
+    "options": [
+      "Fantasy adventure",
+      "Arms dealer and child soldier",
+      "School battles",
+      "Space exploration"
+    ],
+    "correctIndex": 1,
+    "explanation": "Follows arms dealer Koko Hekmatyar and child soldier Jonah.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who composed music for Your Lie in April?",
+    "options": [
+      "Hiroyuki Sawano",
+      "Yoko Kanno",
+      "Masaru Yokoyama",
+      "Yuki Kajiura"
+    ],
+    "correctIndex": 2,
+    "explanation": "Masaru Yokoyama composed the classical music-centered soundtrack.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which studios produced \"Odd Taxi\"?",
+    "options": [
+      "P.I.C.S. and OLM",
+      "MAPPA",
+      "ufotable",
+      "Sunrise"
+    ],
+    "correctIndex": 0,
+    "explanation": "P.I.C.S. and OLM co-produced this 2021 original anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the source material for Higurashi: When They Cry?",
+    "options": [
+      "Manga",
+      "Novel",
+      "Doujin game",
+      "TV drama"
+    ],
+    "correctIndex": 2,
+    "explanation": "07th Expansion's doujin sound novel game is the source material.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who wrote the novel From the New World (Shinsekai Yori)?",
+    "options": [
+      "Yusuke Kishi",
+      "Otsuichi",
+      "Riku Onda",
+      "Project Itoh"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yusuke Kishi's SF novel won the Japan SF Grand Prize.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who created Sayonara Zetsubou Sensei?",
+    "options": [
+      "Ken Akamatsu",
+      "Koji Kumeta",
+      "Kenjiro Hata",
+      "Kazuhiro Fujita"
+    ],
+    "correctIndex": 1,
+    "explanation": "Koji Kumeta's black comedy school manga.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where is the ARIA series set?",
+    "options": [
+      "Future Tokyo",
+      "Neo-Venezia on Mars",
+      "Lunar city",
+      "Underwater city"
+    ],
+    "correctIndex": 1,
+    "explanation": "Set in Neo-Venezia, a city of water on terraformed Mars.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Rozen Maiden, what do the dolls fight for?",
+    "options": [
+      "World domination",
+      "The Alice Game (to become perfect)",
+      "Treasure",
+      "Revenge"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Rozen Maidens battle in the Alice Game to become the perfect girl 'Alice'.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why was the Revue Starlight movie acclaimed?",
+    "options": [
+      "Box office",
+      "Its deconstruction of the TV series through radical visuals",
+      "Tie-in song",
+      "Live-action segments"
+    ],
+    "correctIndex": 1,
+    "explanation": "Its experimental reimagining of the TV series through bold visual storytelling was praised.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who created Keep Your Hands Off Eizouken!?",
+    "options": [
+      "Sumito Oowara",
+      "Akihito Tsukushi",
+      "Masakazu Ishiguro",
+      "Tite Kubo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sumito Oowara's manga serialized in Shonen Spirits about anime production.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is distinctive about Baccano!'s narrative structure?",
+    "options": [
+      "First-person",
+      "Non-linear ensemble cast across different eras",
+      "Reverse playback",
+      "Branching choices"
+    ],
+    "correctIndex": 1,
+    "explanation": "Multiple characters' stories run parallel across different time periods.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the twist in Deca-Dence?",
+    "options": [
+      "The world is managed like a game",
+      "Everyone is a robot",
+      "No food exists",
+      "Animals rule"
+    ],
+    "correctIndex": 0,
+    "explanation": "Humanity unknowingly lives in a world managed as a game system.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why was Gurren Lagann's finale discussed?",
+    "options": [
+      "Galaxy-sized mechs appeared",
+      "All characters died",
+      "Broadcast was cancelled",
+      "It linked to reality"
+    ],
+    "correctIndex": 0,
+    "explanation": "The finale featured robots so large they threw galaxies.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is the main character of Berserk?",
+    "options": [
+      "Griffith",
+      "Guts",
+      "Casca",
+      "Rickert"
+    ],
+    "correctIndex": 1,
+    "explanation": "Guts is the protagonist, a mercenary wielding a massive sword.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who created Ranma 1/2?",
+    "options": [
+      "Mitsuru Adachi",
+      "Gosho Aoyama",
+      "Rumiko Takahashi",
+      "Fujiko F. Fujio"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rumiko Takahashi's martial arts romantic comedy serialized in Sunday.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the protagonist's mobile suit in Mobile Suit Gundam?",
+    "options": [
+      "Zaku",
+      "Gundam",
+      "GM",
+      "Dom"
+    ],
+    "correctIndex": 1,
+    "explanation": "The RX-78-2 Gundam is piloted by Amuro Ray.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Naruto, what is sealed inside the protagonist?",
+    "options": [
+      "One-Tail",
+      "Five-Tails",
+      "Nine-Tails (Kurama)",
+      "Ten-Tails"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Nine-Tailed Fox (Kurama) is sealed within Naruto.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is Luffy's ability in One Piece?",
+    "options": [
+      "Ice powers",
+      "Rubber powers",
+      "Fire powers",
+      "Light powers"
+    ],
+    "correctIndex": 1,
+    "explanation": "He ate the Gum-Gum Fruit (actually Hito Hito no Mi) and became a rubber man.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What type of animal is Zorori from Kaiketsu Zorori?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Fox",
+      "Raccoon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zorori is a fox who goes on adventures.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What sport is featured in Inazuma Eleven?",
+    "options": [
+      "Baseball",
+      "Basketball",
+      "Soccer",
+      "Tennis"
+    ],
+    "correctIndex": 2,
+    "explanation": "A super-dimensional soccer anime.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Yo-Kai Watch, what device is used to see yokai?",
+    "options": [
+      "Telescope",
+      "Yo-Kai Watch",
+      "Magic wand",
+      "Smartphone"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Yo-Kai Watch is a wristwatch device that allows seeing yokai.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is the protagonist of Dr. Slump?",
+    "options": [
+      "Senbei Norimaki",
+      "Arale Norimaki",
+      "King Nikochan",
+      "Gatchan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Robot girl Arale Norimaki is the main character of this gag manga.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What vehicle is featured in Galaxy Express 999?",
+    "options": [
+      "Spaceship",
+      "Train",
+      "Airplane",
+      "Bus"
+    ],
+    "correctIndex": 1,
+    "explanation": "A train that travels through space, the Galaxy Express 999.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is unique about the protagonist of Black Clover?",
+    "options": [
+      "Strongest mage",
+      "Has no magic power",
+      "Controls time",
+      "Is a giant"
+    ],
+    "correctIndex": 1,
+    "explanation": "Asta has no magic but aims to become the Wizard King.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What are the Seven Deadly Sins named after?",
+    "options": [
+      "7 gems",
+      "Christian seven deadly sins",
+      "7 countries",
+      "7 stars"
+    ],
+    "correctIndex": 1,
+    "explanation": "Each member bears the name of one of the seven deadly sins.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the protagonist's status in The Irregular at Magic High School?",
+    "options": [
+      "Honor student",
+      "Underperformer (secretly strongest)",
+      "Transfer student",
+      "Teacher"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tatsuya Shiba is classified as an underperformer but is secretly among the strongest.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What game series is Dragon Quest: The Adventure of Dai based on?",
+    "options": [
+      "Final Fantasy",
+      "Dragon Quest",
+      "Pokemon",
+      "Monster Hunter"
+    ],
+    "correctIndex": 1,
+    "explanation": "A manga/anime based on the Dragon Quest game universe.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In Digimon Adventure, where do the children end up?",
+    "options": [
+      "Another world",
+      "Digital World",
+      "The moon",
+      "Underwater"
+    ],
+    "correctIndex": 1,
+    "explanation": "The DigiDestined children adventure in the Digital World.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the theme of Fire Force?",
+    "options": [
+      "Police",
+      "Firefighting (fighting special flames)",
+      "Medical",
+      "Military"
+    ],
+    "correctIndex": 1,
+    "explanation": "Special fire soldiers fight people who spontaneously combust into 'Infernals'.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the protagonist of To Your Eternity?",
+    "options": [
+      "An ordinary human",
+      "An immortal being",
+      "A robot",
+      "A god"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fushi is an immortal entity who grows by taking various forms.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When did Eureka Seven first air?",
+    "options": [
+      "2003",
+      "2005",
+      "2007",
+      "2009"
+    ],
+    "correctIndex": 1,
+    "explanation": "Produced by Bones in 2005, combining mecha and surfing.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the protagonist's nickname in Trigun?",
+    "options": [
+      "Red Comet",
+      "The Humanoid Typhoon",
+      "Black Swordsman",
+      "White Devil"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vash the Stampede is known as 'The Humanoid Typhoon'.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Where is Blood Blockade Battlefront set?",
+    "options": [
+      "Tokyo",
+      "New York/Hellsalem's Lot",
+      "London",
+      "Paris"
+    ],
+    "correctIndex": 1,
+    "explanation": "New York fused with the Beyond becomes 'Hellsalem's Lot'.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio animated Kaguya-sama: Love Is War?",
+    "options": [
+      "MAPPA",
+      "Kyoto Animation",
+      "A-1 Pictures",
+      "ufotable"
+    ],
+    "correctIndex": 2,
+    "explanation": "A-1 Pictures handled the animation production.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was praised about the Mushoku Tensei anime?",
+    "options": [
+      "Short episode count",
+      "Outstanding world-building animation quality",
+      "Live-action parts",
+      "Monochrome style"
+    ],
+    "correctIndex": 1,
+    "explanation": "Studio Bind's high-quality isekai world depiction was highly acclaimed.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In which season of Jujutsu Kaisen was the Shibuya Incident arc?",
+    "options": [
+      "Season 1",
+      "Season 2",
+      "Season 3",
+      "Movie"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Shibuya Incident was adapted in Season 2, airing in 2023.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What genre is Skip and Loafer?",
+    "options": [
+      "Battle",
+      "Slice-of-life school drama",
+      "Horror",
+      "SF"
+    ],
+    "correctIndex": 1,
+    "explanation": "A heartwarming school drama about a girl from the countryside.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio animated My Dress-Up Darling?",
+    "options": [
+      "A-1 Pictures",
+      "CloverWorks",
+      "Bones",
+      "Madhouse"
+    ],
+    "correctIndex": 1,
+    "explanation": "CloverWorks produced the 2022 anime adaptation.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the setting of Heavenly Delusion?",
+    "options": [
+      "Medieval fantasy",
+      "Post-apocalyptic Japan",
+      "Space",
+      "Modern school"
+    ],
+    "correctIndex": 1,
+    "explanation": "Two parallel stories set in a devastated Japan.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many years passed between BLEACH's original anime run and \"Thousand-Year Blood War\"?",
+    "options": [
+      "5 years",
+      "8 years",
+      "10 years",
+      "12 years"
+    ],
+    "correctIndex": 2,
+    "explanation": "The original TV series ended in 2012 and was revived about 10 years later in 2022.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What genre is Dandadan?",
+    "options": [
+      "Pure romance",
+      "Occult battle comedy",
+      "Cooking",
+      "Mystery"
+    ],
+    "correctIndex": 1,
+    "explanation": "An occult battle comedy mixing aliens and ghosts.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio animated Soul Eater?",
+    "options": [
+      "Sunrise",
+      "Bones",
+      "Madhouse",
+      "MAPPA"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bones produced this action anime set at a shinigami weapon meister academy.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio animated Hyouka?",
+    "options": [
+      "ufotable",
+      "Kyoto Animation",
+      "A-1 Pictures",
+      "P.A.WORKS"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kyoto Animation adapted Honobu Yonezawa's Classic Literature Club series.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In Lycoris Recoil, what organization does Chisato belong to?",
+    "options": [
+      "DA (Direct Attack)",
+      "Public Safety",
+      "NERV",
+      "FBI"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chisato operates as a Lycoris agent of DA (Direct Attack).",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio produced PSYCHO-PASS?",
+    "options": [
+      "Madhouse",
+      "Production I.G",
+      "ufotable",
+      "Kyoto Animation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Production I.G produced Gen Urobuchi's sci-fi police anime.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In The Ancient Magus' Bride, who buys the protagonist?",
+    "options": [
+      "A human wizard",
+      "A non-human mage (Elias)",
+      "A dragon",
+      "A fairy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chise is bought by the non-human mage Elias Ainsworth.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio animated Haikyuu!!?",
+    "options": [
+      "Production I.G",
+      "Bones",
+      "MAPPA",
+      "Madhouse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Production I.G produced the Haikyuu!! anime.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the concept of Restaurant to Another World?",
+    "options": [
+      "Cooking training in another world",
+      "A restaurant that connects to another world once a week",
+      "Fighting with food",
+      "Monster cooking class"
+    ],
+    "correctIndex": 1,
+    "explanation": "Every Saturday, residents of another world visit a Western restaurant.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio animated BEASTARS?",
+    "options": [
+      "MAPPA",
+      "Orange",
+      "Sunrise",
+      "Bones"
+    ],
+    "correctIndex": 1,
+    "explanation": "3DCG studio Orange produced BEASTARS.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who handled series composition for \"Texhnolyze\"?",
+    "options": [
+      "Gen Urobuchi",
+      "Chiaki J. Konaka",
+      "Ichiro Okouchi",
+      "Mari Okada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chiaki J. Konaka handled series composition for this dark sci-fi anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who directed Paranoia Agent?",
+    "options": [
+      "Shinichiro Watanabe",
+      "Satoshi Kon",
+      "Mamoru Oshii",
+      "Hideaki Anno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Satoshi Kon directed this 2004 TV anime series.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why is Princess Tutu critically acclaimed?",
+    "options": [
+      "Animation quality",
+      "Fusion of ballet and metafiction",
+      "Action",
+      "Comedy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Its metafictional structure combining ballet and fairy tales is highly regarded.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who wrote the Kino's Journey light novels?",
+    "options": [
+      "Keiichi Sigsawa",
+      "Reki Kawahara",
+      "Tsukasa Fushimi",
+      "Kazuma Kamachi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Keiichi Sigsawa's philosophical travel light novel series.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who created the \"ACCA: 13-Territory Inspection Dept.\" manga?",
+    "options": [
+      "Natsume Ono",
+      "Chika Umino",
+      "Mari Yamazaki",
+      "Hiromu Arakawa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Natsume Ono's manga was adapted into an anime by Madhouse.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why was Fractale notable?",
+    "options": [
+      "It was a hit",
+      "The director staked his career on it",
+      "It was live-action",
+      "It was cancelled"
+    ],
+    "correctIndex": 1,
+    "explanation": "Director Yutaka Yamamoto famously staked his career on the show's success.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which studio produced UN-GO?",
+    "options": [
+      "Bones",
+      "Madhouse",
+      "Production I.G",
+      "Sunrise"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bones produced this 2011 near-future mystery anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who wrote The Eccentric Family?",
+    "options": [
+      "Manabu Makime",
+      "Tomihiko Morimi",
+      "Hiro Arikawa",
+      "Nahoko Uehashi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tomihiko Morimi's novel about a tanuki family in Kyoto.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why was Zegapain re-evaluated years later?",
+    "options": [
+      "A sequel was made",
+      "Its prescient VR/virtual reality themes",
+      "Voice actor popularity",
+      "Game adaptation"
+    ],
+    "correctIndex": 1,
+    "explanation": "This 2006 anime gained new appreciation for its ahead-of-its-time VR themes.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When was Sagrada Reset broadcast?",
+    "options": [
+      "2015",
+      "2017",
+      "2019",
+      "2021"
+    ],
+    "correctIndex": 1,
+    "explanation": "David Production adapted this supernatural youth SF anime in 2017.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why was Kado: The Right Answer controversial?",
+    "options": [
+      "Animation issues",
+      "Drastic tonal shift in the finale",
+      "Cancellation",
+      "Voice actor replacement"
+    ],
+    "correctIndex": 1,
+    "explanation": "The hard SF opening gave way to a divisive finale that split the audience.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was unique about Space Dandy's production?",
+    "options": [
+      "Same staff throughout",
+      "Different directors/styles for each episode",
+      "All CG",
+      "Viewer participation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Each episode featured a different guest director with varying styles.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who directed \"Extra-Terrestrial Boys & Girls\"?",
+    "options": [
+      "Makoto Shinkai",
+      "Mitsuo Iso",
+      "Mamoru Hosoda",
+      "Masaaki Yuasa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mitsuo Iso directed this 2022 sci-fi anime, his follow-up to Dennou Coil.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What issue surrounded Stars Align?",
+    "options": [
+      "Budget problems",
+      "The story was cut short and left unfinished",
+      "Voice actor trouble",
+      "Streaming pulled"
+    ],
+    "correctIndex": 1,
+    "explanation": "Originally planned for 24 episodes but cut to 12, leaving the story incomplete.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who wrote ID:INVADED's screenplay?",
+    "options": [
+      "Gen Urobuchi",
+      "Maijo Otaro",
+      "Ichiro Okouchi",
+      "Jukki Hanada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Novelist Maijo Otaro handled series composition and screenplay.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which studio produced Deca-Dence?",
+    "options": [
+      "NUT",
+      "MAPPA",
+      "ufotable",
+      "Bones"
+    ],
+    "correctIndex": 0,
+    "explanation": "NUT produced this 2020 original sci-fi anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who handled series composition for Vivy?",
+    "options": [
+      "Gen Urobuchi",
+      "Tappei Nagatsuki and Eiji Umehara",
+      "Ichiro Okouchi",
+      "Mari Okada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Re:Zero's Tappei Nagatsuki and Eiji Umehara co-wrote the series.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why did Wonder Egg Priority generate both praise and controversy?",
+    "options": [
+      "Strong start but production issues marred the ending",
+      "Low ratings",
+      "Voice actor changes",
+      "Author conflict"
+    ],
+    "correctIndex": 0,
+    "explanation": "High early praise was followed by delays and a divisive special episode.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which studio produced \"The Gymnastics Samurai\"?",
+    "options": [
+      "MAPPA",
+      "Production I.G",
+      "Sunrise",
+      "Kyoto Animation"
+    ],
+    "correctIndex": 0,
+    "explanation": "MAPPA produced this 2020 original anime about gymnastics.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What genre is The Vampire Dies in No Time?",
+    "options": [
+      "Horror",
+      "Gag comedy",
+      "Romance",
+      "SF"
+    ],
+    "correctIndex": 1,
+    "explanation": "A comedy about a vampire who dies easily (but revives instantly).",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is the protagonist of City Hunter?",
+    "options": [
+      "Ryo Saeba",
+      "Umibozu",
+      "Hideyuki Makimura",
+      "Saeko Nogami"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ryo Saeba is a sweeper (fixer) based in Shinjuku.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What are the twins' names in Touch?",
+    "options": [
+      "Tatsuya and Kazuya",
+      "Taro and Jiro",
+      "Kazuya and Ichiya",
+      "Hikari and Kage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Twin brothers Uesugi Tatsuya and Kazuya are the protagonists of Adachi's work.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What sport is Captain Tsubasa about?",
+    "options": [
+      "Baseball",
+      "Basketball",
+      "Soccer",
+      "Tennis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tsubasa Ozora's journey to become a world-class soccer player.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What animal is Hamtaro?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Hamster",
+      "Rabbit"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hamtaro is a hamster in this children's anime.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is the protagonist of KochiKame?",
+    "options": [
+      "Nakagawa",
+      "Reiko",
+      "Kankichi Ryotsu",
+      "Chief Ohara"
+    ],
+    "correctIndex": 2,
+    "explanation": "Officer Ryotsu Kankichi is the protagonist of this gag manga.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What sport is MAJOR about?",
+    "options": [
+      "Soccer",
+      "Baseball",
+      "Tennis",
+      "Basketball"
+    ],
+    "correctIndex": 1,
+    "explanation": "Goro Shigeno's growth as a baseball player.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many siblings are the sextuplets in \"Mr. Osomatsu\"?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mr. Osomatsu is a comedy anime featuring the Matsuno sextuplets as the main characters.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the shocking twist in School-Live!?",
+    "options": [
+      "The school is in space",
+      "It's actually a zombie apocalypse",
+      "Everyone is an AI",
+      "It's all a dream"
+    ],
+    "correctIndex": 1,
+    "explanation": "What appears to be a cute school anime is actually set in a zombie-infested world.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the theme of Revue Starlight?",
+    "options": [
+      "Idols",
+      "Stage girls in a battle royale",
+      "Magical girls",
+      "Cooking"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aspiring stage actresses compete in audition-style battles.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio produced Kabaneri of the Iron Fortress?",
+    "options": [
+      "MAPPA",
+      "WIT STUDIO",
+      "ufotable",
+      "Sunrise"
+    ],
+    "correctIndex": 1,
+    "explanation": "The same WIT STUDIO that produced Attack on Titan.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio handled the full CG for \"Revisions\"?",
+    "options": [
+      "Polygon Pictures",
+      "Orange",
+      "Sanzigen",
+      "Shirogumi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Shirogumi handled the full CG animation for this 2019 sci-fi anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who directed GREAT PRETENDER?",
+    "options": [
+      "Shinichiro Watanabe",
+      "Hiro Kaburagi",
+      "Mamoru Hosoda",
+      "Makoto Shinkai"
+    ],
+    "correctIndex": 1,
+    "explanation": "Director Hiro Kaburagi's con-game anime produced by WIT STUDIO.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why was Astra Lost in Space acclaimed?",
+    "options": [
+      "Long serialization",
+      "Perfect story structure in just 5 volumes",
+      "Never animated",
+      "Live-action adaptation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kenta Shinohara's masterful 5-volume complete story won a manga award.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which studio animated Dorohedoro?",
+    "options": [
+      "ufotable",
+      "MAPPA",
+      "Bones",
+      "A-1 Pictures"
+    ],
+    "correctIndex": 1,
+    "explanation": "MAPPA produced the Dorohedoro anime.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why was World Trigger's anime interrupted?",
+    "options": [
+      "Low ratings",
+      "Author's health issues paused the manga",
+      "Studio bankruptcy",
+      "Broadcast slot issues"
+    ],
+    "correctIndex": 1,
+    "explanation": "Author Daisuke Ashihara's health problems led to a long manga hiatus.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who wrote the screenplay for Akudama Drive?",
+    "options": [
+      "Gen Urobuchi",
+      "Kazutaka Kodaka",
+      "Mari Okada",
+      "Ichiro Okouchi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Danganronpa creator Kazutaka Kodaka wrote the series composition.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Blue Period about?",
+    "options": [
+      "Music",
+      "Art (painting)",
+      "Literature",
+      "Photography"
+    ],
+    "correctIndex": 1,
+    "explanation": "A high schooler's journey to get into art university.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Where is Appare-Ranman! set?",
+    "options": [
+      "Edo Japan",
+      "Meiji-era American cross-country race",
+      "Future space",
+      "Medieval Europe"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Meiji-era story about racing across America.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Moriarty the Patriot based on?",
+    "options": [
+      "Original",
+      "Sherlock Holmes series",
+      "Arsene Lupin",
+      "Phantom of the Opera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Based on Conan Doyle's Holmes stories, with Moriarty as protagonist.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the theme of Showa Genroku Rakugo Shinju?",
+    "options": [
+      "Kabuki",
+      "Rakugo",
+      "Noh",
+      "Kyogen"
+    ],
+    "correctIndex": 1,
+    "explanation": "A human drama about the lives of rakugo performers.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who directed the Keep Your Hands Off Eizouken! anime?",
+    "options": [
+      "Mamoru Hosoda",
+      "Masaaki Yuasa",
+      "Shinichiro Watanabe",
+      "Makoto Shinkai"
+    ],
+    "correctIndex": 1,
+    "explanation": "Masaaki Yuasa directed the Science SARU production.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which studio produced Sonny Boy?",
+    "options": [
+      "Madhouse",
+      "MAPPA",
+      "Sunrise",
+      "Production I.G"
+    ],
+    "correctIndex": 0,
+    "explanation": "Madhouse produced this 2021 original anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where was the original manga of \"Ranking of Kings\" serialized?",
+    "options": [
+      "Weekly Shonen Jump",
+      "Manga Hack (web)",
+      "Monthly Shonen Magazine",
+      "Weekly Shonen Sunday"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ranking of Kings was originally serialized on the web manga platform Manga Hack.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What award did the Violet Evergarden novel win?",
+    "options": [
+      "Naoki Prize",
+      "Kyoto Animation Award Grand Prize",
+      "Dengeki Prize",
+      "Kono Light Novel 1st place"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kana Akatsuki's novel won the 5th Kyoto Animation Award Grand Prize.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In which magazine is Skip and Loafer serialized?",
+    "options": [
+      "Shonen Jump",
+      "Afternoon",
+      "Magazine",
+      "Champion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Misaki Takamatsu serializes it in Kodansha's Afternoon magazine.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which studio produced Vivy -Fluorite Eye's Song-?",
+    "options": [
+      "MAPPA",
+      "WIT STUDIO",
+      "ufotable",
+      "Kyoto Animation"
+    ],
+    "correctIndex": 1,
+    "explanation": "WIT STUDIO produced this 2021 original SF anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which studio animated 86 -Eighty Six-?",
+    "options": [
+      "MAPPA",
+      "A-1 Pictures",
+      "ufotable",
+      "Bones"
+    ],
+    "correctIndex": 1,
+    "explanation": "A-1 Pictures adapted Asato Asato's light novel.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where was Summer Time Rendering originally serialized?",
+    "options": [
+      "Jump",
+      "Shonen Jump+",
+      "Magazine",
+      "Sunday"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yasuki Tanaka's suspense manga serialized on Shonen Jump+.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the theme of Kageki Shojo!!?",
+    "options": [
+      "Idols",
+      "A Takarazuka-like theater school",
+      "Magic school",
+      "Sports"
+    ],
+    "correctIndex": 1,
+    "explanation": "Set at a training school for a revue theater troupe, similar to Takarazuka.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who wrote the original story and screenplay for \"Odd Taxi\"?",
+    "options": [
+      "Gen Urobuchi",
+      "Kazuya Konomoto",
+      "Ichiro Okouchi",
+      "Jukki Hanada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kazuya Konomoto wrote the original story and screenplay, praised for its intricate foreshadowing.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who created Planet With?",
+    "options": [
+      "Satoshi Mizukami",
+      "Akihito Tsukushi",
+      "Oh! great",
+      "Kazuhiro Fujita"
+    ],
+    "correctIndex": 0,
+    "explanation": "Satoshi Mizukami created and handled series composition for this mecha anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which studio produced Gurren Lagann?",
+    "options": [
+      "Bones",
+      "Gainax",
+      "Sunrise",
+      "Madhouse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gainax produced this 2007 mecha anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What studio produced SAKUGAN?",
+    "options": [
+      "Bones",
+      "Satelight",
+      "MAPPA",
+      "Madhouse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Satelight produced this 2021 parent-child underground adventure SF anime.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What unique visual technique is used in \"Odd Taxi\"?",
+    "options": [
+      "All characters are depicted as animals",
+      "Entirely live-action",
+      "Silent anime",
+      "Reverse playback"
+    ],
+    "correctIndex": 0,
+    "explanation": "All characters appear as animals, but there is actually a narrative reason behind this choice.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the premise of Ya Boy Kongming!?",
+    "options": [
+      "Zhuge Liang reincarnates in modern Shibuya",
+      "Kongming throws parties",
+      "A Three Kingdoms anime",
+      "Historical documentary"
+    ],
+    "correctIndex": 0,
+    "explanation": "The strategist Zhuge Liang reincarnates in modern Shibuya to produce a singer.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which studio produced Plunderer?",
+    "options": [
+      "GEEKTOYS",
+      "MAPPA",
+      "ufotable",
+      "Production I.G"
+    ],
+    "correctIndex": 0,
+    "explanation": "GEEKTOYS produced this 2020 fantasy battle anime.",
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,4802 @@
+[
+  {
+    "question": "Who was the first center of Nogizaka46?",
+    "options": [
+      "Shiraishi Mai",
+      "Nishino Nanase",
+      "Ikoma Rina",
+      "Hashimoto Nanami"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ikoma Rina served as center for the 1st single \"Guruguru Curtain.\"",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is the leader of BTS?",
+    "options": [
+      "JIMIN",
+      "V",
+      "RM",
+      "SUGA"
+    ],
+    "correctIndex": 2,
+    "explanation": "RM (Kim Namjoon) is the leader of BTS.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who wrote the lyrics for AKB48's \"Aitakatta\"?",
+    "options": [
+      "Tsunku♂",
+      "Yasushi Akimoto",
+      "Tetsuya Komuro",
+      "Yasutaka Nakata"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yasushi Akimoto is the general producer of the AKB48 groups.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is NOT a member of Arashi?",
+    "options": [
+      "Sakurai Sho",
+      "Matsumoto Jun",
+      "Yamashita Tomohisa",
+      "Ohno Satoshi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yamashita Tomohisa was a member of NEWS, not Arashi.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which TWICE member is NOT Japanese?",
+    "options": [
+      "Momo",
+      "Sana",
+      "Mina",
+      "Tzuyu"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tzuyu is from Taiwan. Momo, Sana, and Mina are the Japanese members.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which group sang \"Koi Suru Fortune Cookie\"?",
+    "options": [
+      "Nogizaka46",
+      "AKB48",
+      "Keyakizaka46",
+      "Morning Musume"
+    ],
+    "correctIndex": 1,
+    "explanation": "AKB48's 32nd single, famous for its viral dance video.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What audition show produced NiziU?",
+    "options": [
+      "PRODUCE 101",
+      "Nizi Project",
+      "Girls Planet",
+      "LOUD"
+    ],
+    "correctIndex": 1,
+    "explanation": "NiziU debuted through the JYP and Sony joint audition \"Nizi Project.\"",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who was NOT a member of SMAP?",
+    "options": [
+      "Kimura Takuya",
+      "Kusanagi Tsuyoshi",
+      "Nagase Tomoya",
+      "Nakai Masahiro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nagase Tomoya was a member of TOKIO.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which LE SSERAFIM members are Japanese?",
+    "options": [
+      "Kazuha",
+      "Sakura",
+      "Eunchae",
+      "Both Kazuha and Sakura"
+    ],
+    "correctIndex": 3,
+    "explanation": "Miyawaki Sakura and Nakamura Kazuha are the two Japanese members.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which group sang \"LOVE Machine\"?",
+    "options": [
+      "AKB48",
+      "SPEED",
+      "Morning Musume",
+      "Perfume"
+    ],
+    "correctIndex": 2,
+    "explanation": "Morning Musume's 7th single sold 1.76 million copies.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is King & Prince's nickname?",
+    "options": [
+      "K&P",
+      "KP",
+      "KinPri",
+      "KinPri"
+    ],
+    "correctIndex": 2,
+    "explanation": "The group is commonly known as \"KinPri\" by fans and media.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many members are in BLACKPINK?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 1,
+    "explanation": "BLACKPINK consists of Jisoo, Jennie, Rosé, and Lisa.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Keyakizaka46 rename to?",
+    "options": [
+      "Hinatazaka46",
+      "Sakurazaka46",
+      "Nogizaka46",
+      "Yoshimotozaka46"
+    ],
+    "correctIndex": 1,
+    "explanation": "The group renamed to Sakurazaka46 in October 2020.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many members are in Perfume?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1,
+    "explanation": "Perfume is a three-member technopop unit: A~chan, Kashiyuka, and Nocchi.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many languages is IVE's \"ELEVEN\" sung in?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "explanation": "Both Korean and Japanese versions were released.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who founded Johnny & Associates?",
+    "options": [
+      "Johnny Kitagawa",
+      "Yasushi Akimoto",
+      "Tsunku♂",
+      "Tetsuya Komuro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Johnny Kitagawa established the agency in 1962.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many members are in Snow Man?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctIndex": 2,
+    "explanation": "Snow Man is a 9-member group.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is Hinatazaka46's main TV show?",
+    "options": [
+      "Nogizaka Koujichuu",
+      "Hinatazaka de Aimashou",
+      "Keyaki tte Kakenai?",
+      "Soko Magattara Sakurazaka?"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Hinatazaka de Aimashou\" airs on TV Tokyo.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What country is XG from?",
+    "options": [
+      "South Korea",
+      "Japan",
+      "USA",
+      "China"
+    ],
+    "correctIndex": 1,
+    "explanation": "XG is a group of Japanese members under Avex.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What are aespa's virtual members called?",
+    "options": [
+      "Avatars",
+      "ae",
+      "Holograms",
+      "Digital Twins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Each aespa member has a virtual counterpart called \"ae.\"",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What iconic move is in \"Heavy Rotation\"'s choreography?",
+    "options": [
+      "Heart shape",
+      "Pointing",
+      "Arm spinning",
+      "Jumping"
+    ],
+    "correctIndex": 0,
+    "explanation": "The heart-shaped hand gesture in front of the chest is iconic.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was NewJeans' debut song?",
+    "options": [
+      "Hype Boy",
+      "Attention",
+      "Ditto",
+      "Super Shy"
+    ],
+    "correctIndex": 1,
+    "explanation": "They debuted with \"Attention\" in 2022.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "YOASOBI's \"Idol\" is the theme song for which anime?",
+    "options": [
+      "SPY×FAMILY",
+      "Oshi no Ko",
+      "Jujutsu Kaisen",
+      "Demon Slayer"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Idol\" was the OP theme for \"Oshi no Ko\" and became a massive hit.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How do you read \"SixTONES\"?",
+    "options": [
+      "Six-Tones",
+      "Six-Tone-S",
+      "Stones",
+      "Six-Tons"
+    ],
+    "correctIndex": 2,
+    "explanation": "SixTONES is read as \"Stones.\"",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What language are BTS's \"Dynamite\" lyrics in?",
+    "options": [
+      "Korean",
+      "Japanese",
+      "English",
+      "Korean and English"
+    ],
+    "correctIndex": 2,
+    "explanation": "\"Dynamite\" was released entirely in English.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which agency does EXO belong to?",
+    "options": [
+      "JYP",
+      "YG",
+      "SM",
+      "HYBE"
+    ],
+    "correctIndex": 2,
+    "explanation": "EXO is under SM Entertainment.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which group sang \"Sekai ni Hitotsu Dake no Hana\" (The Only Flower in the World)?",
+    "options": [
+      "Arashi",
+      "TOKIO",
+      "SMAP",
+      "V6"
+    ],
+    "correctIndex": 2,
+    "explanation": "SMAP's mega-hit sold over 3 million copies.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which agency is TWICE under?",
+    "options": [
+      "SM",
+      "YG",
+      "JYP",
+      "HYBE"
+    ],
+    "correctIndex": 2,
+    "explanation": "TWICE is under JYP Entertainment.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Where is AKB48's theater located?",
+    "options": [
+      "Shibuya",
+      "Akihabara",
+      "Shinjuku",
+      "Ikebukuro"
+    ],
+    "correctIndex": 1,
+    "explanation": "AKB48 Theater is on the 8th floor of Don Quijote in Akihabara.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In what year did Arashi announce their hiatus?",
+    "options": [
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "correctIndex": 1,
+    "explanation": "Arashi announced their hiatus in January 2019 and went on hiatus at the end of 2020.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the collective name for BTS fans?",
+    "options": [
+      "BLINK",
+      "ONCE",
+      "ARMY",
+      "CARAT"
+    ],
+    "correctIndex": 2,
+    "explanation": "BTS fans are called \"ARMY.\"",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which is NOT a member color of Momoiro Clover Z?",
+    "options": [
+      "Red",
+      "Yellow",
+      "Blue",
+      "Green"
+    ],
+    "correctIndex": 2,
+    "explanation": "Current colors are Red (Momota), Yellow (Tamai), Pink (Sasaki), and Purple (Takagi).",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which agency is BTS under?",
+    "options": [
+      "SM Entertainment",
+      "YG Entertainment",
+      "JYP Entertainment",
+      "HYBE"
+    ],
+    "correctIndex": 3,
+    "explanation": "BTS is under HYBE (formerly Big Hit Entertainment).",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In what decade was SPEED's \"White Love\" a hit?",
+    "options": [
+      "1980s",
+      "1990s",
+      "2000s",
+      "2010s"
+    ],
+    "correctIndex": 1,
+    "explanation": "Released in 1997, it became a million-seller.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many members does EXO currently have?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "12"
+    ],
+    "correctIndex": 2,
+    "explanation": "Originally 12 members, now 9 after departures.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is Nogizaka46's main TV show?",
+    "options": [
+      "Nogizaka Koujichuu",
+      "Nogizaka tte Koko!",
+      "Nogizaka Star Tanjou!",
+      "NOGIBINGO!"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Nogizaka Koujichuu\" airs on TV Tokyo.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which group sang \"Ponytail to Shushu\"?",
+    "options": [
+      "Nogizaka46",
+      "AKB48",
+      "SKE48",
+      "HKT48"
+    ],
+    "correctIndex": 1,
+    "explanation": "AKB48's 16th single, a popular summer hit.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "IZ*ONE was a joint group between which countries?",
+    "options": [
+      "Japan-Korea",
+      "Japan-China",
+      "Korea-USA",
+      "China-Korea"
+    ],
+    "correctIndex": 0,
+    "explanation": "IZ*ONE consisted of Japanese and Korean members.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which agency is Stray Kids under?",
+    "options": [
+      "SM",
+      "JYP",
+      "YG",
+      "HYBE"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stray Kids is under JYP Entertainment.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What did Kanjani Eight rename to?",
+    "options": [
+      "SUPER EIGHT",
+      "Kanjani8",
+      "KANJANI∞",
+      "Eight Rangers"
+    ],
+    "correctIndex": 0,
+    "explanation": "They renamed to SUPER EIGHT in 2023.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which group sang \"U.S.A.\"?",
+    "options": [
+      "EXILE",
+      "DA PUMP",
+      "Sandaime J SOUL BROTHERS",
+      "w-inds."
+    ],
+    "correctIndex": 1,
+    "explanation": "DA PUMP's \"U.S.A.\" became a massive hit in 2018 with its viral dance.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which agency is BLACKPINK under?",
+    "options": [
+      "SM",
+      "JYP",
+      "YG",
+      "HYBE"
+    ],
+    "correctIndex": 2,
+    "explanation": "BLACKPINK is under YG Entertainment.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Hey! Say! JUMP member is famous as an actor?",
+    "options": [
+      "Yamada Ryosuke",
+      "Chinen Yuri",
+      "Inoo Kei",
+      "Yaotome Hikaru"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yamada Ryosuke has starred in many dramas and films.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which KinKi Kids song was composed by Tatsuro Yamashita?",
+    "options": [
+      "Flower",
+      "Garasu no Shounen",
+      "Jetcoaster Romance",
+      "Bonnie Butterfly"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Garasu no Shounen\" (Glass Boy) was KinKi Kids' debut single, composed by Tatsuro Yamashita.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which agency is aespa under?",
+    "options": [
+      "HYBE",
+      "SM",
+      "JYP",
+      "YG"
+    ],
+    "correctIndex": 1,
+    "explanation": "aespa is under SM Entertainment.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which group sang \"Glass no Shounen\" (Glass Boy)?",
+    "options": [
+      "Arashi",
+      "KinKi Kids",
+      "TOKIO",
+      "V6"
+    ],
+    "correctIndex": 1,
+    "explanation": "KinKi Kids' debut single composed by Tatsuro Yamashita.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which is the Nagoya-based AKB48 sister group?",
+    "options": [
+      "NMB48",
+      "HKT48",
+      "SKE48",
+      "STU48"
+    ],
+    "correctIndex": 2,
+    "explanation": "SKE48 is based in Sakae, Nagoya.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many members are in Red Velvet?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 1,
+    "explanation": "Irene, Seulgi, Wendy, Joy, and Yeri make up the 5-member group.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which group sang \"Silent Majority\"?",
+    "options": [
+      "Nogizaka46",
+      "AKB48",
+      "Keyakizaka46",
+      "Hinatazaka46"
+    ],
+    "correctIndex": 2,
+    "explanation": "Keyakizaka46's debut single with Hirate Yurina as center.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which country is SUPER JUNIOR from?",
+    "options": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Thailand"
+    ],
+    "correctIndex": 2,
+    "explanation": "SUPER JUNIOR is a South Korean boy group under SM Entertainment.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is AKB48's general producer?",
+    "options": [
+      "Tsunku♂",
+      "Yasutaka Nakata",
+      "Yasushi Akimoto",
+      "Tetsuya Komuro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yasushi Akimoto is the general producer of AKB48.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the meaning of \"Hallyu\" (Korean Wave)?",
+    "options": [
+      "K-pop music",
+      "Korean beauty trend",
+      "Korean dance style",
+      "Korean popular culture spreading globally"
+    ],
+    "correctIndex": 3,
+    "explanation": "\"Hallyu\" refers to the global spread of Korean popular culture.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is SEVENTEEN's fan name?",
+    "options": [
+      "ARMY",
+      "CARAT",
+      "ONCE",
+      "BLINK"
+    ],
+    "correctIndex": 1,
+    "explanation": "SEVENTEEN's fans are called \"CARAT.\"",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does \"sasaeng\" mean in K-pop?",
+    "options": [
+      "Devoted fan",
+      "Anti-fan",
+      "Fan club leader",
+      "Obsessive stalker fan"
+    ],
+    "correctIndex": 3,
+    "explanation": "\"Sasaeng\" refers to obsessive fans who invade idols' privacy.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is \"Nihon no aidoru\" (Japanese idol) culture characterized by?",
+    "options": [
+      "Growing together with fans",
+      "Perfect performance only",
+      "Only singing",
+      "Only acting"
+    ],
+    "correctIndex": 0,
+    "explanation": "Japanese idol culture emphasizes idols growing and developing alongside fans.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which agency is ENHYPEN under?",
+    "options": [
+      "SM",
+      "YG",
+      "JYP",
+      "HYBE"
+    ],
+    "correctIndex": 3,
+    "explanation": "ENHYPEN is under BELIFT LAB, a HYBE subsidiary.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which group sang \"TSUNAMI\"?",
+    "options": [
+      "Arashi",
+      "SMAP",
+      "Southern All Stars",
+      "Mr.Children"
+    ],
+    "correctIndex": 2,
+    "explanation": "Southern All Stars' \"TSUNAMI\" sold over 3 million copies.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many members are in NiziU?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctIndex": 2,
+    "explanation": "NiziU has 9 members who were selected through the Nizi Project audition show.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which is NOT one of K-pop's traditional \"Big 3\" agencies?",
+    "options": [
+      "SM",
+      "YG",
+      "JYP",
+      "HYBE"
+    ],
+    "correctIndex": 3,
+    "explanation": "The traditional Big 3 are SM, YG, and JYP. HYBE is a newer major player.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was Nogizaka46's best-selling single?",
+    "options": [
+      "Influencer",
+      "Synchronicity",
+      "Kaerimichi wa Toomawari Shitaku Naru",
+      "Sing Out!"
+    ],
+    "correctIndex": 2,
+    "explanation": "\"Kaerimichi wa Toomawari Shitaku Naru\" sold approximately 1.375 million copies, making it Nogizaka46's best-selling single.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Nogizaka46's first million-selling single?",
+    "options": [
+      "Girls Rule",
+      "Nandome no Aozora ka?",
+      "Hadashi de Summer",
+      "Influencer"
+    ],
+    "correctIndex": 3,
+    "explanation": "The 17th single \"Influencer\" achieved the first million-seller status.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is TWICE's fan name?",
+    "options": [
+      "BLINK",
+      "ONCE",
+      "ARMY",
+      "MIDZY"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fans are named \"ONCE\" — if TWICE makes you fall in love once, fans will do it one more time.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which K-pop group is known as \"the nation's boy group\" in Korea?",
+    "options": [
+      "BTS",
+      "EXO",
+      "Wanna One",
+      "SEVENTEEN"
+    ],
+    "correctIndex": 1,
+    "explanation": "EXO earned the title \"the nation's boy group\" during their peak popularity in Korea.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Arashi member is known for being a gamer?",
+    "options": [
+      "Sakurai Sho",
+      "Ohno Satoshi",
+      "Ninomiya Kazunari",
+      "Matsumoto Jun"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ninomiya Kazunari (Nino) is well-known for his love of video games.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is BTS's official fan club name?",
+    "options": [
+      "BLINK",
+      "ARMY",
+      "VIP",
+      "ELF"
+    ],
+    "correctIndex": 1,
+    "explanation": "ARMY stands for \"Adorable Representative M.C for Youth.\"",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who produces Perfume?",
+    "options": [
+      "Yasushi Akimoto",
+      "Tsunku♂",
+      "Yasutaka Nakata",
+      "Tetsuya Komuro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yasutaka Nakata handles Perfume's music production.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which group was Sakura Miyawaki in before IZ*ONE?",
+    "options": [
+      "AKB48",
+      "SKE48",
+      "NMB48",
+      "HKT48"
+    ],
+    "correctIndex": 3,
+    "explanation": "Miyawaki Sakura was primarily a member of HKT48 (also concurrent with AKB48).",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What year did Snow Man and SixTONES debut simultaneously?",
+    "options": [
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "correctIndex": 2,
+    "explanation": "Both groups made their CD debut on January 22, 2020.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the average K-pop trainee period?",
+    "options": [
+      "6 months to 1 year",
+      "1-2 years",
+      "2-5 years",
+      "5-10 years"
+    ],
+    "correctIndex": 2,
+    "explanation": "Most K-pop idols train for 2-5 years before debuting.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which group is NOT in the \"Sakamichi Series\"?",
+    "options": [
+      "Nogizaka46",
+      "Keyakizaka46",
+      "Hinatazaka46",
+      "AKB48"
+    ],
+    "correctIndex": 3,
+    "explanation": "AKB48 belongs to the \"48 Group,\" not the Sakamichi Series.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How long was IZ*ONE's activity period limited to?",
+    "options": [
+      "1.5 years",
+      "2 years",
+      "2.5 years",
+      "3 years"
+    ],
+    "correctIndex": 2,
+    "explanation": "Born from PRODUCE 48, they had a limited activity period of about 2.5 years.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How old was Ado when \"Usseewa\" was released?",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ado was a 17-year-old high school student when it was released in 2020.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many members are in SEVENTEEN?",
+    "options": [
+      "13",
+      "15",
+      "17",
+      "19"
+    ],
+    "correctIndex": 0,
+    "explanation": "Despite the name, SEVENTEEN actually has 13 members.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which group is NOT under STARTO Entertainment (formerly Johnny's)?",
+    "options": [
+      "Snow Man",
+      "King & Prince",
+      "JO1",
+      "SixTONES"
+    ],
+    "correctIndex": 2,
+    "explanation": "JO1 is under LAPONE Entertainment.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What TV show produced Morning Musume?",
+    "options": [
+      "Star Tanjou!",
+      "ASAYAN",
+      "Audition!",
+      "Utaban"
+    ],
+    "correctIndex": 1,
+    "explanation": "They debuted through an audition segment on TV Tokyo's \"ASAYAN.\"",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What agency is Stray Kids under?",
+    "options": [
+      "SM",
+      "YG",
+      "JYP",
+      "HYBE"
+    ],
+    "correctIndex": 2,
+    "explanation": "Stray Kids is under JYP Entertainment.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which group popularized large-scale handshake events?",
+    "options": [
+      "Morning Musume",
+      "AKB48",
+      "SMAP",
+      "Arashi"
+    ],
+    "correctIndex": 1,
+    "explanation": "AKB48 established handshake events as a major idol event format.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who holds the record for most #1 wins in AKB48 elections?",
+    "options": [
+      "Maeda Atsuko",
+      "Oshima Yuko",
+      "Sashihara Rino",
+      "Watanabe Mayu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sashihara Rino won #1 three times, the most in the elections' history.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What novel inspired YOASOBI's \"Racing into the Night\"?",
+    "options": [
+      "Thanatos no Yuuwaku",
+      "Happy End",
+      "Tabun",
+      "Yasashii Suisei"
+    ],
+    "correctIndex": 0,
+    "explanation": "It's based on Hoshino Maya's novel \"Thanatos no Yuuwaku\" (The Allure of Thanatos).",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which comedians are Nogizaka46's \"big brothers\"?",
+    "options": [
+      "Bananaman",
+      "Audrey",
+      "Sandwich Man",
+      "Chidori"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bananaman are called \"official big brothers\" as hosts of their variety show.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does a K-pop \"comeback\" mean?",
+    "options": [
+      "Reunion after disbandment",
+      "New song release and promotions",
+      "Japan debut",
+      "International expansion"
+    ],
+    "correctIndex": 1,
+    "explanation": "In K-pop, a \"comeback\" means releasing new music and beginning promotions.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which group was IVE's Wonyoung previously in?",
+    "options": [
+      "TWICE",
+      "ITZY",
+      "IZ*ONE",
+      "Red Velvet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jang Wonyoung was the youngest member of IZ*ONE.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which anime features Creepy Nuts' \"Bling-Bang-Bang-Born\"?",
+    "options": [
+      "Demon Slayer",
+      "MASHLE",
+      "Jujutsu Kaisen",
+      "Oshi no Ko"
+    ],
+    "correctIndex": 1,
+    "explanation": "It's the OP theme for \"MASHLE: MAGIC AND MUSCLES\" and went viral worldwide.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What survival show produced ENHYPEN?",
+    "options": [
+      "PRODUCE 101",
+      "I-LAND",
+      "Nizi Project",
+      "Girls Planet 999"
+    ],
+    "correctIndex": 1,
+    "explanation": "Members were selected through Mnet's \"I-LAND.\"",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which group established formation dancing in Japanese idol culture?",
+    "options": [
+      "AKB48",
+      "Morning Musume",
+      "Perfume",
+      "EXILE"
+    ],
+    "correctIndex": 2,
+    "explanation": "Perfume's precise formation dancing influenced the entire idol industry.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What survival show produced JO1?",
+    "options": [
+      "PRODUCE 101 JAPAN",
+      "Nizi Project",
+      "I-LAND",
+      "LOUD"
+    ],
+    "correctIndex": 0,
+    "explanation": "JO1 was formed through viewer voting on \"PRODUCE 101 JAPAN.\"",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does TWICE's song title \"TT\" represent?",
+    "options": [
+      "Crying emoticon",
+      "Double T",
+      "Teen Time",
+      "Twice Together"
+    ],
+    "correctIndex": 0,
+    "explanation": "TT represents a crying face emoticon.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which was the first AKB48 team formed?",
+    "options": [
+      "Team A",
+      "Team K",
+      "Team B",
+      "Team 4"
+    ],
+    "correctIndex": 0,
+    "explanation": "Team A was the first team formed, starting performances in 2005.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the last year a non-48/46 group topped the Oricon annual singles chart?",
+    "options": [
+      "2007",
+      "2009",
+      "2011",
+      "2015"
+    ],
+    "correctIndex": 1,
+    "explanation": "In 2009, Arashi's \"Believe\" was the annual #1. From 2010, AKB48's \"Beginner\" took the top spot, and 48/46 groups dominated the annual rankings thereafter.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which agency is ITZY under?",
+    "options": [
+      "SM",
+      "JYP",
+      "YG",
+      "HYBE"
+    ],
+    "correctIndex": 1,
+    "explanation": "ITZY is a girl group under JYP Entertainment.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Where is Naniwa Danshi based?",
+    "options": [
+      "Tokyo",
+      "Nagoya",
+      "Osaka",
+      "Fukuoka"
+    ],
+    "correctIndex": 2,
+    "explanation": "Naniwa Danshi is based in Osaka (Naniwa).",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What year did V6 disband?",
+    "options": [
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "correctIndex": 2,
+    "explanation": "V6 disbanded on November 1, 2021.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which SHINee member is famous for solo activities in Japan?",
+    "options": [
+      "Taemin",
+      "Onew",
+      "Minho",
+      "Key"
+    ],
+    "correctIndex": 0,
+    "explanation": "Taemin has enormous solo popularity in Japan.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the last year AKB48's general election was held?",
+    "options": [
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 2018 election at Nagoya Dome was the final one.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is NCT's distinctive system?",
+    "options": [
+      "Graduation system",
+      "Unlimited member system",
+      "Rotation system",
+      "AI members"
+    ],
+    "correctIndex": 1,
+    "explanation": "NCT is an \"open group\" with no limit on membership numbers.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Hinatazaka46's previous group name?",
+    "options": [
+      "Keyakizaka46",
+      "Aozorazaka46",
+      "Hinatazaka46",
+      "Sakurazaka46"
+    ],
+    "correctIndex": 0,
+    "explanation": "They were originally Keyakizaka46 (Hiragana Keyaki) before renaming in 2019.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does \"7\" represent in BTS's album \"MAP OF THE SOUL: 7\"?",
+    "options": [
+      "7 songs",
+      "7 members",
+      "7th anniversary",
+      "7 continents"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 7 commemorates their 7th anniversary since debut.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many members does ATEEZ have?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctIndex": 2,
+    "explanation": "ATEEZ has 8 members.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What genre is MOMOLAND's \"BBoom BBoom\"?",
+    "options": [
+      "Ballad",
+      "Hip-hop",
+      "EDM",
+      "Tropical house"
+    ],
+    "correctIndex": 2,
+    "explanation": "An EDM-based dance track that also went viral on TikTok.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which group was formed from \"PRODUCE 101 JAPAN THE GIRLS\"?",
+    "options": [
+      "NiziU",
+      "ME:I",
+      "XG",
+      "FAKY"
+    ],
+    "correctIndex": 1,
+    "explanation": "ME:I was born from \"PRODUCE 101 JAPAN THE GIRLS.\"",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the center for Keyakizaka46's \"Fukyouwaon\"?",
+    "options": [
+      "Nagahama Neru",
+      "Watanabe Rika",
+      "Hirate Yurina",
+      "Sugai Yuka"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hirate Yurina consistently served as center from debut.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is MAMAMOO best known for?",
+    "options": [
+      "Dancing",
+      "Vocal ability",
+      "Rapping",
+      "Visuals"
+    ],
+    "correctIndex": 1,
+    "explanation": "MAMAMOO is renowned for all members having exceptional vocal skills.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the center for AKB48's \"Flying Get\"?",
+    "options": [
+      "Oshima Yuko",
+      "Maeda Atsuko",
+      "Shinoda Mariko",
+      "Itano Tomomi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Maeda Atsuko served as center after winning the general election.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which group sang \"Memeshikute\"?",
+    "options": [
+      "Arashi",
+      "Golden Bomber",
+      "EXILE",
+      "Kishidan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Golden Bomber's signature song, also famous for their air band style.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What did Johnny & Associates rename to?",
+    "options": [
+      "SMILE-UP.",
+      "STARTO ENTERTAINMENT",
+      "Johnny's Next",
+      "J-STORM"
+    ],
+    "correctIndex": 1,
+    "explanation": "In October 2023, the former Johnny & Associates became \"SMILE-UP.\" (a compensation company). The new talent management company \"STARTO ENTERTAINMENT\" was established in December 2023.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In which country did Travis Japan debut?",
+    "options": [
+      "Japan",
+      "USA",
+      "South Korea",
+      "UK"
+    ],
+    "correctIndex": 1,
+    "explanation": "Travis Japan made their major debut in the USA in 2022.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Where is HKT48 based?",
+    "options": [
+      "Hiroshima",
+      "Hokkaido",
+      "Hakata/Fukuoka",
+      "Hakodate"
+    ],
+    "correctIndex": 2,
+    "explanation": "HKT48 is based in Hakata, Fukuoka. The H stands for Hakata.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who founded Hello! Project?",
+    "options": [
+      "Yasushi Akimoto",
+      "Tsunku",
+      "Tetsuya Komuro",
+      "Masato Matsuura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tsunku served as Hello! Project's overall producer.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which 2022 drama did Snow Man's Ren Meguro star in?",
+    "options": [
+      "silent",
+      "Kyojo",
+      "Trillion Game",
+      "Ichiban Suki na Hana"
+    ],
+    "correctIndex": 0,
+    "explanation": "His role in \"silent\" (2022) drew attention to him as an actor.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which AKB48 overseas sister group is based in Jakarta?",
+    "options": [
+      "BNK48",
+      "MNL48",
+      "JKT48",
+      "SGO48"
+    ],
+    "correctIndex": 2,
+    "explanation": "JKT48 is the sister group based in Jakarta.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who produced \"Nizi Project\"?",
+    "options": [
+      "Bang Si-hyuk",
+      "Lee Soo-man",
+      "Yang Hyun-suk",
+      "J.Y. Park"
+    ],
+    "correctIndex": 3,
+    "explanation": "JYP founder J.Y. Park served as the show's producer.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In what year was the term \"oshi-katsu\" nominated for Japan's buzzword of the year?",
+    "options": [
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "correctIndex": 2,
+    "explanation": "\"Oshi-katsu\" was nominated in 2021, symbolizing the spread of idol fan culture.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the former agency GOT7 was under?",
+    "options": [
+      "SM",
+      "YG",
+      "JYP",
+      "HYBE"
+    ],
+    "correctIndex": 2,
+    "explanation": "GOT7 was under JYP Entertainment before all members left in 2021.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was AKB48's first Japan Record Award-winning song?",
+    "options": [
+      "Heavy Rotation",
+      "Flying Get",
+      "Koi Suru Fortune Cookie",
+      "Manatsu no Sounds good!"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Flying Get\" won the Japan Record Award in 2011.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which agency is ATEEZ under?",
+    "options": [
+      "KQ Entertainment",
+      "SM",
+      "JYP",
+      "Pledis"
+    ],
+    "correctIndex": 0,
+    "explanation": "ATEEZ is under KQ Entertainment.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Nogizaka46's Shiraishi Mai's nickname?",
+    "options": [
+      "Maiyan",
+      "Maichun",
+      "Shiraishi",
+      "Maimai"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shiraishi Mai is known by the nickname \"Maiyan.\"",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What survival show produced INI?",
+    "options": [
+      "PRODUCE 101 JAPAN SEASON 2",
+      "Nizi Project",
+      "I-LAND",
+      "LOUD"
+    ],
+    "correctIndex": 0,
+    "explanation": "INI was born from \"PRODUCE 101 JAPAN SEASON 2.\"",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is a K-pop \"fanchant\"?",
+    "options": [
+      "Fan song",
+      "Organized cheer calls during performances",
+      "Support message",
+      "Fan dance"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fans shout predetermined cheer calls during songs at concerts and music shows.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which agency is IVE under?",
+    "options": [
+      "HYBE",
+      "SM",
+      "Starship",
+      "JYP"
+    ],
+    "correctIndex": 2,
+    "explanation": "IVE is under Starship Entertainment.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who ranked #1 in PRODUCE 48?",
+    "options": [
+      "Sakura Miyawaki",
+      "Jang Wonyoung",
+      "Kang Hyewon",
+      "Honda Hitomi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jang Wonyoung won first place in PRODUCE 48 and debuted with IZ*ONE.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Rosé's solo debut song from BLACKPINK?",
+    "options": [
+      "LALISA",
+      "SOLO",
+      "On The Ground",
+      "FLOWER"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rosé debuted solo with \"On The Ground\" in 2021.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was LE SSERAFIM's debut song?",
+    "options": [
+      "ANTIFRAGILE",
+      "FEARLESS",
+      "UNFORGIVEN",
+      "EASY"
+    ],
+    "correctIndex": 1,
+    "explanation": "They debuted with \"FEARLESS\" in 2022.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the difference between K-pop \"digital single\" and \"physical album\"?",
+    "options": [
+      "Song count",
+      "Online-only vs. having a CD",
+      "Domestic vs. international",
+      "Price difference"
+    ],
+    "correctIndex": 1,
+    "explanation": "Digital singles are online-only; physical albums include a CD and merchandise.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Yasushi Akimoto's first idol group?",
+    "options": [
+      "AKB48",
+      "Onyanko Club",
+      "Nogizaka46",
+      "Bishoujo Club 31"
+    ],
+    "correctIndex": 1,
+    "explanation": "Onyanko Club, which started in 1985, was his first idol group production.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many times has BTS spoken at the UN General Assembly (by 2023)?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 2,
+    "explanation": "BTS addressed the UN in 2018, 2020 (video), and 2021.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which year had the highest total votes in AKB48 elections?",
+    "options": [
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 9th election in 2017 recorded the highest total vote count.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does the K-POP term 'ilde' stand for?",
+    "options": [
+      "Japan debut",
+      "One-day date",
+      "First-place debut",
+      "Illumination debut"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Ilde' is short for 'ilbon debut' (日本デビュー), meaning a K-POP group's Japanese debut.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where is SKE48's theater located?",
+    "options": [
+      "Nagoya Station",
+      "Sakae",
+      "Osu",
+      "Kanayama"
+    ],
+    "correctIndex": 1,
+    "explanation": "The SKE48 Theater is in Sunshine Sakae in Sakae, Nagoya.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who founded HYBE (formerly Big Hit)?",
+    "options": [
+      "Lee Soo-man",
+      "Yang Hyun-suk",
+      "Bang Si-hyuk",
+      "J.Y. Park"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bang Si-hyuk established Big Hit Entertainment in 2005.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "First female Japanese idol to perform solo at Tokyo Dome?",
+    "options": [
+      "Matsuda Seiko",
+      "Nakamori Akina",
+      "Amuro Namie",
+      "Hamasaki Ayumi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Amuro Namie was the first female solo artist to perform at Tokyo Dome.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "First K-pop act to top Billboard Hot 100?",
+    "options": [
+      "BTS",
+      "BLACKPINK",
+      "PSY",
+      "EXO"
+    ],
+    "correctIndex": 0,
+    "explanation": "BTS's \"Dynamite\" became the first K-pop song to reach #1 on Hot 100 in 2020.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who composed Hikaru GENJI's hit \"Ginga Tetsudou Ginga\" (Paradise Galaxy)?",
+    "options": [
+      "Tetsuya Komuro",
+      "Kyohei Tsutsumi",
+      "Ryo Aska",
+      "Koji Makaino"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ryo Aska (of CHAGE and ASKA) composed this song.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What technology did Perfume use on world tours?",
+    "options": [
+      "AI composition",
+      "Projection mapping",
+      "Holograms",
+      "VR streaming"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rhizomatiks' projection mapping technology became a highlight of their tours.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which male idol act won the most Japan Record Awards?",
+    "options": [
+      "Arashi",
+      "EXILE",
+      "AKB48",
+      "Sandaime J SOUL BROTHERS"
+    ],
+    "correctIndex": 1,
+    "explanation": "EXILE has won the Japan Record Award multiple times.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which groups are considered the start of K-pop's 4th generation?",
+    "options": [
+      "ITZY",
+      "aespa",
+      "Stray Kids",
+      "Both ITZY and Stray Kids"
+    ],
+    "correctIndex": 3,
+    "explanation": "Stray Kids and ITZY (debuted 2018-2019) are considered 4th gen pioneers.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why did \"cyalume\" (light sticks) become standard in Japanese idol culture?",
+    "options": [
+      "Safety",
+      "Expressing member colors",
+      "Cost reduction",
+      "Imported from abroad"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fans use colored penlight sticks matching their favorite member's color.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is TWICE's most-streamed Japanese song?",
+    "options": [
+      "One More Time",
+      "Candy Pop",
+      "Fake & True",
+      "Doughnut"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Candy Pop\" is their most-streamed Japanese original song.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is a \"shihainin\" (manager) in AKB48 groups?",
+    "options": [
+      "Oldest member",
+      "Theater operations manager",
+      "General producer",
+      "Fan club president"
+    ],
+    "correctIndex": 1,
+    "explanation": "The person responsible for theater operations and group management.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How long did XG train in Korea before debut?",
+    "options": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "4 years"
+    ],
+    "correctIndex": 2,
+    "explanation": "The members spent about 3 years training in Korea.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What year was the word \"oshi-katsu\" (supporting your favorite) nominated for Japan's buzzword award?",
+    "options": [
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "correctIndex": 2,
+    "explanation": "It was nominated in 2021, symbolizing the spread of idol fan culture.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is SM Entertainment founder Lee Soo-man's nickname?",
+    "options": [
+      "Father of K-pop",
+      "Emperor of K-pop",
+      "Godfather of K-pop",
+      "God of K-pop"
+    ],
+    "correctIndex": 0,
+    "explanation": "He's called the \"Father of K-pop\" for building the K-pop industry's foundation.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the origin of Nogizaka46's name?",
+    "options": [
+      "Members' hometowns",
+      "Record company address",
+      "Near the final audition venue",
+      "Akimoto's favorite place"
+    ],
+    "correctIndex": 2,
+    "explanation": "Named after the Nogizaka area near the final audition venue in Tokyo.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was NewJeans' producer Min Hee-jin's background?",
+    "options": [
+      "Music production",
+      "Art direction",
+      "Choreography",
+      "Marketing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Min Hee-jin was an art director at SM, renowned for visual concepts.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which is NOT a Takarazuka Revue troupe?",
+    "options": [
+      "Flower (Hana)",
+      "Moon (Tsuki)",
+      "Sky (Sora)",
+      "Star (Hoshi)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 5 troupes are Flower, Moon, Snow, Star, and Cosmos — \"Sky\" doesn't exist.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does the K-pop term \"ilde\" mean?",
+    "options": [
+      "Japan debut",
+      "One-day date",
+      "First-place debut",
+      "Illumination debut"
+    ],
+    "correctIndex": 0,
+    "explanation": "Short for \"Ilbon (Japan) debut\" — referring to debuting in Japan.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many copies did Pink Lady's \"UFO\" sell (approximately)?",
+    "options": [
+      "1 million",
+      "1.55 million",
+      "2 million",
+      "2.5 million"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"UFO\" sold approximately 1.55 million copies and was the #1 song of 1977.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What genre name does BABYMETAL use?",
+    "options": [
+      "J-Rock",
+      "Kawaii Metal",
+      "Anison Metal",
+      "Visual Metal"
+    ],
+    "correctIndex": 1,
+    "explanation": "BABYMETAL fuses idol pop and metal in a genre called \"Kawaii Metal.\"",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Most-streamed Japanese artist on Spotify (as of 2024)?",
+    "options": [
+      "YOASOBI",
+      "Kenshi Yonezu",
+      "Ado",
+      "Fujii Kaze"
+    ],
+    "correctIndex": 0,
+    "explanation": "YOASOBI's global streaming numbers grew enormously thanks to hits like \"Idol.\"",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Sakamichi series song was composed by Sakanaction's Ichiro Yamaguchi?",
+    "options": [
+      "Nogizaka46 \"Yoakemade Tsuyogaranakute mo Ii\"",
+      "Keyakizaka46 \"Silent Majority\"",
+      "Hinatazaka46 \"Kyun\"",
+      "Sakurazaka46 \"Nagaredama\""
+    ],
+    "correctIndex": 0,
+    "explanation": "Sakanaction's Yamaguchi provided a song to Nogizaka46.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does AKB48's \"Kami 7\" (God 7) refer to?",
+    "options": [
+      "5 members",
+      "7 members",
+      "8 members",
+      "10 members"
+    ],
+    "correctIndex": 1,
+    "explanation": "An unofficial term for the 7 members who consistently ranked at the top of elections.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why did Hikaru Genji use roller skates?",
+    "options": [
+      "Johnny Kitagawa's idea",
+      "Members' special skill",
+      "Overseas artist influence",
+      "TV show segment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Johnny Kitagawa introduced roller skates to enhance entertainment value.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What show was Onyanko Club's main platform?",
+    "options": [
+      "Yuuyake Nyan Nyan",
+      "All Night Fuji",
+      "Waratte Iitomo!",
+      "The Best Ten"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fuji TV's \"Yuuyake Nyan Nyan\" was Onyanko Club's main show.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does \"all-kill\" mean in K-pop?",
+    "options": [
+      "All songs are hits",
+      "Topping all music charts simultaneously",
+      "All members succeed solo",
+      "Charting #1 in all of Asia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Topping all major Korean music streaming charts simultaneously.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was TWICE Nayeon's solo debut album?",
+    "options": [
+      "POP!",
+      "IM NAYEON",
+      "ABCD",
+      "TWICE"
+    ],
+    "correctIndex": 1,
+    "explanation": "She debuted solo with mini album \"IM NAYEON\" in 2022.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was BTS V's solo album title?",
+    "options": [
+      "Indigo",
+      "Jack In The Box",
+      "Layover",
+      "FACE"
+    ],
+    "correctIndex": 2,
+    "explanation": "V released his solo album \"Layover\" in 2023.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How was EXO initially divided for activities?",
+    "options": [
+      "EXO-J and EXO-K",
+      "EXO-K and EXO-M",
+      "EXO-A and EXO-B",
+      "EXO-1 and EXO-2"
+    ],
+    "correctIndex": 1,
+    "explanation": "EXO-K promoted in Korea, EXO-M promoted in China.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is considered Japan's first \"idol\"?",
+    "options": [
+      "Minami Saori",
+      "Amachi Mari",
+      "Asaoka Megumi",
+      "Koyanagi Rumiko"
+    ],
+    "correctIndex": 0,
+    "explanation": "Minami Saori, who debuted in 1971, is often credited as Japan's first \"idol.\"",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Sakamichi group doesn't hold \"Under Live\" concerts?",
+    "options": [
+      "Nogizaka46",
+      "Sakurazaka46",
+      "Hinatazaka46",
+      "Keyakizaka46"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hinatazaka46 doesn't have a selection system, so all members participate — no Under Lives.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Japanese idol group first performed at a dome venue?",
+    "options": [
+      "Hikaru GENJI",
+      "SMAP",
+      "The Checkers",
+      "Shonentai"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hikaru GENJI was the first Japanese idol group to hold a dome concert.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the year BIGBANG's \"FANTASTIC BABY\" MV reached 100 million YouTube views?",
+    "options": [
+      "2013",
+      "2014",
+      "2015",
+      "2016"
+    ],
+    "correctIndex": 1,
+    "explanation": "It reached 100 million views in 2014, one of the earliest K-pop MVs to do so.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How long was Ikoma Rina's concurrent membership with AKB48?",
+    "options": [
+      "About 3 months",
+      "About 6 months",
+      "About 1 year",
+      "About 2 years"
+    ],
+    "correctIndex": 2,
+    "explanation": "She was concurrent with AKB48 Team B for about 1 year starting in 2014.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What defines an artist as a K-pop \"digimon\" (digital monster)?",
+    "options": [
+      "High CD sales",
+      "Consistently top streaming charts",
+      "Large concert attendance",
+      "High MV views"
+    ],
+    "correctIndex": 1,
+    "explanation": "Artists who perform exceptionally well on digital streaming platforms.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When did the \"Johnny's Jr.\" system begin?",
+    "options": [
+      "1960s",
+      "1970s",
+      "1980s",
+      "1990s"
+    ],
+    "correctIndex": 2,
+    "explanation": "The trainee system was formalized in the 1980s.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "At which venue did BTS hold their first Japan dome concert?",
+    "options": [
+      "Tokyo Dome",
+      "Kyocera Dome",
+      "Nagoya Dome",
+      "Fukuoka PayPay Dome"
+    ],
+    "correctIndex": 1,
+    "explanation": "BTS held their first dome concert at Kyocera Dome Osaka in 2017.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the first Morning Musume member to \"graduate\"?",
+    "options": [
+      "Nakazawa Yuko",
+      "Fukuda Asuka",
+      "Ishiguro Aya",
+      "Goto Maki"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fukuda Asuka became the first \"graduation\" member in 1999.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who choreographed AKB48's \"Koi Suru Fortune Cookie\"?",
+    "options": [
+      "MIKIKO",
+      "Natsu Mayumi",
+      "Papaya Suzuki",
+      "CRE8BOY"
+    ],
+    "correctIndex": 2,
+    "explanation": "Papaya Suzuki created the easy-to-follow dance for maximum accessibility.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is a \"seitan-sai\" (birthday festival) in Japanese idol culture?",
+    "options": [
+      "Debut anniversary",
+      "Member birthday event",
+      "Group formation anniversary",
+      "Graduation concert"
+    ],
+    "correctIndex": 1,
+    "explanation": "Events or concerts celebrating a member's birthday.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is JYP Entertainment's famous company motto?",
+    "options": [
+      "Merit-based",
+      "Truth, Sincerity, Humility",
+      "Dreams come true",
+      "Change the world"
+    ],
+    "correctIndex": 1,
+    "explanation": "J.Y. Park's philosophy of \"Truth, Sincerity, Humility\" guides the company.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Matsuda Seiko's debut single?",
+    "options": [
+      "Akai Sweet Pea",
+      "Aoi Sangoshou",
+      "Hadashi no Kisetsu",
+      "Kaze Tachinu"
+    ],
+    "correctIndex": 2,
+    "explanation": "She debuted with \"Hadashi no Kisetsu\" (Barefoot Season) in 1980.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the \"graduation\" system's benefit in Japanese idol culture?",
+    "options": [
+      "Group renewal",
+      "Media buzz",
+      "New member recruitment",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "explanation": "The graduation system benefits groups through renewal, buzz, and recruitment.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which TV station airs K-pop's \"Music Bank\"?",
+    "options": [
+      "SBS",
+      "KBS",
+      "MBC",
+      "Mnet"
+    ],
+    "correctIndex": 1,
+    "explanation": "KBS's \"Music Bank\" airs every Friday.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How do fans participate in K-pop fan sign events?",
+    "options": [
+      "Lottery",
+      "Album purchase-based lottery",
+      "First come first served",
+      "Fan club exclusive"
+    ],
+    "correctIndex": 1,
+    "explanation": "The more albums purchased, the higher the chance of being selected.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the purpose of AKB48's \"senbatsu\" (selection) system?",
+    "options": [
+      "Cost reduction",
+      "Boosting motivation through competition",
+      "Fan consolidation",
+      "Securing TV slots"
+    ],
+    "correctIndex": 1,
+    "explanation": "The selection system encourages competition among members for group growth.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which idol is part of Japan's legendary \"Class of '82\" debut year?",
+    "options": [
+      "Matsuda Seiko",
+      "Nakamori Akina",
+      "Yamaguchi Momoe",
+      "Minamino Yoko"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 1982 class includes Nakamori Akina, Koizumi Kyoko, Hayami Yu, and others.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is SEVENTEEN known for as a \"self-producing\" group?",
+    "options": [
+      "All lyrics by members",
+      "All performances self-produced",
+      "Writing, composing, and choreographing their own work",
+      "Making their own costumes"
+    ],
+    "correctIndex": 2,
+    "explanation": "SEVENTEEN handles songwriting, composing, and choreography themselves.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the Korean term for BTS's \"Spring Day\" staying on charts for years?",
+    "options": [
+      "Zombie song",
+      "Eternal song",
+      "Phoenix",
+      "Reverse run"
+    ],
+    "correctIndex": 0,
+    "explanation": "Songs that stay on charts for extremely long periods are called \"zombie songs\" in Korea.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does \"pen\" mean in K-pop fan terminology?",
+    "options": [
+      "Light",
+      "Fan",
+      "Idol",
+      "Light stick"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Pen\" (팬) is the Korean word for \"fan.\"",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When did Red Velvet debut?",
+    "options": [
+      "2012",
+      "2013",
+      "2014",
+      "2015"
+    ],
+    "correctIndex": 2,
+    "explanation": "Red Velvet debuted in August 2014 with \"Happiness.\"",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What best defines a \"chika idol\" (underground idol)?",
+    "options": [
+      "Idols who perform underground",
+      "Small-scale indie idols without major label deals",
+      "Masked idols",
+      "Indie label idols"
+    ],
+    "correctIndex": 1,
+    "explanation": "A term for idols who mainly perform at small live houses and events.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When did PSY's \"Gangnam Style\" first break 1 billion YouTube views?",
+    "options": [
+      "2012",
+      "2013",
+      "2014",
+      "2015"
+    ],
+    "correctIndex": 0,
+    "explanation": "It became the first YouTube video to reach 1 billion views in December 2012.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What innovative stage feature is Arashi known for?",
+    "options": [
+      "Moving stage",
+      "Underwater stage",
+      "Flying stage",
+      "360-degree rotating stage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Arashi is famous for their moving stage that travels through the venue.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What genre did SHINee help establish in K-pop?",
+    "options": [
+      "K-pop",
+      "Contemporary R&B",
+      "SHINee World",
+      "SM Performance"
+    ],
+    "correctIndex": 1,
+    "explanation": "SHINee pioneered incorporating contemporary R&B elements into K-pop.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Onyanko Club member had the most successful solo career?",
+    "options": [
+      "Kawai Sonoko",
+      "Kokusho Sayuri",
+      "Kudo Shizuka",
+      "Nitta Eri"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kudo Shizuka achieved enormous solo success after Onyanko Club.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is a \"visual\" member in K-pop?",
+    "options": [
+      "MV director",
+      "The most visually striking member of the group",
+      "Costume designer",
+      "Photographer"
+    ],
+    "correctIndex": 1,
+    "explanation": "The \"visual\" is the member considered the \"face\" of the group.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many Japanese members were in IZ*ONE?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1,
+    "explanation": "Miyawaki Sakura, Yabuki Nako, and Honda Hitomi were the 3 Japanese members.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where was Keyakizaka46's \"Silent Majority\" MV filmed?",
+    "options": [
+      "Shibuya",
+      "Ebisu Garden Place",
+      "Teppen Green Park",
+      "Odaiba"
+    ],
+    "correctIndex": 2,
+    "explanation": "It was filmed at Teppen Green Park in Chiba Prefecture.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When did SMAP disband?",
+    "options": [
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+    ],
+    "correctIndex": 1,
+    "explanation": "SMAP disbanded on December 31, 2016.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When did BLACKPINK perform at Coachella?",
+    "options": [
+      "2017",
+      "2018",
+      "2019",
+      "2023"
+    ],
+    "correctIndex": 2,
+    "explanation": "They became the first K-pop girl group to perform at Coachella in 2019.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the last Nogizaka46 1st-gen member to graduate?",
+    "options": [
+      "Shiraishi Mai",
+      "Akimoto Manatsu",
+      "Matsumura Sayuri",
+      "Saito Asuka"
+    ],
+    "correctIndex": 1,
+    "explanation": "Akimoto Manatsu graduated in 2024, completing all 1st-gen graduations.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was LE SSERAFIM's Kazuha's background before K-pop?",
+    "options": [
+      "K-pop trainee",
+      "Ballet dancer",
+      "Child actress",
+      "Model"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kazuha studied ballet at a school in the Netherlands.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which was the first domestic AKB48 sister group formed?",
+    "options": [
+      "SKE48",
+      "NMB48",
+      "HKT48",
+      "NGT48"
+    ],
+    "correctIndex": 0,
+    "explanation": "SKE48 was formed in 2008 as the first domestic sister group.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Japanese idol group was the first to perform at a national stadium?",
+    "options": [
+      "AKB48",
+      "SMAP",
+      "Arashi",
+      "DREAMS COME TRUE"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arashi held a concert at the old National Stadium in Tokyo, a landmark event.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is BIGBANG G-DRAGON's real name?",
+    "options": [
+      "Kwon Jiyong",
+      "Choi Seunghyun",
+      "Dong Youngbae",
+      "Kang Daesung"
+    ],
+    "correctIndex": 0,
+    "explanation": "G-DRAGON's real name is Kwon Jiyong.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where was Yamaguchi Momoe's retirement concert held?",
+    "options": [
+      "Tokyo Dome",
+      "Nippon Budokan",
+      "Yokohama Arena",
+      "Yoyogi National Gymnasium"
+    ],
+    "correctIndex": 1,
+    "explanation": "Her final concert was held at Nippon Budokan on October 5, 1980.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The 3 major year-end K-POP music festivals are hosted by SBS, MBC, and which other network?",
+    "options": [
+      "tvN",
+      "KBS",
+      "JTBC",
+      "Mnet"
+    ],
+    "correctIndex": 1,
+    "explanation": "The three major year-end K-pop music festivals are broadcast by SBS, MBC, and KBS.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is the leader of Stray Kids?",
+    "options": [
+      "Hyunjin",
+      "Bang Chan",
+      "Changbin",
+      "Felix"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bang Chan (from Australia) is the leader.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does \"yeoja-dol\" mean in K-pop?",
+    "options": [
+      "Male idol",
+      "Female idol",
+      "Co-ed idol",
+      "Solo idol"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Yeoja\" (girl) + idol = female idol group in Korean.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is aespa's concept world \"KWANGYA\"?",
+    "options": [
+      "Virtual world",
+      "Fan name",
+      "Album name",
+      "Label name"
+    ],
+    "correctIndex": 0,
+    "explanation": "KWANGYA is the virtual space within SM's expanded universe concept.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does achieving a \"triple crown\" on K-pop music shows mean?",
+    "options": [
+      "3 consecutive weeks at #1",
+      "Simultaneously #1 on 3 shows",
+      "3 songs charting at once",
+      "3 months on chart"
+    ],
+    "correctIndex": 0,
+    "explanation": "Winning #1 for 3 consecutive weeks on the same music show with the same song.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does K-pop \"streaming\" (\"seumin\") culture involve?",
+    "options": [
+      "Special mini album",
+      "Repeatedly streaming songs to boost charts",
+      "Super mini concert",
+      "Style mixing"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Seumin\" refers to fans repeatedly streaming songs to improve chart positions.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is a K-pop \"pre-debut\" song?",
+    "options": [
+      "Song released before official debut",
+      "Unreleased song",
+      "Cover song",
+      "Trainee-era song"
+    ],
+    "correctIndex": 0,
+    "explanation": "A promotional song released before the group's official debut.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is BABYMETAL's \"gimme chocolate\" MV famous for internationally?",
+    "options": [
+      "Expensive CGI",
+      "Massive reaction video phenomenon",
+      "Controversial marketing",
+      "Member costumes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Snow Man's \"D.D.\" sold approximately 750,000 copies in its first week. Combined with SixTONES, the total reached 1.328 million, a record for debut singles.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is a K-pop group's \"official color\"?",
+    "options": [
+      "Each member's image color",
+      "Group's official support/cheer color",
+      "Costume color",
+      "Album jacket color"
+    ],
+    "correctIndex": 1,
+    "explanation": "Each group has an official color reflected in lightsticks and merchandise.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is a K-pop \"cupholder event\"?",
+    "options": [
+      "Café event celebrating idol birthdays",
+      "Cup collection event",
+      "Beverage brand collab",
+      "Type of fan meeting"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fans partner with cafés to distribute photo cup holders for idol birthdays.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the origin of NewJeans' group name?",
+    "options": [
+      "Named after a denim brand",
+      "Like new jeans you want to wear every day",
+      "Members' favorite clothing",
+      "Producer's idea"
+    ],
+    "correctIndex": 1,
+    "explanation": "The name conveys the idea of being timeless and loved like a pair of jeans.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which was the first overseas AKB48 sister group established?",
+    "options": [
+      "BNK48",
+      "MNL48",
+      "JKT48",
+      "AKB48 Team SH"
+    ],
+    "correctIndex": 2,
+    "explanation": "JKT48 (Jakarta) was established in 2011 as the first overseas sister group.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is a K-pop \"repackage album\"?",
+    "options": [
+      "Overseas edition",
+      "Re-release of existing album with new songs added",
+      "Remix album",
+      "Fan-voted tracklist album"
+    ],
+    "correctIndex": 1,
+    "explanation": "An existing album re-released with added new tracks or remixes.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the first Girls' Generation member to debut solo?",
+    "options": [
+      "Taeyeon",
+      "Tiffany",
+      "Jessica",
+      "Yoona"
+    ],
+    "correctIndex": 0,
+    "explanation": "Taeyeon debuted with a solo mini album in 2015.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many albums are in BTS's 'LOVE YOURSELF' series?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2,
+    "explanation": "The LOVE YOURSELF series consists of 4 albums: Her, Tear, Answer, and the repackage.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is a K-pop \"sajegi\" scandal?",
+    "options": [
+      "Lip-sync scandal",
+      "Plastic surgery scandal",
+      "Chart manipulation scandal",
+      "Plagiarism scandal"
+    ],
+    "correctIndex": 2,
+    "explanation": "\"Sajegi\" refers to allegations of illegally manipulating music chart rankings.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What service succeeded K-pop's \"V LIVE\"?",
+    "options": [
+      "Weverse",
+      "VLIVE 2.0",
+      "K-LIVE",
+      "StarLive"
+    ],
+    "correctIndex": 0,
+    "explanation": "V LIVE was integrated into Weverse.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is a K-pop \"teaser\" video's purpose?",
+    "options": [
+      "Thank fans",
+      "Preview upcoming comeback",
+      "Live footage",
+      "Practice video"
+    ],
+    "correctIndex": 1,
+    "explanation": "Short preview clips released before a comeback to build fan anticipation.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is a K-pop \"concept photo\"'s role?",
+    "options": [
+      "Member introduction",
+      "Pre-releasing the album's visual concept",
+      "Gift for fans",
+      "Magazine publication"
+    ],
+    "correctIndex": 1,
+    "explanation": "Released before a comeback to preview the new song's visual direction and concept.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is a K-pop \"master-nim\"?",
+    "options": [
+      "Agency CEO",
+      "Famous fansite operator",
+      "Choreographer",
+      "Music producer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fans who photograph idols with professional cameras and run fansites.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What replaced handshake events for Nogizaka46?",
+    "options": [
+      "High-five events",
+      "Meet & greets",
+      "Online meet-and-greet sessions",
+      "Photo sessions"
+    ],
+    "correctIndex": 2,
+    "explanation": "Online meet-and-greet sessions became the standard after the COVID pandemic.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is a K-pop \"ending fairy\"?",
+    "options": [
+      "Member who faces camera at end of music show performance",
+      "Character at end of MV",
+      "Closing greeting at fan meeting",
+      "Last song on album"
+    ],
+    "correctIndex": 0,
+    "explanation": "The member who gets a close-up shot at the end of a music show broadcast.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does \"DD\" mean in Japanese idol fan culture?",
+    "options": [
+      "Double debut",
+      "Daredemo Daisuki (loves everyone)",
+      "Disco dance",
+      "Digital download"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"DD\" stands for \"Daredemo Daisuki\" — a fan who doesn't have a single favorite.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does a K-pop \"ace\" member handle?",
+    "options": [
+      "Singing, dancing, and rapping — all three",
+      "Visuals and singing",
+      "Dancing and rapping",
+      "Singing and MC"
+    ],
+    "correctIndex": 0,
+    "explanation": "An \"ace\" excels at all three: vocals, dance, and rap.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the first Nogizaka46 documentary film's title?",
+    "options": [
+      "Kanashimi no Wasurekata",
+      "Itsunomanika Koko ni Iru",
+      "Documentary of Nogizaka46",
+      "Kono Namida wo Shiranai"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Kanashimi no Wasurekata\" (How to Forget Sadness) was released in 2015.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which K-pop generation does Girls' Generation represent?",
+    "options": [
+      "1st generation",
+      "2nd generation",
+      "3rd generation",
+      "4th generation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Girls' Generation (2007 debut) is a defining group of K-pop's 2nd generation.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the earliest J-pop idol group to be called an \"idol\"?",
+    "options": [
+      "The Tigers",
+      "Pink Lady",
+      "Candies",
+      "Finger 5"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Tigers (late 1960s) were among the earliest acts referred to as \"idols\" in Japan.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What year was the PRODUCE series vote manipulation scandal revealed?",
+    "options": [
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "correctIndex": 1,
+    "explanation": "The vote manipulation scandal in the PRODUCE series was exposed in 2019.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many people did Arashi's \"5×20\" tour attract (approximately)?",
+    "options": [
+      "1 million",
+      "2 million",
+      "3 million",
+      "5 million"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 2018-2019 5×20 tour attracted approximately 3 million attendees.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does KAT-TUN's name stand for?",
+    "options": [
+      "Members' initials",
+      "Cat character",
+      "English abbreviation",
+      "Named by producer"
+    ],
+    "correctIndex": 0,
+    "explanation": "K(amenashi), A(kanishi), T(aguchi), T(anaka), U(eda), N(akamaru) — members' initials.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What happens when you win AKB48's \"Janken Tournament\"?",
+    "options": [
+      "Win prize money",
+      "Become the next single's center",
+      "Become a TV show MC",
+      "Get a solo photo book"
+    ],
+    "correctIndex": 1,
+    "explanation": "The winner earns the center position for the Janken Selection single.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Jennie's solo debut song from BLACKPINK?",
+    "options": [
+      "FLOWER",
+      "LALISA",
+      "SOLO",
+      "Gone"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jennie debuted solo with \"SOLO\" in 2018, the first BLACKPINK member to go solo.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is YOASOBI's composer?",
+    "options": [
+      "ikura",
+      "Ayase",
+      "n-buna",
+      "TK"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ayase handles songwriting, composing, and arranging; ikura provides vocals.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the first K-pop group to chart on the UK Official Singles Chart Top 40?",
+    "options": [
+      "BTS",
+      "PSY",
+      "BIGBANG",
+      "EXO"
+    ],
+    "correctIndex": 1,
+    "explanation": "PSY's \"Gangnam Style\" was the first K-pop song to chart in the UK Top 40.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What are SEVENTEEN's three units?",
+    "options": [
+      "Vocal, Dance, Rap",
+      "Hip-Hop, Vocal, Performance",
+      "Singing, Dancing, Acting",
+      "A, B, C"
+    ],
+    "correctIndex": 1,
+    "explanation": "The three units are Hip-Hop, Vocal, and Performance.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does \"hosareta\" mean in Japanese idol culture?",
+    "options": [
+      "Activity suspension",
+      "Being sidelined/ignored by management",
+      "Graduation",
+      "Scandal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Being excluded from selections, getting less media exposure — essentially being sidelined.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is a K-pop \"jikkaem\" (fancam)?",
+    "options": [
+      "Fan camera (individual focus video)",
+      "Practice room video",
+      "Behind-the-scenes video",
+      "Fan meeting video"
+    ],
+    "correctIndex": 0,
+    "explanation": "Individual member-focused videos from music show performances.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Matsuda Seiko vs. Nakamori Akina rivalry called?",
+    "options": [
+      "Seiko vs Akina",
+      "Class of 82 battle",
+      "Seimei sensou",
+      "80s idol summit"
+    ],
+    "correctIndex": 0,
+    "explanation": "The two biggest 80s idols were constantly compared by media.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is LE SSERAFIM's agency?",
+    "options": [
+      "Big Hit Music",
+      "PLEDIS",
+      "SOURCE MUSIC",
+      "BELIFT LAB"
+    ],
+    "correctIndex": 2,
+    "explanation": "LE SSERAFIM is under SOURCE MUSIC, a HYBE subsidiary.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which agency first developed an \"idol universe\" world-building concept?",
+    "options": [
+      "HYBE",
+      "SM Entertainment",
+      "JYP",
+      "YG"
+    ],
+    "correctIndex": 1,
+    "explanation": "SM's \"SMCU (SM Culture Universe)\" pioneered interconnected group storylines.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is a Nogizaka46 \"Under Live\"?",
+    "options": [
+      "Underground live",
+      "Concert by non-selected members",
+      "Fan club exclusive live",
+      "Online-only live"
+    ],
+    "correctIndex": 1,
+    "explanation": "Concerts featuring \"Under\" members who weren't selected for singles.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which group sang \"Namida no Request\"?",
+    "options": [
+      "BOOWY",
+      "The Checkers",
+      "Anzenchitai",
+      "C-C-B"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Checkers' hit song that became a massive hit in 1984.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many original Morning Musume members were there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nakazawa, Ishiguro, Iida, Abe, and Fukuda were the 5 original members.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When did TWICE first perform at Tokyo Dome?",
+    "options": [
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "correctIndex": 1,
+    "explanation": "TWICE held their first Tokyo Dome concert in March 2019.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which groups are famous for \"self-producing\" in K-pop?",
+    "options": [
+      "BTS",
+      "SEVENTEEN",
+      "Stray Kids",
+      "All three"
+    ],
+    "correctIndex": 3,
+    "explanation": "BTS, SEVENTEEN, and Stray Kids are all known for members deeply involved in production.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which group sang \"Renai Revolution 21\"?",
+    "options": [
+      "AKB48",
+      "Morning Musume",
+      "SPEED",
+      "Perfume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Morning Musume's iconic song, composed by Tsunku.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many members are in BTS?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "explanation": "BTS has 7 members: RM, Jin, SUGA, J-Hope, Jimin, V, and Jungkook.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does \"uri\" mean in Korean?",
+    "options": [
+      "You",
+      "Us/We",
+      "They",
+      "Everyone"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Uri\" means \"us\" or \"we\" in Korean, expressing closeness.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is BLACKPINK's fan name?",
+    "options": [
+      "ARMY",
+      "ONCE",
+      "BLINK",
+      "MIDZY"
+    ],
+    "correctIndex": 2,
+    "explanation": "BLACKPINK fans are called \"BLINK.\"",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was Arashi's debut single?",
+    "options": [
+      "A・RA・SHI",
+      "Happiness",
+      "Love so sweet",
+      "truth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Arashi debuted with \"A·RA·SHI\" in 1999.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many members are in TWICE?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctIndex": 2,
+    "explanation": "TWICE has 9 members: Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung, and Tzuyu.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was Morning Musume's debut single?",
+    "options": [
+      "LOVE Machine",
+      "Morning Coffee",
+      "Renai Revolution 21",
+      "The Peace!"
+    ],
+    "correctIndex": 1,
+    "explanation": "They debuted with \"Morning Coffee\" in 1998.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many members are in IVE?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 2,
+    "explanation": "IVE has 6 members: Yujin, Gaeul, Rei, Wonyoung, Liz, and Leeseo.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does \"daebak\" mean in K-pop culture?",
+    "options": [
+      "Disaster",
+      "Amazing/Awesome",
+      "Goodbye",
+      "Thank you"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Daebak\" is a Korean expression meaning \"amazing\" or \"awesome.\"",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which country is BTS from?",
+    "options": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Thailand"
+    ],
+    "correctIndex": 2,
+    "explanation": "BTS is from South Korea.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many members are in LE SSERAFIM?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 1,
+    "explanation": "LE SSERAFIM has 5 active members: Sakura, Chaewon, Kazuha, Eunchae, and Yunjin.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many members are in NewJeans?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 1,
+    "explanation": "NewJeans has 5 members: Minji, Hanni, Danielle, Haerin, and Hyein.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many members are in Arashi?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 1,
+    "explanation": "Arashi has 5 members: Ohno, Sakurai, Aiba, Ninomiya, and Matsumoto.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the meaning of \"maknae\" in K-pop?",
+    "options": [
+      "Leader",
+      "Oldest member",
+      "Youngest member",
+      "Main vocalist"
+    ],
+    "correctIndex": 2,
+    "explanation": "\"Maknae\" is a Korean word meaning the youngest member of a group.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is \"Kokuhaku\" in Japanese idol context?",
+    "options": [
+      "Graduation",
+      "Love confession",
+      "New song announcement",
+      "Fan event"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Kokuhaku\" means love confession, a theme common in idol songs.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is TWICE's \"signal\" for their lightstick called?",
+    "options": [
+      "ONCEstick",
+      "Candybong",
+      "Heartbong",
+      "Twicebong"
+    ],
+    "correctIndex": 1,
+    "explanation": "TWICE's official lightstick is called \"Candybong.\"",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Where does K-pop MV viewing mainly happen?",
+    "options": [
+      "TV",
+      "YouTube",
+      "Radio",
+      "Cinemas"
+    ],
+    "correctIndex": 1,
+    "explanation": "K-pop MVs are primarily released on YouTube, where view counts are a key metric.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is BTS's official lightstick called?",
+    "options": [
+      "ARMY Light",
+      "Candy Bong",
+      "ARMY Bomb",
+      "Bangtan Stick"
+    ],
+    "correctIndex": 2,
+    "explanation": "BTS's official lightstick is called the \"ARMY Bomb.\"",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does \"oppa\" mean in K-pop culture?",
+    "options": [
+      "A girl calling an older male",
+      "A boy calling an older male",
+      "General fan term",
+      "Group leader"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Oppa\" is a Korean term used by females to address older males affectionately.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who sang \"Pretender\"?",
+    "options": [
+      "Official Hige Dandism",
+      "King Gnu",
+      "Aimyon",
+      "Kenshi Yonezu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Official Hige Dandism's \"Pretender\" was a huge hit in 2019.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which group sang \"One Love\"?",
+    "options": [
+      "SMAP",
+      "Arashi",
+      "TOKIO",
+      "V6"
+    ],
+    "correctIndex": 1,
+    "explanation": "Arashi's \"One Love\" was the theme for the movie \"Hana Yori Dango Final.\"",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is EXILE's leader's name?",
+    "options": [
+      "ATSUSHI",
+      "HIRO",
+      "TAKAHIRO",
+      "AKIRA"
+    ],
+    "correctIndex": 1,
+    "explanation": "HIRO led EXILE and founded LDH.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was Nogizaka46's founding year?",
+    "options": [
+      "2010",
+      "2011",
+      "2012",
+      "2013"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nogizaka46 was formed in 2011 through 1st generation auditions.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which BABYMETAL member does NOT exist?",
+    "options": [
+      "SU-METAL",
+      "MOAMETAL",
+      "YUIMETAL",
+      "HIMETAL"
+    ],
+    "correctIndex": 3,
+    "explanation": "HIMETAL doesn't exist. Members are SU-METAL, MOAMETAL (and former member YUIMETAL).",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What K-pop term means \"group dance practice video\"?",
+    "options": [
+      "Dance break",
+      "Choreography video",
+      "Dance practice",
+      "Performance video"
+    ],
+    "correctIndex": 2,
+    "explanation": "\"Dance practice\" videos show groups rehearsing choreography and are hugely popular online.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which group sang \"Dakishimete TONIGHT\"?",
+    "options": [
+      "Shonentai",
+      "Hikaru GENJI",
+      "Shibugaki-tai",
+      "Otokogumi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shonentai's debut single, released in 1985.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many members are in SixTONES?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 1,
+    "explanation": "SixTONES has 6 members: Jesse, Kyomoto, Matsumura, Kouchi, Morimoto, and Tanaka.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Nogizaka46 member appeared in multiple stage musicals?",
+    "options": [
+      "Shiraishi Mai",
+      "Ikuta Erika",
+      "Nishino Nanase",
+      "Saito Asuka"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ikuta Erika appeared in over 10 musicals including Les Misérables.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country has the most active K-pop cover dance culture?",
+    "options": [
+      "Japan",
+      "Philippines",
+      "Thailand",
+      "Indonesia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thailand and other Southeast Asian countries have a thriving K-pop cover dance scene.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which is considered the \"Big 4\" of K-pop agencies?",
+    "options": [
+      "SM, YG, JYP, HYBE",
+      "SM, YG, JYP, Pledis",
+      "SM, HYBE, JYP, CJ",
+      "SM, YG, HYBE, Starship"
+    ],
+    "correctIndex": 0,
+    "explanation": "The current Big 4 are SM, YG, JYP, and HYBE.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which drama was Arashi's \"Love so sweet\" the theme song for?",
+    "options": [
+      "Hana Yori Dango",
+      "Shitsuren Chocolatier",
+      "99.9",
+      "Lucky Seven"
+    ],
+    "correctIndex": 0,
+    "explanation": "It was the theme song for TBS drama \"Hana Yori Dango 2\" (Boys Over Flowers 2).",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How long was Wanna One's activity period?",
+    "options": [
+      "1 year",
+      "1.5 years",
+      "2 years",
+      "2.5 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "Born from PRODUCE 101 Season 2, they had a limited 1.5-year activity period.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Sakurazaka46's debut single?",
+    "options": [
+      "Nagaradama",
+      "Nobody's fault",
+      "BAN",
+      "Sakura Tsuki"
+    ],
+    "correctIndex": 1,
+    "explanation": "They debuted with \"Nobody's fault\" in December 2020.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Nogizaka46 member performed center for \"Seifuku no Mannequin\"?",
+    "options": [
+      "Ikoma Rina",
+      "Shiraishi Mai",
+      "Ikuta Erika",
+      "Nishino Nanase"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ikoma Rina was center consecutively through the 4th single.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is NMB48's base city?",
+    "options": [
+      "Tokyo",
+      "Osaka",
+      "Nagoya",
+      "Fukuoka"
+    ],
+    "correctIndex": 1,
+    "explanation": "NMB48 is based in Namba, Osaka. NMB comes from NAMBA.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many members does NCT DREAM have?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "explanation": "NCT DREAM has 7 members.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was IVE's Japanese debut song?",
+    "options": [
+      "ELEVEN",
+      "LOVE DIVE",
+      "After LIKE",
+      "WAVE"
+    ],
+    "correctIndex": 3,
+    "explanation": "IVE debuted in Japan with their original Japanese song \"WAVE\" in 2023.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Nogizaka46 4th-gen member first served as center?",
+    "options": [
+      "Endo Sakura",
+      "Kaki Haruka",
+      "Tsutsui Ayame",
+      "Hayakawa Seira"
+    ],
+    "correctIndex": 0,
+    "explanation": "Endo Sakura was center for the 24th single \"Yoake Made Tsuyo Garanakute mo Ii.\"",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was center for AKB48's \"Oogoe Diamond\"?",
+    "options": [
+      "Maeda Atsuko",
+      "Oshima Yuko",
+      "Matsui Jurina",
+      "Watanabe Mayu"
+    ],
+    "correctIndex": 2,
+    "explanation": "14-year-old Matsui Jurina was selected as center.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Hinatazaka46's debut single?",
+    "options": [
+      "Doremisorasido",
+      "Kyun",
+      "Sonna Koto Nai yo",
+      "Kimi Shika Katan"
+    ],
+    "correctIndex": 1,
+    "explanation": "They debuted with \"Kyun\" in March 2019.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was J-Hope's solo album title?",
+    "options": [
+      "D-DAY",
+      "Jack In The Box",
+      "Indigo",
+      "FACE"
+    ],
+    "correctIndex": 1,
+    "explanation": "J-Hope released the solo album \"Jack In The Box\" in 2022.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was XG's debut song?",
+    "options": [
+      "MASCARA",
+      "Tippy Toes",
+      "SHOOTING STAR",
+      "LEFT RIGHT"
+    ],
+    "correctIndex": 1,
+    "explanation": "XG debuted with \"Tippy Toes\" in 2022.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which group is NOT part of EXILE TRIBE?",
+    "options": [
+      "Sandaime J SOUL BROTHERS",
+      "GENERATIONS",
+      "DA PUMP",
+      "THE RAMPAGE"
+    ],
+    "correctIndex": 2,
+    "explanation": "DA PUMP is under Rising Production, not LDH/EXILE TRIBE.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was TWICE's debut song?",
+    "options": [
+      "CHEER UP",
+      "Like Ooh-Ahh",
+      "TT",
+      "KNOCK KNOCK"
+    ],
+    "correctIndex": 1,
+    "explanation": "TWICE debuted with \"Like Ooh-Ahh\" in 2015.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does \"MV reaction\" culture in K-pop involve?",
+    "options": [
+      "Fans filming reactions to new MVs",
+      "Music critics reviewing songs",
+      "Idol reactions to their own MVs",
+      "TV show commentary"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fans and YouTubers film themselves watching new MVs, creating a popular content genre.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which AKB48 member was known as the \"ace\"?",
+    "options": [
+      "Oshima Yuko",
+      "Maeda Atsuko",
+      "Watanabe Mayu",
+      "Kashiwagi Yuki"
+    ],
+    "correctIndex": 1,
+    "explanation": "Maeda Atsuko was widely considered AKB48's \"ace\" member.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is special about Snow Man's Raul?",
+    "options": [
+      "Oldest member",
+      "Youngest and half-Japanese",
+      "Leader",
+      "Only Kansai member"
+    ],
+    "correctIndex": 1,
+    "explanation": "Raul is the youngest member and half-Japanese, half-Venezuelan.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many members are in Stray Kids?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stray Kids is an 8-member group.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many musicals has Nogizaka46's Erika Ikuta appeared in?",
+    "options": [
+      "5+",
+      "10+",
+      "15+",
+      "20+"
+    ],
+    "correctIndex": 1,
+    "explanation": "Erika Ikuta has appeared in over 10 musicals including Les Misérables.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Arashi member hosted \"Shimura Doubutsuen\" (animal show)?",
+    "options": [
+      "Matsumoto Jun",
+      "Ninomiya Kazunari",
+      "Sakurai Sho",
+      "Aiba Masaki"
+    ],
+    "correctIndex": 3,
+    "explanation": "Aiba Masaki is known for hosting animal-related TV shows.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which 48 group sang 'Kimi no Koto ga Suki Dakara'?",
+    "options": [
+      "AKB48",
+      "SKE48",
+      "NMB48",
+      "HKT48"
+    ],
+    "correctIndex": 0,
+    "explanation": "AKB48 released 'Kimi no Koto ga Suki Dakara' as a single.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Nogizaka46 member's photo book sold the most copies?",
+    "options": [
+      "Shiraishi Mai",
+      "Saito Asuka",
+      "Nishino Nanase",
+      "Ikuta Erika"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shiraishi Mai's photo book \"Passport\" sold over 500,000 copies.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Where was the annual Johnny's Countdown Concert held?",
+    "options": [
+      "Nippon Budokan",
+      "Tokyo Dome",
+      "Yokohama Arena",
+      "National Stadium"
+    ],
+    "correctIndex": 1,
+    "explanation": "The concert was traditionally held at Tokyo Dome every New Year's Eve.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Girls' Generation's Japanese name?",
+    "options": [
+      "Shoujo Sedai",
+      "Girls Sedai",
+      "Shoujo Jidai",
+      "Onna no Ko Jidai"
+    ],
+    "correctIndex": 2,
+    "explanation": "They're known as \"Shoujo Jidai\" (少女時代) in Japan.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many members are in Sandaime J SOUL BROTHERS?",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "11"
+    ],
+    "correctIndex": 1,
+    "explanation": "The group has 7 members: 2 vocalists and 5 performers.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the first 48 Group general election held?",
+    "options": [
+      "2009",
+      "2008",
+      "2010",
+      "2011"
+    ],
+    "correctIndex": 0,
+    "explanation": "The first AKB48 Senbatsu General Election was held in 2009.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does the ∞ in SUPER EIGHT's former name \"Kanjani∞\" mean?",
+    "options": [
+      "Infinity and 8 members",
+      "Eternity",
+      "Figure eight",
+      "Osaka Loop Line"
+    ],
+    "correctIndex": 0,
+    "explanation": "The ∞ represents both \"infinity\" and the original 8 members.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What country is BLACKPINK's Lisa from?",
+    "options": [
+      "South Korea",
+      "Japan",
+      "Thailand",
+      "China"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lisa (Lalisa Manobal) is from Thailand.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which group sang \"Daite HOLD ON ME!\"?",
+    "options": [
+      "Morning Musume",
+      "SPEED",
+      "MAX",
+      "dream"
+    ],
+    "correctIndex": 0,
+    "explanation": "Morning Musume's 3rd single, composed by Tsunku.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is ATEEZ's fan name?",
+    "options": [
+      "ATINY",
+      "FEVER",
+      "PIRATE",
+      "ATEENAGER"
+    ],
+    "correctIndex": 0,
+    "explanation": "ATEEZ fans are called \"ATINY.\"",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is BTS SUGA's solo stage name?",
+    "options": [
+      "Agust D",
+      "August",
+      "SUGA D",
+      "Shadow"
+    ],
+    "correctIndex": 0,
+    "explanation": "SUGA's solo activities are under the name \"Agust D.\"",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country did the culture of matching penlight colors originate from?",
+    "options": [
+      "Japan",
+      "South Korea",
+      "USA",
+      "China"
+    ],
+    "correctIndex": 0,
+    "explanation": "The culture of fans unifying penlight colors originated in Japan.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was aespa's debut song?",
+    "options": [
+      "Next Level",
+      "Savage",
+      "Black Mamba",
+      "Dreams Come True"
+    ],
+    "correctIndex": 2,
+    "explanation": "aespa debuted with \"Black Mamba\" in 2020.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which K-pop group's fandom is called \"VIP\"?",
+    "options": [
+      "BTS",
+      "EXO",
+      "BIGBANG",
+      "SUPER JUNIOR"
+    ],
+    "correctIndex": 2,
+    "explanation": "BIGBANG's fans are called \"VIP.\"",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does K-pop \"MAMA\" stand for?",
+    "options": [
+      "Mother",
+      "Mnet Asian Music Awards",
+      "Korean Music Association",
+      "Master Artist Award"
+    ],
+    "correctIndex": 1,
+    "explanation": "MAMA is the Mnet Asian Music Awards, one of K-pop's biggest award shows.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who composed SixTONES' \"Imitation Rain\"?",
+    "options": [
+      "Johnny Kitagawa",
+      "YOSHIKI",
+      "Yasushi Akimoto",
+      "Hotei Tomoyasu"
+    ],
+    "correctIndex": 1,
+    "explanation": "X JAPAN's YOSHIKI wrote the song.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was BTS's Korean debut single?",
+    "options": [
+      "Dynamite",
+      "No More Dream",
+      "I Need U",
+      "Blood Sweat & Tears"
+    ],
+    "correctIndex": 1,
+    "explanation": "BTS debuted with \"No More Dream\" in 2013.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was BTS RM's solo album title?",
+    "options": [
+      "Indigo",
+      "Layover",
+      "FACE",
+      "D-DAY"
+    ],
+    "correctIndex": 0,
+    "explanation": "RM released his solo album \"Indigo\" in December 2022.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What agency was GFRIEND under?",
+    "options": [
+      "SM",
+      "Source Music",
+      "JYP",
+      "HYBE"
+    ],
+    "correctIndex": 1,
+    "explanation": "GFRIEND was under Source Music before disbanding in 2021.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does the 48 in AKB48 represent?",
+    "options": [
+      "Number of initial members",
+      "Theater seat count",
+      "Akihabara zip code",
+      "Number of audition candidates"
+    ],
+    "correctIndex": 0,
+    "explanation": "The 48 refers to the initial concept of having 48 members.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which group debuted with \"DALLA DALLA\"?",
+    "options": [
+      "aespa",
+      "NewJeans",
+      "ITZY",
+      "IVE"
+    ],
+    "correctIndex": 2,
+    "explanation": "ITZY debuted with \"DALLA DALLA\" in 2019.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does K-pop \"yeongtong\" (video call) refer to?",
+    "options": [
+      "Video call fan meeting",
+      "TV appearance",
+      "Live streaming",
+      "Handshake event"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Yeongtong\" is a 1-on-1 video call event between idol and fan.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is EXO's official lightstick called?",
+    "options": [
+      "ARMY Bomb",
+      "Candy Bong",
+      "EXO-L Lightstick",
+      "Pharynx"
+    ],
+    "correctIndex": 2,
+    "explanation": "EXO's official lightstick is the EXO-L Lightstick (also known as the EXO Lightstick).",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which idol group sang 'Mirai e' (To the Future)?",
+    "options": [
+      "Arashi",
+      "V6",
+      "KinKi Kids",
+      "TOKIO"
+    ],
+    "correctIndex": 2,
+    "explanation": "KinKi Kids released 'Mirai e' as one of their popular singles.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is a K-pop \"senil ad\" (birthday ad)?",
+    "options": [
+      "New song ad",
+      "Merch ad",
+      "Birthday advertisement by fans",
+      "Concert ad"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fans pay for public advertisements to celebrate their idol's birthday.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does \"golden maknae\" refer to in BTS?",
+    "options": [
+      "RM",
+      "V",
+      "Jimin",
+      "Jungkook"
+    ],
+    "correctIndex": 3,
+    "explanation": "Jungkook is called the \"Golden Maknae\" because he excels at everything as the youngest.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is Perfume's initial indie label?",
+    "options": [
+      "Tokuma Japan",
+      "Universal",
+      "Perfume Records",
+      "amuse"
+    ],
+    "correctIndex": 0,
+    "explanation": "They released indie material through Tokuma Japan Communications.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who sang \"Dancing Hero\"?",
+    "options": [
+      "Akina Nakamori",
+      "Yoko Oginome",
+      "Seiko Matsuda",
+      "Kyoko Koizumi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Yoko Oginome's signature song, which also regained attention through the \"Bubbly Dance.\"",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the significance of K-pop's \"daesang\" (grand prize)?",
+    "options": [
+      "Newcomer-level award",
+      "Highest honor of the year",
+      "Special achievement award",
+      "Popularity vote award"
+    ],
+    "correctIndex": 1,
+    "explanation": "The daesang is the top award at year-end ceremonies, recognizing the year's best.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many consecutive weeks did BTS's \"Butter\" stay at #1 on Billboard Hot 100?",
+    "options": [
+      "5 weeks",
+      "7 weeks",
+      "10 weeks",
+      "12 weeks"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Butter\" achieved a total of 7 weeks at #1 on Billboard Hot 100.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the last AKB48 1st-gen member to graduate?",
+    "options": [
+      "Takahashi Minami",
+      "Minegishi Minami",
+      "Kojima Haruna",
+      "Shinoda Mariko"
+    ],
+    "correctIndex": 1,
+    "explanation": "Minegishi Minami graduated in May 2022, completing all 1st-gen graduations.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is Nakamori Akina's debut single?",
+    "options": [
+      "Shoujo A",
+      "Slow Motion",
+      "DESIRE",
+      "Kazari ja Nai no yo Namida wa"
+    ],
+    "correctIndex": 1,
+    "explanation": "She debuted with \"Slow Motion\" in 1982.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What were the J-pop idol groups of the 1970s known as?",
+    "options": [
+      "First generation idols",
+      "Tokyo Pop Stars",
+      "J-pop pioneers",
+      "Showa idols"
+    ],
+    "correctIndex": 3,
+    "explanation": "Idols from the Showa era (1970s-80s) like Yamaguchi Momoe are called \"Showa idols.\"",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who are the members of the original \"Tanokin Trio\"?",
+    "options": [
+      "Tahara, Kondo, Nomura",
+      "Tahara, Kondo, Go",
+      "Tahara, Matchy, Go",
+      "Kondo, Go, Nomura"
+    ],
+    "correctIndex": 0,
+    "explanation": "The trio was Tahara Toshihiko, Kondo Masahiko, and Nomura Yoshio.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is SM Entertainment's \"Culture Technology\" strategy?",
+    "options": [
+      "VR technology adoption",
+      "Localized group expansion in different markets",
+      "AI songwriting",
+      "Metaverse concerts"
+    ],
+    "correctIndex": 1,
+    "explanation": "The \"CT\" strategy creates groups tailored to each country's culture and market.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What music show airs on Mnet?",
+    "options": [
+      "Music Bank",
+      "Inkigayo",
+      "Show! Music Core",
+      "M Countdown"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mnet's \"M Countdown\" airs every Thursday.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who featured on BTS Jungkook's \"Seven\"?",
+    "options": [
+      "Halsey",
+      "Latto",
+      "Megan Thee Stallion",
+      "Dua Lipa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rapper Latto featured on \"Seven.\"",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What which K-pop music show airs on MBC?",
+    "options": [
+      "Music Bank",
+      "Inkigayo",
+      "Show! Music Core",
+      "M Countdown"
+    ],
+    "correctIndex": 2,
+    "explanation": "MBC's \"Show! Music Core\" airs every Saturday.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the joint unit name for Nogizaka46 and Keyakizaka46?",
+    "options": [
+      "Sakamichi AKB",
+      "Sakamichi Group",
+      "Sakamichi46",
+      "No such unit exists"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sakamichi members participated in AKB48 singles as \"Sakamichi AKB.\"",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does the K-pop term \"bias wrecker\" mean?",
+    "options": [
+      "A rival fan",
+      "A member who makes you reconsider your favorite",
+      "A group that steals fans",
+      "An anti-fan"
+    ],
+    "correctIndex": 1,
+    "explanation": "A member who tempts you to change your bias (favorite member).",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which K-pop survival show is considered the pioneer?",
+    "options": [
+      "PRODUCE 101",
+      "WIN: Who Is Next",
+      "Sixteen",
+      "MIXNINE"
+    ],
+    "correctIndex": 1,
+    "explanation": "YG's \"WIN: Who Is Next\" (2013) pioneered the K-pop survival show format.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the concept behind AKB48's initial slogan \"idols you can meet\"?",
+    "options": [
+      "Nationwide tours",
+      "Daily theater performances in Akihabara",
+      "Home visit service",
+      "Video streaming"
+    ],
+    "correctIndex": 1,
+    "explanation": "AKB48 held almost daily performances at their Akihabara theater for fans to attend.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was BIGBANG T.O.P's real name?",
+    "options": [
+      "Kwon Jiyong",
+      "Choi Seunghyun",
+      "Dong Youngbae",
+      "Kang Daesung"
+    ],
+    "correctIndex": 1,
+    "explanation": "T.O.P's real name is Choi Seunghyun.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which group sang \"Kamen Butoukai\" (Masquerade)?",
+    "options": [
+      "Hikaru GENJI",
+      "Shonentai",
+      "Shibugaki-tai",
+      "Otokogumi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Shonentai's signature song, known for its elegant dancing.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many members does SHINee currently have?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 1,
+    "explanation": "SHINee currently has 4 active members following the passing of Jonghyun in 2017.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is \"noraebang\" in Korean?",
+    "options": [
+      "Dance hall",
+      "Karaoke room",
+      "Recording studio",
+      "Concert hall"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Noraebang\" is the Korean word for karaoke room.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is SUPER JUNIOR's fan name?",
+    "options": [
+      "ARMY",
+      "ELF",
+      "VIP",
+      "Shawol"
+    ],
+    "correctIndex": 1,
+    "explanation": "SUPER JUNIOR's fans are called \"ELF (E.L.F.).\"",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the abbreviation for \"Music Station\"?",
+    "options": [
+      "M-Ste",
+      "Mu-Ste",
+      "MS",
+      "Oto-Ste"
+    ],
+    "correctIndex": 0,
+    "explanation": "The TV Asahi music show is commonly known as \"M-Ste.\"",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who sang \"Sakuranbo\" (Cherry)?",
+    "options": [
+      "aiko",
+      "Ai Otsuka",
+      "YUI",
+      "Koda Kumi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ai Otsuka's \"Sakuranbo\" was a massive hit in 2003.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What concept is BLACKPINK most famous for?",
+    "options": [
+      "Girl Crush",
+      "Innocent",
+      "Retro",
+      "High Teen"
+    ],
+    "correctIndex": 0,
+    "explanation": "BLACKPINK is the defining example of the \"girl crush\" concept.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who sang \"First Love\"?",
+    "options": [
+      "Namie Amuro",
+      "Hikaru Utada",
+      "Ayumi Hamasaki",
+      "Koda Kumi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hikaru Utada's \"First Love\" is on Japan's best-selling album of all time.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who sang \"Love Story wa Totsuzen ni\"?",
+    "options": [
+      "B'z",
+      "Kazumasa Oda",
+      "Southern All Stars",
+      "Mr.Children"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kazumasa Oda's signature song, the theme for drama \"Tokyo Love Story.\"",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does Golden Bomber's \"air band\" mean?",
+    "options": [
+      "Pretending to play instruments",
+      "Outdoor band",
+      "Valuing atmosphere",
+      "Airplane band"
+    ],
+    "correctIndex": 0,
+    "explanation": "They perform by miming instrument playing without actually playing.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is ITZY's fan name?",
+    "options": [
+      "BLINK",
+      "ONCE",
+      "MIDZY",
+      "STAY"
+    ],
+    "correctIndex": 2,
+    "explanation": "ITZY fans are called \"MIDZY.\"",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many albums are in BTS's \"LOVE YOURSELF\" series?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1,
+    "explanation": "The LOVE YOURSELF series consists of 3 albums: Her, Tear, and Answer.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who sang \"Rouge no Dengon\"?",
+    "options": [
+      "Yumi Matsutoya",
+      "Miyuki Nakajima",
+      "Mariya Takeuchi",
+      "Momoe Yamaguchi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yumi Matsutoya (Yumi Arai)'s classic, also featured in a Ghibli film.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the phenomenon of K-pop idols appearing in variety shows called?",
+    "options": [
+      "Idol variety",
+      "Entertainment promotion",
+      "Variety comeback",
+      "Broadcast promotion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Idols regularly appear on variety shows as part of their promotion activities.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who sang \"Aitakute Aitakute\"?",
+    "options": [
+      "Ayumi Hamasaki",
+      "Kana Nishino",
+      "JUJU",
+      "miwa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kana Nishino's hit song from 2010.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does \"hoobae\" mean in K-pop?",
+    "options": [
+      "Senior/veteran",
+      "Junior/newcomer",
+      "Producer",
+      "Manager"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Hoobae\" means junior — someone who debuted later.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many members are in naninwa danshi?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "explanation": "Naniwa Danshi is a 7-member group.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is Sakurazaka46's main TV show?",
+    "options": [
+      "Sakurazaka tte Kakenai?",
+      "Soko Magattara Sakurazaka?",
+      "Sakurazaka Koujichuu",
+      "Sakurazaka de Aimashou"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Soko Magattara, Sakurazaka?\" airs on TV Tokyo.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does \"bias\" mean in K-pop fan culture?",
+    "options": [
+      "Dislike",
+      "A rival group",
+      "A group you hate",
+      "Your favorite member in a group"
+    ],
+    "correctIndex": 3,
+    "explanation": "\"Bias\" means your favorite member — the one you're biased toward.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which group is Stray Kids' fan named after?",
+    "options": [
+      "STAY",
+      "STRAY",
+      "KIDZ",
+      "SKZ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Stray Kids fans are called \"STAY.\"",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the K-pop \"trainee evaluation\" process?",
+    "options": [
+      "Regular internal performance tests to continue training",
+      "Weekly fan voting",
+      "Public audition rounds",
+      "Monthly album releases"
+    ],
+    "correctIndex": 0,
+    "explanation": "Trainees undergo regular evaluations; poor performers may be eliminated from the program.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which agency is NewJeans under?",
+    "options": [
+      "SM",
+      "JYP",
+      "HYBE",
+      "YG"
+    ],
+    "correctIndex": 2,
+    "explanation": "NewJeans is under ADOR, a HYBE subsidiary.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does \"center\" mean in idol groups?",
+    "options": [
+      "The tallest member",
+      "The oldest member",
+      "The member positioned in the middle/lead during performances",
+      "The group manager"
+    ],
+    "correctIndex": 2,
+    "explanation": "The \"center\" is the member who stands in the center position during key performances.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does \"debut\" mean in K-pop context?",
+    "options": [
+      "First concert",
+      "Official start of activities with a released song",
+      "First TV appearance",
+      "Joining an agency"
+    ],
+    "correctIndex": 1,
+    "explanation": "In K-pop, \"debut\" means officially releasing music and beginning promotions.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which agency is TXT (TOMORROW X TOGETHER) under?",
+    "options": [
+      "SM",
+      "YG",
+      "JYP",
+      "HYBE"
+    ],
+    "correctIndex": 3,
+    "explanation": "TXT is under Big Hit Music, a HYBE subsidiary.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who sang \"Romance no Kamisama\"?",
+    "options": [
+      "Kohmi Hirose",
+      "Tomomi Kahara",
+      "Ayumi Hamasaki",
+      "Namie Amuro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kohmi Hirose's \"Romance no Kamisama\" is a beloved winter classic.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which agency is MAMAMOO under?",
+    "options": [
+      "SM",
+      "RBW",
+      "JYP",
+      "YG"
+    ],
+    "correctIndex": 1,
+    "explanation": "MAMAMOO is under RBW (formerly Rainbow Bridge World).",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is \"senbatsu\" in Japanese idol culture?",
+    "options": [
+      "Graduation",
+      "Members selected for a single's lineup",
+      "Audition",
+      "Fan meeting"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Senbatsu\" means the selected members who will participate in a single release.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is BTS's \"BTS Universe\" (BU)?",
+    "options": [
+      "Fan club name",
+      "Fictional storyline connecting their MVs and content",
+      "Concert tour name",
+      "Merch brand"
+    ],
+    "correctIndex": 1,
+    "explanation": "The BTS Universe is a fictional narrative woven through their MVs, albums, and other content.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which agency is SEVENTEEN under?",
+    "options": [
+      "SM",
+      "PLEDIS",
+      "JYP",
+      "YG"
+    ],
+    "correctIndex": 1,
+    "explanation": "SEVENTEEN is under PLEDIS Entertainment, a HYBE subsidiary.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the main difference between J-pop and K-pop idol training systems?",
+    "options": [
+      "J-pop has longer training",
+      "K-pop has a formal, intensive trainee system",
+      "No difference",
+      "J-pop focuses on dance only"
+    ],
+    "correctIndex": 1,
+    "explanation": "K-pop's trainee system involves years of intensive training before debut.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does \"idol senki\" (idol chronicles) refer to in Japan?",
+    "options": [
+      "Historical idol documentaries",
+      "Competition between different idol generations",
+      "Idol manga series",
+      "Fan fiction genre"
+    ],
+    "correctIndex": 1,
+    "explanation": "The ongoing cultural narrative of different idol generations competing and evolving.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What role does a K-pop \"visual\" play in the group?",
+    "options": [
+      "Directs MVs",
+      "Represents the group's beauty standard",
+      "Designs merchandise",
+      "Manages social media"
+    ],
+    "correctIndex": 1,
+    "explanation": "The \"visual\" is the member recognized as the most attractive face of the group.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is NCT 127's \"127\" named after?",
+    "options": [
+      "Member count",
+      "Debut date",
+      "Seoul's longitude",
+      "Album number"
+    ],
+    "correctIndex": 2,
+    "explanation": "127 refers to Seoul's longitude (127°E).",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the notable feature of the BTS 'ON' MV filming location?",
+    "options": [
+      "A palace",
+      "A desert",
+      "A stadium",
+      "A fortress in the forest"
+    ],
+    "correctIndex": 3,
+    "explanation": "The MV was filmed on a grand fortress set, creating cinematic visuals that became a hot topic.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the K-pop \"light stick\" culture about?",
+    "options": [
+      "Each group has a unique official lightstick for concerts",
+      "Safety equipment",
+      "General lighting",
+      "Photography"
+    ],
+    "correctIndex": 0,
+    "explanation": "Each K-pop group has a distinctively designed official lightstick used at concerts.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Arashi song was a theme for the \"Hana Yori Dango\" movie?",
+    "options": [
+      "Love so sweet",
+      "One Love",
+      "Wish",
+      "A.RA.SHI"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"One Love\" was the theme song for \"Hana Yori Dango Final\" (2008).",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many consecutive weeks did Girls' Generation's \"Gee\" stay at #1?",
+    "options": [
+      "5 weeks",
+      "7 weeks",
+      "9 weeks",
+      "11 weeks"
+    ],
+    "correctIndex": 2,
+    "explanation": "\"Gee\" topped Korean music shows for 9 consecutive weeks.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does \"fighting!\" (hwaiting) mean in K-pop?",
+    "options": [
+      "Conflict",
+      "Encouragement cheer (\"You can do it!\")",
+      "Battle dance",
+      "Argument"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Fighting!\" (화이팅) is a cheer meaning \"Good luck!\" or \"You can do it!\"",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the center for Nogizaka46's \"Seifuku no Mannequin\"?",
+    "options": [
+      "Rina Ikoma",
+      "Mai Shiraishi",
+      "Erika Ikuta",
+      "Nanase Nishino"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rina Ikoma served as center for the first four consecutive singles.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was EXO's debut single?",
+    "options": [
+      "Growl",
+      "MAMA",
+      "Wolf",
+      "Overdose"
+    ],
+    "correctIndex": 1,
+    "explanation": "EXO debuted with \"MAMA\" in 2012.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does \"trainee\" mean in K-pop?",
+    "options": [
+      "Debuted idol",
+      "Person training at an agency before debut",
+      "Fan club member",
+      "Music teacher"
+    ],
+    "correctIndex": 1,
+    "explanation": "A trainee is someone training at an entertainment agency with the goal of debuting.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What does \"reverse-charting\" (yeokjuhaeng) mean in K-pop?",
+    "options": [
+      "A song re-entering charts long after release",
+      "Charting backwards",
+      "A chart error",
+      "Releasing songs in reverse order"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Yeokjuhaeng\" describes a song climbing back up the charts after initial release, often due to viral exposure.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What type of content is a \"behind-the-scenes\" (BTS content) in K-pop?",
+    "options": [
+      "Music videos",
+      "Making-of and daily life videos",
+      "Dance practice",
+      "Live concerts"
+    ],
+    "correctIndex": 1,
+    "explanation": "Behind-the-scenes content shows the making-of process and everyday life.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Hinatazaka46 song has the strongest \"cute\" image?",
+    "options": [
+      "Kyun",
+      "Do Re Mi Sol La Si Do",
+      "Kimi Shika Katan",
+      "Boku Nanka"
+    ],
+    "correctIndex": 0,
+    "explanation": "Their debut single \"Kyun\" became a huge topic for its cute dance.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where is Perfume originally from?",
+    "options": [
+      "Tokyo",
+      "Osaka",
+      "Hiroshima",
+      "Fukuoka"
+    ],
+    "correctIndex": 2,
+    "explanation": "All three members are from Hiroshima and met at Actors School Hiroshima.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What record did BLACKPINK's \"How You Like That\" MV break?",
+    "options": [
+      "Most views in 24 hours",
+      "Fastest to 1 billion views",
+      "Most likes",
+      "Longest at #1"
+    ],
+    "correctIndex": 0,
+    "explanation": "It achieved about 86.4 million views in 24 hours, a record at the time.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which is NOT a Pink Lady hit song?",
+    "options": [
+      "UFO",
+      "Southpaw",
+      "Nagisa no Sindbad",
+      "Pepper Keibu"
+    ],
+    "correctIndex": 2,
+    "explanation": "\"Nagisa no Sindbad\" is a Southern All Stars song, not Pink Lady.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Keyakizaka46's final single?",
+    "options": [
+      "Kuroi Hitsuji",
+      "Dare ga Sono Kane wo Narasu no ka?",
+      "Ambivalent",
+      "Glass wo Ware!"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Dare ga Sono Kane wo Narasu no ka?\" was the last single under the Keyakizaka46 name.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is Jisoo of BLACKPINK's full name?",
+    "options": [
+      "Kim Jini",
+      "Kim Jisoo",
+      "Park Jisoo",
+      "Lee Jisoo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jisoo's real name is Kim Jisoo.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the Korean word for 'lightstick' (penlight) in K-POP?",
+    "options": [
+      "Eungwonbong",
+      "Penbong",
+      "Lighteu",
+      "Eungwonbong (응원봉)"
+    ],
+    "correctIndex": 3,
+    "explanation": "In Korean, it is called 'eungwonbong' (응원봉), meaning 'cheering stick'.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many copies did Snow Man's debut single sell in its first week (approximately)?",
+    "options": [
+      "500,000",
+      "750,000",
+      "930,000",
+      "1,130,000"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"D.D.\" sold approximately 1,130,000 copies in its first week, breaking records.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was SUPER JUNIOR's \"Sorry, Sorry\" hit year?",
+    "options": [
+      "2007",
+      "2008",
+      "2009",
+      "2010"
+    ],
+    "correctIndex": 2,
+    "explanation": "Released in 2009, it helped expand K-pop's global reach.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the youngest member of SPEED at debut?",
+    "options": [
+      "Shimabukuro Hiroko",
+      "Imai Eriko",
+      "Uehara Takako",
+      "Arakaki Hitoe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shimabukuro Hiroko (hiro) was 11 years old at debut, the youngest member.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What K-pop term refers to how 1st-gen groups like H.O.T. influenced the industry?",
+    "options": [
+      "K-pop foundation",
+      "Idol hallyu origin",
+      "First generation",
+      "K-pop pioneers"
+    ],
+    "correctIndex": 2,
+    "explanation": "H.O.T., Sechs Kies, S.E.S. etc. from the 1990s are called the \"first generation.\"",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who composed SMAP's \"Sekai ni Hitotsu Dake no Hana\"?",
+    "options": [
+      "Yasushi Akimoto",
+      "Tsunku♂",
+      "Makihara Noriyuki",
+      "Tetsuya Komuro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Makihara Noriyuki wrote both lyrics and music.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does \"aegyo\" mean in K-pop culture?",
+    "options": [
+      "Powerful dance",
+      "Cute/Charming behavior",
+      "Stage name",
+      "Fan gift"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Aegyo\" refers to acting cute or charming, a common K-pop fan service.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is AKB48's \"Request Hour\" event?",
+    "options": [
+      "Fan Q&A session",
+      "Fan-voted setlist concert",
+      "Member request show",
+      "Producer request concert"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Request Hour\" is a concert where fans vote for the setlist, often revealing surprising favorites.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What TV genre did Arashi's Masaki Aiba host for many years?",
+    "options": [
+      "News",
+      "Animals & Nature",
+      "Quiz",
+      "Cooking"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aiba is known for hosting animal shows like \"Shimura Zoo.\"",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which is NOT a type of 'tokuten-kai' (bonus event) in Japanese idol culture?",
+    "options": [
+      "Handshake event",
+      "Cheki (photo) event",
+      "Talk event",
+      "Job interview"
+    ],
+    "correctIndex": 3,
+    "explanation": "Handshake events, cheki events, and talk events are held as CD purchase bonuses.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "For which Grammy category was BTS first nominated?",
+    "options": [
+      "Best New Artist",
+      "Best Pop Duo/Group Performance",
+      "Record of the Year",
+      "Album of the Year"
+    ],
+    "correctIndex": 1,
+    "explanation": "They were nominated for Best Pop Duo/Group Performance for \"Dynamite.\"",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the \"7-year curse\" in K-pop?",
+    "options": [
+      "Bad luck superstition",
+      "Contract expiration leading to group disbandment",
+      "Member dating ban ending",
+      "Award ceremony boycott"
+    ],
+    "correctIndex": 1,
+    "explanation": "K-pop contracts typically last 7 years, after which groups often disband or lose members.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the role of a K-pop \"dance line\" vs. \"vocal line\"?",
+    "options": [
+      "Same role",
+      "Dance line focuses on choreography; vocal line on singing",
+      "Both focus on rap",
+      "Dance line sings; vocal line dances"
+    ],
+    "correctIndex": 1,
+    "explanation": "K-pop groups divide members into specialized lines based on their strengths.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the term for K-pop fans organizing charity projects?",
+    "options": [
+      "Fan service",
+      "Fandom philanthropy",
+      "Fan project",
+      "Fan culture"
+    ],
+    "correctIndex": 2,
+    "explanation": "K-pop fans organize \"fan projects\" including charity donations in their idol's name.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the importance of \"first week sales\" in K-pop?",
+    "options": [
+      "Key metric for measuring album success and fandom power",
+      "Only important for awards",
+      "Not very important",
+      "Only matters for physical sales"
+    ],
+    "correctIndex": 0,
+    "explanation": "First-week sales are the primary metric showing an album's impact and the fandom's purchasing power.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does \"double title\" mean in K-pop album releases?",
+    "options": [
+      "Two album covers",
+      "Two main promotional tracks from one album",
+      "Two albums at once",
+      "Two music videos for one song"
+    ],
+    "correctIndex": 1,
+    "explanation": "A \"double title\" means promoting two main songs from a single album simultaneously.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does \"multi-stan\" mean in K-pop fan culture?",
+    "options": [
+      "Hating multiple groups",
+      "Being a fan of multiple groups",
+      "Managing multiple fan accounts",
+      "Multiple memberships"
+    ],
+    "correctIndex": 1,
+    "explanation": "A \"multi-stan\" is someone who actively supports and follows multiple K-pop groups.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which audition show created TWICE?",
+    "options": [
+      "PRODUCE 101",
+      "Sixteen",
+      "Nizi Project",
+      "Girls Planet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Members were selected through Mnet's survival show \"Sixteen.\"",
+    "difficulty": "medium"
+  }
+]
