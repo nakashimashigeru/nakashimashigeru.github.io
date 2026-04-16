@@ -132,16 +132,16 @@
     "difficulty": "easy"
   },
   {
-    "question": "「名探偵コナン」の主人公の本当の名前は？",
+    "question": "「鬼滅の刃」の柱は何人いる（無限列車編開始時）？",
     "options": [
-      "毛利小五郎",
-      "工藤新一",
-      "服部平次",
-      "怪盗キッド"
+      "7人",
+      "9人",
+      "8人",
+      "10人"
     ],
     "correctIndex": 1,
-    "explanation": "工藤新一が薬で小さくなり、江戸川コナンとして活躍します。",
-    "difficulty": "easy"
+    "explanation": "無限列車編開始時点で柱は9人（炎柱・水柱・蟲柱・恋柱・霞柱・音柱・蛇柱・風柱・岩柱）いる。",
+    "difficulty": "medium"
   },
   {
     "question": "「セーラームーン」の主人公の名前は？",
@@ -936,15 +936,15 @@
     "difficulty": "easy"
   },
   {
-    "question": "「SPY×FAMILY」でアーニャの特殊能力は？",
+    "question": "「SPY×FAMILY」でヨルの正体は？",
     "options": [
-      "透明になる",
-      "心が読める",
-      "未来が見える",
-      "空を飛べる"
+      "透明人間",
+      "殺し屋",
+      "医者",
+      "記者"
     ],
     "correctIndex": 1,
-    "explanation": "アーニャは他人の心を読むことができる超能力者です。",
+    "explanation": "ヨル・フォージャーは凄腕の殺し屋で、コードネームは「いばら姫」。",
     "difficulty": "easy"
   },
   {
@@ -1932,16 +1932,16 @@
     "difficulty": "medium"
   },
   {
-    "question": "京都アニメーションの代表作でないのは？",
+    "question": "「らき☆すた」を制作したアニメスタジオは？",
     "options": [
-      "けいおん！",
-      "涼宮ハルヒ",
-      "進撃の巨人",
-      "響け！ユーフォニアム"
+      "シャフト",
+      "マッドハウス",
+      "京都アニメーション",
+      "A-1 Pictures"
     ],
     "correctIndex": 2,
-    "explanation": "進撃の巨人はWIT STUDIO/MAPPAの制作です。",
-    "difficulty": "medium"
+    "explanation": "「らき☆すた」は京都アニメーションが2007年に制作した代表作の一つ。",
+    "difficulty": "hard"
   },
   {
     "question": "「デュラララ!!」の舞台は？",

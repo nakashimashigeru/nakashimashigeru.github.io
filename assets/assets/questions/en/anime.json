@@ -132,16 +132,16 @@
     "difficulty": "easy"
   },
   {
-    "question": "What is Detective Conan's catchphrase?",
+    "question": "How many Hashira (Pillars) are in \"Demon Slayer\" at the start of the Mugen Train arc?",
     "options": [
-      "You are already dead",
-      "There is always only one truth!",
-      "In the name of the moon",
-      "If you give up, the game is over"
+      "7",
+      "9",
+      "8",
+      "10"
     ],
     "correctIndex": 1,
-    "explanation": "Conan's iconic line: 'There is always only one truth!'",
-    "difficulty": "easy"
+    "explanation": "There are 9 Hashira at the start of the Mugen Train arc (Flame, Water, Insect, Love, Mist, Sound, Serpent, Wind, Stone).",
+    "difficulty": "medium"
   },
   {
     "question": "What is the name of the main character in \"Sailor Moon\"?",
@@ -936,15 +936,15 @@
     "difficulty": "easy"
   },
   {
-    "question": "In SPY×FAMILY, what is Anya's special ability?",
+    "question": "What is Yor's true identity in \"SPY×FAMILY\"?",
     "options": [
-      "Invisibility",
-      "Telepathy",
-      "Future sight",
-      "Flight"
+      "Invisible person",
+      "Assassin",
+      "Doctor",
+      "Reporter"
     ],
     "correctIndex": 1,
-    "explanation": "Anya is an esper who can read other people's minds.",
+    "explanation": "Yor Forger is a skilled assassin with the code name \"Thorn Princess\".",
     "difficulty": "easy"
   },
   {
@@ -1932,16 +1932,16 @@
     "difficulty": "medium"
   },
   {
-    "question": "Which of these is NOT a representative work of Kyoto Animation?",
+    "question": "Which anime studio produced \"Lucky Star\"?",
     "options": [
-      "K-On!",
-      "The Melancholy of Haruhi Suzumiya",
-      "Attack on Titan",
-      "Sound! Euphonium"
+      "Shaft",
+      "Madhouse",
+      "Kyoto Animation",
+      "A-1 Pictures"
     ],
     "correctIndex": 2,
-    "explanation": "Attack on Titan was produced by WIT STUDIO and later MAPPA.",
-    "difficulty": "medium"
+    "explanation": "\"Lucky Star\" (2007) is one of Kyoto Animation's signature works.",
+    "difficulty": "hard"
   },
   {
     "question": "Where is Durarara!! set?",

@@ -73,6 +73,19 @@
   };
 
   /**
+   * タイマー秒読み音: 短い高音ビープ (1000Hz, 40ms)
+   */
+  window.otakuiqPlayTimerTick = function () {
+    try {
+      var ctx = getCtx();
+      var t = ctx.currentTime;
+      playTone(ctx, 1000, t, 0.04, 0.15, 'square');
+    } catch (e) {
+      console.warn('[OtakuIQ Audio] playTimerTick failed:', e);
+    }
+  };
+
+  /**
    * 時間切れ音: 短い3連ビープ (A4 × 3)
    */
   window.otakuiqPlayTimeout = function () {

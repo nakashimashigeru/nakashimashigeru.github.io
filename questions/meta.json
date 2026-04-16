@@ -1,24 +1,36 @@
 {
-  "last_updated": "2026-04-05T17:30:14.689894+00:00",
+  "last_updated": "2026-04-12T17:35:23.852062+00:00",
   "categories": [
     "anime",
     "idols",
-    "culture",
+    "games",
     "history",
     "manga"
   ],
   "per_category": {
     "anime_ja": 400,
-    "idols_ja": 406,
-    "culture_ja": 400,
-    "history_ja": 404,
-    "manga_ja": 421,
-    "anime_en": 397,
-    "idols_en": 418,
-    "culture_en": 400,
-    "history_en": 404,
-    "manga_en": 419
+    "idols_ja": 400,
+    "games_ja": 410,
+    "history_ja": 400,
+    "manga_ja": 400,
+    "anime_en": 400,
+    "idols_en": 400,
+    "games_en": 410,
+    "history_en": 400,
+    "manga_en": 400,
+    "anime_ko": 400,
+    "idols_ko": 400,
+    "games_ko": 410,
+    "history_ko": 400,
+    "manga_ko": 400,
+    "anime_id": 400,
+    "idols_id": 400,
+    "games_id": 410,
+    "history_id": 400,
+    "manga_id": 400
   },
-  "ja_total": 2031,
-  "en_total": 2038
+  "ja_total": 2010,
+  "en_total": 2010,
+  "ko_total": 2010,
+  "id_total": 2010
 }

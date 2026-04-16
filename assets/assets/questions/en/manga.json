@@ -600,15 +600,15 @@
     "difficulty": "medium"
   },
   {
-    "question": "What was Osamu Tezuka's unfinished final work?",
+    "question": "Which of Osamu Tezuka's works was his 'lifework' that remained unfinished at his death?",
     "options": [
+      "Astro Boy",
       "Black Jack",
-      "Neo Faust",
       "Phoenix",
-      "Ludwig B"
+      "Buddha"
     ],
     "correctIndex": 2,
-    "explanation": "Phoenix (Hi no Tori) was Tezuka's lifelong work that remained unfinished at the time of his death in 1989.",
+    "explanation": "'Phoenix' was Tezuka's lifework, which he continued to draw throughout his career and remained unfinished at his death in 1989.",
     "difficulty": "hard"
   },
   {

@@ -125,7 +125,7 @@
       "K&P",
       "KP",
       "KinPri",
-      "KinPri"
+      "Prince"
     ],
     "correctIndex": 2,
     "explanation": "The group is commonly known as \"KinPri\" by fans and media.",
@@ -476,7 +476,7 @@
       "Eight Rangers"
     ],
     "correctIndex": 0,
-    "explanation": "They renamed to SUPER EIGHT in 2023.",
+    "explanation": "They renamed to SUPER EIGHT in February 2024.",
     "difficulty": "easy"
   },
   {
@@ -900,15 +900,15 @@
     "difficulty": "medium"
   },
   {
-    "question": "What agency is Stray Kids under?",
+    "question": "Which network aired the survival show that formed Stray Kids?",
     "options": [
-      "SM",
-      "YG",
-      "JYP",
-      "HYBE"
+      "Mnet",
+      "KBS",
+      "SBS",
+      "MBC"
     ],
-    "correctIndex": 2,
-    "explanation": "Stray Kids is under JYP Entertainment.",
+    "correctIndex": 0,
+    "explanation": "Stray Kids were formed through the Mnet survival show \"Stray Kids\" that aired in 2017.",
     "difficulty": "medium"
   },
   {
@@ -1572,15 +1572,15 @@
     "difficulty": "hard"
   },
   {
-    "question": "Who composed Hikaru GENJI's hit \"Ginga Tetsudou Ginga\" (Paradise Galaxy)?",
+    "question": "Who is the leader of TWICE?",
     "options": [
-      "Tetsuya Komuro",
-      "Kyohei Tsutsumi",
-      "Ryo Aska",
-      "Koji Makaino"
+      "Jihyo",
+      "Nayeon",
+      "Momo",
+      "Sana"
     ],
-    "correctIndex": 2,
-    "explanation": "Ryo Aska (of CHAGE and ASKA) composed this song.",
+    "correctIndex": 0,
+    "explanation": "Park Ji-hyo has been the leader of TWICE since the group's formation.",
     "difficulty": "hard"
   },
   {

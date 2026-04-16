@@ -1010,13 +1010,13 @@
   {
     "question": "How many fighters are in Super Smash Bros. Ultimate? (including DLC)",
     "options": [
-      "87",
+      "89",
       "74",
       "65",
       "100"
     ],
     "correctIndex": 0,
-    "explanation": "Super Smash Bros. Ultimate features 87 playable fighters in total, including 74 base roster characters and 13 DLC fighters.",
+    "explanation": "Super Smash Bros. Ultimate features 89 playable fighters in total, including all base roster and DLC characters, making it the largest roster in the series.",
     "difficulty": "hard"
   },
   {
@@ -1548,7 +1548,7 @@
     "difficulty": "easy"
   },
   {
-    "question": "In what year was The Legend of Zelda: Tears of the Kingdom released?",
+    "question": "When was \"The Legend of Zelda: Tears of the Kingdom\" released?",
     "options": [
       "2023",
       "2022",
@@ -1556,8 +1556,8 @@
       "2021"
     ],
     "correctIndex": 0,
-    "explanation": "It was released on Nintendo Switch on May 12, 2023.",
-    "difficulty": "medium"
+    "explanation": "It was released for Nintendo Switch on May 12, 2023, selling 10 million copies in the first 3 days.",
+    "difficulty": "easy"
   },
   {
     "question": "What country is the Paldea region in Pokemon Scarlet & Violet based on?",
@@ -4176,16 +4176,16 @@
     "difficulty": "medium"
   },
   {
-    "question": "What types are the starter Pokemon you can choose from in every generation?",
+    "question": "What is the current latest generation of the Pokemon main series? (as of 2025)",
     "options": [
-      "Fire, Water, Grass",
-      "Electric, Ground, Rock",
-      "Normal, Fighting, Dark",
-      "Ghost, Psychic, Dragon"
+      "Generation 9",
+      "Generation 7",
+      "Generation 8",
+      "Generation 10"
     ],
     "correctIndex": 0,
-    "explanation": "Every generation offers a choice of Fire, Water, and Grass type starters.",
-    "difficulty": "easy"
+    "explanation": "Pokemon Scarlet & Violet, released in 2022, is a Generation 9 title.",
+    "difficulty": "medium"
   },
   {
     "question": "What is the full title of the 'Smash Bros.' series?",
@@ -4798,5 +4798,135 @@
     "correctIndex": 0,
     "explanation": "Metacritic compiles a weighted average of review scores from various media outlets.",
     "difficulty": "medium"
+  },
+  {
+    "question": "In 'The Legend of Zelda: Breath of the Wild', what is the official name of the place where Link first awakens?",
+    "options": [
+      "Shrine of Resurrection",
+      "Great Plateau",
+      "Temple of Revival",
+      "Chamber of Resurrection"
+    ],
+    "correctIndex": 0,
+    "explanation": "The place where Link awakens from his 100-year slumber is called the 'Shrine of Resurrection', located on the Great Plateau which serves as the tutorial area at the beginning of the game.",
+    "difficulty": "hard",
+    "id": "games_2cf128b7"
+  },
+  {
+    "question": "Which of the following songs was NOT composed by Nobuo Uematsu, known as the composer for 'Final Fantasy VII'?",
+    "options": [
+      "Those Who Fight Further",
+      "One-Winged Angel",
+      "Aerith's Theme",
+      "Lightning's Theme - Final Chapter"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Lightning's Theme - Final Chapter' is from the Final Fantasy XIII series and was composed by Masashi Hamauzu. The other three are representative works by Nobuo Uematsu.",
+    "difficulty": "hard",
+    "id": "games_7a6b584b"
+  },
+  {
+    "question": "What country is Team Cherry, the developer of the indie game 'Hollow Knight', from?",
+    "options": [
+      "Canada",
+      "Australia",
+      "United Kingdom",
+      "New Zealand"
+    ],
+    "correctIndex": 1,
+    "explanation": "Team Cherry is an independent game development studio based in Adelaide, Australia, and gained worldwide attention with 'Hollow Knight'.",
+    "difficulty": "hard",
+    "id": "games_f9783ec6"
+  },
+  {
+    "question": "In the fighting game 'Street Fighter V', what is the command for Chun-Li's special move 'Lightning Legs'?",
+    "options": [
+      "↓↙←+Kick repeatedly",
+      "←(charge)→+Kick",
+      "↓(charge)↑+Kick",
+      "Kick repeatedly only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chun-Li's Lightning Legs is activated with the '↓↙←+Kick repeatedly' command, and this iconic special move has basically used the same command throughout the series.",
+    "difficulty": "hard",
+    "id": "games_75a129aa"
+  },
+  {
+    "question": "Who is the author of the literary work that inspired 'Arsène', the protagonist's initial Persona in 'Persona 5'?",
+    "options": [
+      "Edgar Allan Poe",
+      "Maurice Leblanc",
+      "Arthur Conan Doyle",
+      "Agatha Christie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Arsène is based on the gentleman thief Arsène Lupin from Maurice Leblanc's novels, which fits perfectly with P5's phantom thief theme.",
+    "difficulty": "hard",
+    "id": "games_5c5a66d1"
+  },
+  {
+    "question": "When was Nintendo's handheld console 'Game Boy Advance' officially released in Japan?",
+    "options": [
+      "March 21, 2001",
+      "February 21, 2001",
+      "April 21, 2001",
+      "May 21, 2001"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Game Boy Advance was released in Japan on March 21, 2001. It featured a 32-bit processor and achieved performance comparable to the Super Famicom.",
+    "difficulty": "hard",
+    "id": "games_f7bb6552"
+  },
+  {
+    "question": "In 'Dragon Quest XI', what is the name of the protagonist's hometown village?",
+    "options": [
+      "Cobblestone",
+      "Castle Dundrasil",
+      "Heliodor",
+      "Hotto"
+    ],
+    "correctIndex": 0,
+    "explanation": "The protagonist's hometown where he was raised is a small village called 'Cobblestone', which serves as an important location as the starting point of the story.",
+    "difficulty": "hard",
+    "id": "games_2703c64f"
+  },
+  {
+    "question": "In the arcade game 'Pac-Man', what is the name of the red monster among the four monsters?",
+    "options": [
+      "Blinky",
+      "Pinky",
+      "Inky",
+      "Akabei"
+    ],
+    "correctIndex": 3,
+    "explanation": "The red monster is called 'Akabei' in the Japanese version and 'Blinky' in the overseas version. It has the characteristic of being the most aggressive in chasing Pac-Man.",
+    "difficulty": "hard",
+    "id": "games_9487f73b"
+  },
+  {
+    "question": "In 'Mario Kart 64', which character does NOT appear as a hidden character?",
+    "options": [
+      "Wario",
+      "Yoshi",
+      "Princess Peach",
+      "Rosalina"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rosalina is a character who first appeared in 'Super Mario Galaxy' and does not appear in Mario Kart 64 (released in 1996).",
+    "difficulty": "hard",
+    "id": "games_52f20c12"
+  },
+  {
+    "question": "In the indie game 'Celeste', what is the name of the mountain that protagonist Madeline climbs?",
+    "options": [
+      "Celeste Mountain",
+      "Mount Celestial",
+      "Sky Mountain",
+      "Madeline Mountain"
+    ],
+    "correctIndex": 0,
+    "explanation": "The mountain that protagonist Madeline climbs while confronting her inner self is called 'Celeste Mountain', which shares the same name as the game title.",
+    "difficulty": "hard",
+    "id": "games_e422d4d2"
   }
 ]

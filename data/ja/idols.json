@@ -125,7 +125,7 @@
       "K&P",
       "KP",
       "キンプリ",
-      "KinPri"
+      "プリンス"
     ],
     "correctIndex": 2,
     "explanation": "ファンやメディアでは「キンプリ」の愛称で親しまれています。",
@@ -476,7 +476,7 @@
       "エイトレンジャー"
     ],
     "correctIndex": 0,
-    "explanation": "2023年にSUPER EIGHTに改名しました。",
+    "explanation": "2024年2月にSUPER EIGHTに改名しました。",
     "difficulty": "easy"
   },
   {
@@ -900,15 +900,15 @@
     "difficulty": "medium"
   },
   {
-    "question": "Stray Kidsの所属事務所は？",
+    "question": "Stray Kidsを生んだサバイバル番組の放送局は？",
     "options": [
-      "SM",
-      "YG",
-      "JYP",
-      "HYBE"
+      "Mnet",
+      "KBS",
+      "SBS",
+      "MBC"
     ],
-    "correctIndex": 2,
-    "explanation": "Stray KidsはJYP Entertainment所属です。",
+    "correctIndex": 0,
+    "explanation": "Mnetで2017年に放送されたサバイバル番組「Stray Kids」からグループが結成されました。",
     "difficulty": "medium"
   },
   {
@@ -1572,15 +1572,15 @@
     "difficulty": "hard"
   },
   {
-    "question": "宝塚歌劇団の組ではないものは？",
+    "question": "TWICEのリーダーは？",
     "options": [
-      "花組",
-      "月組",
-      "空組",
-      "星組"
+      "ジヒョ",
+      "ナヨン",
+      "モモ",
+      "サナ"
     ],
-    "correctIndex": 2,
-    "explanation": "宝塚は花・月・雪・星・宙の5組で、「空組」は存在しません。",
+    "correctIndex": 0,
+    "explanation": "パク・ジヒョが結成時からTWICEのリーダーを務めています。",
     "difficulty": "hard"
   },
   {
