@@ -1,51 +1,19 @@
 // ============================================================
-// OtakuIQ Service Worker — オフラインフォールバック
-//
-// 役割:
-//   - offline.html をインストール時にキャッシュ
-//   - ナビゲーションリクエストがネットワーク失敗した場合に offline.html を返す
-//   - それ以外のリクエストはネットワークに委譲
-//     （Flutter生成の flutter_service_worker.js がアセットをキャッシュする）
-//
-// ビルド時の注意:
-//   flutter build web --pwa-strategy=offline-first を使用すると
-//   Flutter がアセット用 SW を生成し、本 SW と並行して動作する。
+// 旧カスタムSW: Flutter SW と競合するため廃止
+// このファイルは過去に /sw.js を登録したクライアントの SW を
+// 安全に解除するための no-op として残している
 // ============================================================
 
-const CACHE_NAME = 'otakuiq-offline-v1';
-const OFFLINE_URL = '/offline.html';
-
-// ── Install: offline.html をキャッシュ ──
-self.addEventListener('install', (event) => {
-  event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => cache.add(OFFLINE_URL))
-  );
+self.addEventListener('install', () => {
   self.skipWaiting();
 });
 
-// ── Activate: 自分のキャッシュの旧バージョンのみ削除 ──
-// 注意: Flutter SW のキャッシュ（flutter-app-cache 等）を消すと毎回再フェッチが発生する
 self.addEventListener('activate', (event) => {
   event.waitUntil(
-    caches.keys().then((keys) =>
-      Promise.all(
-        keys
-          .filter((key) => key.startsWith('otakuiq-offline-') && key !== CACHE_NAME)
-          .map((key) => caches.delete(key))
-      )
-    )
-  );
-  self.clients.claim();
-});
-
-// ── Fetch: ナビゲーション失敗時に offline.html へフォールバック ──
-self.addEventListener('fetch', (event) => {
-  // HTMLナビゲーションリクエストのみ対象
-  if (event.request.mode !== 'navigate') return;
-
-  event.respondWith(
-    fetch(event.request).catch(() =>
-      caches.match(OFFLINE_URL)
+    self.registration.unregister().then(() =>
+      self.clients.matchAll().then((clients) => {
+        clients.forEach((c) => c.navigate(c.url));
+      })
     )
   );
 });

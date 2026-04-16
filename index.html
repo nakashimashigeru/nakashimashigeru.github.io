@@ -278,10 +278,15 @@
 
     window._isIos = /iphone|ipad|ipod/.test(navigator.userAgent.toLowerCase());
 
-    // ── Service Worker 登録（オフラインフォールバック） ──
+    // ── 旧カスタムSWの後始末 ──
+    // 過去に登録した /sw.js が Flutter SW と競合するため、明示的に解除
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/sw.js').catch(function (err) {
-        console.warn('[SW] Registration failed:', err);
+      navigator.serviceWorker.getRegistrations().then(function (regs) {
+        regs.forEach(function (reg) {
+          if (reg.active && reg.active.scriptURL.endsWith('/sw.js')) {
+            reg.unregister();
+          }
+        });
       });
     }
   </script>
