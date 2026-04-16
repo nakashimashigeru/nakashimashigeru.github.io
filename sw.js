@@ -23,13 +23,14 @@ self.addEventListener('install', (event) => {
   self.skipWaiting();
 });
 
-// ── Activate: 古いキャッシュを削除 ──
+// ── Activate: 自分のキャッシュの旧バージョンのみ削除 ──
+// 注意: Flutter SW のキャッシュ（flutter-app-cache 等）を消すと毎回再フェッチが発生する
 self.addEventListener('activate', (event) => {
   event.waitUntil(
     caches.keys().then((keys) =>
       Promise.all(
         keys
-          .filter((key) => key !== CACHE_NAME)
+          .filter((key) => key.startsWith('otakuiq-offline-') && key !== CACHE_NAME)
           .map((key) => caches.delete(key))
       )
     )
